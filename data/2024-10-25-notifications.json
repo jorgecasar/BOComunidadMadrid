@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Convenio de 3 de octubre de 2024 entre la Comunidad de Madrid a través de la Consejería de Medio Ambiente, Agricultura e Interior y la Universidad Autónoma de Madrid y la Fundación de la Universidad Autónoma de Madrid, M. P., para la creación de la cátedra “Economía Circular”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución de 11 octubre de 2024, de cese de actividad de las agencias de viajes “Rutas y Senderismo Viajes, S. L.” y “Alcavent, S. L.”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-53.PDF"
