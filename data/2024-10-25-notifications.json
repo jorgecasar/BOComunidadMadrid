@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 3 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda”, Madrid, por la que se dispone la publicación del desistimiento de la licitación del expediente de “Suministro e instalación de diverso equipamiento electromédico (I)”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 3 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda”, Madrid, por la que se dispone la publicación del desistimiento de la licitación del expediente de “Suministro e instalación de diverso equipamiento electromédico (II)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-40.PDF"
     }
