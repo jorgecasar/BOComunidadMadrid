@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución de 11 de octubre de 2024, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato titulado “Servicios del puesto de trabajo digital del usuario de los sistemas de información y comunicaciones de la Comunidad de Madrid (lotes 1, 2 y 4)”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Adenda de 4 de octubre de 2024, de prórroga y modificación del convenio de colaboración en materia de formación del profesorado entre la Comunidad de Madrid, (Consejería de Educación y Juventud) y la entidad Federación de Enseñanza CCOO Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-32.PDF"
