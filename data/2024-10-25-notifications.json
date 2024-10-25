@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4479/2024, de 10 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de ayudas económicas para ampliación de estudios de idiomas, música, danza, arte dramático, diseño, conservación y restauración de bienes culturales y artes plásticas y diseño en el extranjero para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4535/2024, de 10 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los premios relativos al XX Certamen de Coros Escolares de la Comunidad de Madrid correspondiente al curso escolar 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-10.PDF"
     }
