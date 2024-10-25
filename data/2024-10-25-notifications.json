@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4543/2024, de 10 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se concede el Premio de Investigación de la Comunidad de Madrid “Margarita Salas” 2024 a investigadores de menos de cuarenta años a don Jerónimo Rodríguez Beltrán y se dispone un gasto de 21.000 euros para la financiación de dicho premio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4587/2024, de 11 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los premios extraordinarios de la Comunidad de Madrid de Enseñanzas Artísticas Profesionales de Artes Plásticas y Diseño, de Danza y de Música correspondientes al curso académico 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-17.PDF"
     }
