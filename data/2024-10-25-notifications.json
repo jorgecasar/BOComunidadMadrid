@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 14 de octubre de 2024, de la Universidad Autónoma de Madrid, por la que se convocan plazas de Cuerpos de personal docente e investigador funcionario, para su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 16 de octubre de 2024, de la Universidad de Alcalá, por la que se anuncian las convocatorias de concursos para la provisión de plazas de Profesorado Permanente Laboral y Profesorado Temporal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-6.PDF"
