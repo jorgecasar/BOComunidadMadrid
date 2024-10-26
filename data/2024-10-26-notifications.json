@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4539/2024, de 10 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se concede el Premio de Investigación de la Comunidad de Madrid “Julián Marías” 2024 a la carrera científica a don Antonio Cabrales Goitia y se dispone un gasto de 42.000 euros para la financiación de dicho premio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4540/2024, de 10 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se concede el Premio de Investigación de la Comunidad de Madrid “Margarita Salas” 2024 a la carrera científica a don José Luis García López y se dispone un gasto de 42.000 euros para la financiación de dicho premio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-13.PDF"
     }
