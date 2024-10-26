@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 15 de octubre de 2024, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo, de 27 de junio de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 10 de julio), para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 17 de octubre de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso extraordinario de estabilización de empleo temporal para el acceso a plazas de carácter laboral de la categoría profesional de Personal Auxiliar de Servicios (Grupo V, Nivel 1, Área B) de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-4.PDF"
     }
