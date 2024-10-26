@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden 2838/2024, de 11 de octubre, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se aprueban las normas reguladoras del procedimiento de concesión directa de subvenciones a entidades del tercer sector para la realización de formación en competencias digitales a niños en situación de vulnerabilidad, jóvenes extutelados y jóvenes con discapacidad en la Comunidad de Madrid, con cargo al plan de recuperación, transformación y resiliencia (financiado por la Unión Europea-NextGenerationEU), en el marco del programa competencias digitales para la infancia (CODI) y se declara el crédito presupuestario disponible",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Extracto de la Orden 2838/2024, de 11 de octubre, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se aprueban las normas reguladoras del procedimiento de concesión directa de subvenciones a entidades del Tercer Sector para la realización de formación en competencias digitales a niños en situación de vulnerabilidad, jóvenes extutelados y jóvenes con discapacidad en la Comunidad de Madrid, con cargo al Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU, en el marco del Programa Competencias Digitales para la Infancia (CODI), y se declara el crédito presupuestario disponible",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-25.PDF"
     }
