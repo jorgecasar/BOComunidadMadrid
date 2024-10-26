@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 15 de octubre de 2024, de la Gerente del Instituto Regional de Seguridad y Salud en el Trabajo, por la que se conceden, en régimen de concurrencia competitiva simplificada, las subvenciones dirigidas a la reducción de la siniestralidad laboral mediante la mejora de las condiciones de seguridad y salud en el trabajo, Línea 6: Gastos para la promoción de la salud en el trabajo, convocadas para el año 2023 mediante Orden de la Consejería de Economía, Hacienda y Empleo de 10 de agosto de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4479/2024, de 10 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de ayudas económicas para ampliación de estudios de idiomas, música, danza, arte dramático, diseño, conservación y restauración de bienes culturales y artes plásticas y diseño en el extranjero para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-9.PDF"
