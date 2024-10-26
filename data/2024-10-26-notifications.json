@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4541/2024, de 10 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se concede el Premio de Investigación de la Comunidad de Madrid “Miguel Catalán” 2024 a investigadores de menos de cuarenta años a doña Marta Martínez Sanz y se dispone un gasto de 21.000 euros para la financiación de dicho premio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4542/2024, de 10 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se concede el Premio de Investigación de la Comunidad de Madrid “Julián Marías” 2024 a investigadores de menos de cuarenta años a doña Ana Llorens Martín, y se dispone un gasto de 21.000 euros para la financiación de dicho premio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-15.PDF"
     }
