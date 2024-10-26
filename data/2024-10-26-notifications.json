@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Extracto de la Orden 2838/2024, de 11 de octubre, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se aprueban las normas reguladoras del procedimiento de concesión directa de subvenciones a entidades del Tercer Sector para la realización de formación en competencias digitales a niños en situación de vulnerabilidad, jóvenes extutelados y jóvenes con discapacidad en la Comunidad de Madrid, con cargo al Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU, en el marco del Programa Competencias Digitales para la Infancia (CODI), y se declara el crédito presupuestario disponible",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1905/2024, de 17 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se concede subvención al Ayuntamiento de Batres para la mejora de la seguridad, accesibilidad y mantenimiento de las instalaciones deportivas municipales para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-26.PDF"
