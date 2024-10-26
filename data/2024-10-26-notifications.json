@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Ciempozuelos",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-63.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Ciempozuelos",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-64.PDF"
     }
