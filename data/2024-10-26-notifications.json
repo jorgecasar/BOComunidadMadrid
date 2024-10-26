@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1646/2024, de 9 de octubre, de la Consejería de Sanidad, por la que se resuelve la convocatoria de las subvenciones destinadas a asociaciones y otras organizaciones sin ánimo de lucro para el desarrollo de programas de prevención y diagnóstico precoz de VIH/Sida e Infecciones de Transmisión Sexual (ITS) dirigidos a grupos de población de alta prevalencia o especialmente vulnerables a estas enfermedades. Año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 1 de octubre de 2024, de ejecución de infraestructuras de alcantarillado Plan Sanea en el municipio de Santa María de la Alameda, con cargo a cuota suplementaria, entre el Ayuntamiento de Santa María de la Alameda, Canal de Isabel II y Canal de Isabel II, S. A., M. P.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-20.PDF"
