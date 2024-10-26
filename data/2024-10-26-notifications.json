@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Ordenanzas fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/25/BOCM-20241025-56.PDF"
     }
