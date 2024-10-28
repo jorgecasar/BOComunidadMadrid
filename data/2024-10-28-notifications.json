@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Adenda de 14 de octubre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid y el Ayuntamiento de Madrid en materia de vigilancia e inspección del transporte por carretera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/26/BOCM-20241026-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Convenio de 18 de septiembre de 2024, suscrito por la Comunidad de Madrid; Imaginersgen, S. A.; Caixabank Payments & Consumer, E. F. C., E. P., S. A. U., y Global Payments Moneytopay, E. D. E., S. L., para la promoción y dinamización del Carné Joven Comunidad de Madrid, junto con la emisión en su modalidad de tarjeta financiera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/26/BOCM-20241026-17.PDF"
