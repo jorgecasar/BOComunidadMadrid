@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 3 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Colmenar Viejo, para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/26/BOCM-20241026-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 3 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Brunete para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/26/BOCM-20241026-10.PDF"
     }
