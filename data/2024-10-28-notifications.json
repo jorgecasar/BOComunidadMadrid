@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Convenio de 2 de agosto de 2024, entre la Comunidad de Madrid, Unión Interprofesional de la Comunidad de Madrid y la Fundación para el Conocimiento Madrimasd para la organización y celebración del “Día de las Profesiones 2024”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/26/BOCM-20241026-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Convenio de 9 de octubre de 2024, entre la Comunidad de Madrid y Radio Televisión Madrid S. A. U., para la colaboración en la realización de la “Semana de los pueblos con vida”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/26/BOCM-20241026-3.PDF"
     }
