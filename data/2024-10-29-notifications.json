@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Convenio de 14 de octubre de 2024, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Aldea del Fresno para la adhesión de información relativa a su patrimonio de suelo disponible al portal de suelo de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 14 de octubre de 2024, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Sevilla la Nueva, para la adhesión de información relativa a su patrimonio de suelo disponible al Portal de Suelo de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-32.PDF"
     }
