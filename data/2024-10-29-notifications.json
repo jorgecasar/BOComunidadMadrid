@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Personal: Nombramiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Ambite",
       "description": "Otros anuncios: Candidaturas juez de paz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-47.PDF"
