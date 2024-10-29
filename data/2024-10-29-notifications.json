@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Convenio de 14 de octubre de 2024, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Sevilla la Nueva, para la adhesión de información relativa a su patrimonio de suelo disponible al Portal de Suelo de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Adenda de 9 de octubre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid (Consejería de Justicia, Interior y Víctimas) y el Ayuntamiento de Paracuellos de Jarama para establecer un protocolo de actuación de la agrupación municipal de voluntarios de protección civil en el ámbito de la extinción de incendios y salvamento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-33.PDF"
     }
