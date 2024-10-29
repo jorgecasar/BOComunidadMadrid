@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 22 de octubre de 2024, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en el proceso selectivo para el ingreso en el Cuerpo de Subinspectores de Hacienda, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de Medidas Urgentes para la Reducción de la Temporalidad en el Empleo Público, se publica la relación de personas excluidas y se anuncia la apertura del plazo de acreditación de los méritos alegados por las personas participantes en la autobaremación formulada en sus solicitudes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 21 de octubre de 2024, de la Dirección General de Recursos Humanos, por la que se modifican los listados de aspirantes seleccionadas en determinadas especialidades de los procedimientos selectivos para ingreso a Cuerpos Docentes convocados por Resolución de 20 de diciembre de 2022 y se anuncia la fecha de exposición de los mismos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-8.PDF"
