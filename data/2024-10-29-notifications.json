@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 15 de octubre de 2024, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe Ambiental Estratégico del Plan Especial de Protección y Mejora de la Infraestructura Verde Bosque Metropolitano Lote 3. Anillo Verde del Sureste en el término municipal de Madrid, promovido por el Ayuntamiento de Madrid. (Expediente: 26-UB2-00072.4/2023, SIA 23/070)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 14 de octubre de 2024, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Aldea del Fresno para la adhesión de información relativa a su patrimonio de suelo disponible al portal de suelo de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-31.PDF"
     }
