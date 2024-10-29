@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 4882/2024, de 23 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se convocan ayudas para la implantación del programa de auxiliares de danza en centros educativos madrileños a desarrollar en el curso académico 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1370/2024, de 24 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de ayudas a empresas audiovisuales para el desarrollo de proyectos audiovisuales en la Comunidad de Madrid en 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-17.PDF"
