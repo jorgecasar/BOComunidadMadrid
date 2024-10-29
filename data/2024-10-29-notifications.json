@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 17 de octubre de 2024, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria de concurso específico de méritos para la provisión de puestos de trabajo de personal funcionario de Administración y Servicios adscritos a los Subgrupos A1, A2, C1 y C2 en esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 16 de octubre de 2024, de la Universidad Rey Juan Carlos, por la que se nombran funcionarios y funcionarias de carrera de la Escala Técnica Superior de Administradores de la Universidad Rey Juan Carlos, grupo A, subgrupo A1",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-13.PDF"
