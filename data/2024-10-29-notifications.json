@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ambite",
-      "description": "Otros anuncios: Candidaturas juez de paz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Casarrubuelos",
       "description": "Organización y funcionamiento: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-48.PDF"
