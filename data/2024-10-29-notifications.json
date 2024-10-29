@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cenicientos",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cobeña",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-51.PDF"
