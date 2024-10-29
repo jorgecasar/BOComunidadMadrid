@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 24 de octubre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan subvenciones en el año 2024 para la realización del programa público de empleo-formación de la Comunidad de Madrid de Cualificación Profesional para personas jóvenes con baja cualificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Extracto de la Orden 4882/2024, de 23 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se convocan ayudas para la implantación del programa de auxiliares de danza en centros educativos madrileños a desarrollar en el curso académico 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-16.PDF"
