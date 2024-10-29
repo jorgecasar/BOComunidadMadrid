@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Casarrubuelos",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cenicientos",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-50.PDF"
