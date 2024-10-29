@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuente el Saz de Jarama",
-      "description": "Organización y funcionamiento: Reglamento Honores y Distinciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Griñón",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-53.PDF"
