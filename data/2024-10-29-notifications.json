@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Orden de 16 de octubre de 2024, del Consejero de Presidencia, Justicia y Administración Local, por la que se resuelve la convocatoria aprobada mediante Orden de 25 de junio de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de julio de 2024), para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 15 de octubre de 2024, del proceso selectivo extraordinario de estabilización de empleo temporal para la cobertura de una plaza de personal laboral de carácter indefinido de la categoría profesional de Titulado Medio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-2.PDF"
     }
