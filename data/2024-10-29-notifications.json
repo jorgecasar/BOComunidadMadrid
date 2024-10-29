@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 21 de octubre de 2024, de la Dirección General de Recursos Humanos, por la que se modifican los listados de aspirantes seleccionadas en determinadas especialidades de los procedimientos selectivos para ingreso a Cuerpos Docentes convocados por Resolución de 20 de diciembre de 2022 y se anuncia la fecha de exposición de los mismos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 16 de octubre de 2024, del Consejero de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Vivienda, Transportes e Infraestructuras, por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-9.PDF"
