@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 15 de octubre de 2024, de la Gerencia del Hospital Universitario “Príncipe de Asturias”, de la convocatoria del contrato de suministros: Reactivos y fungibles para reproducción asistida para el Hospital Universitario “Príncipe de Asturias”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 15 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de la prórroga del contrato de “Suministro diverso material de neurocirugía en el Hospital Universitario de Getafe”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/28/BOCM-20241028-26.PDF"
     }
