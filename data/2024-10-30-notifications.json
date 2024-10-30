@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 24 de octubre de 2024, de adjudicación del contrato titulado “Servicio de revisión general/reparación de equipos de producción de aire de las series 3000 y 9000” (expediente 6012400138)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 25 de octubre de 2024, de adjudicación del contrato titulado “Servicio de soporte al mantenimiento de las instalaciones fijas de señalización ferroviaria de tecnología Siemens-Dimetronic” (expediente 6012400164)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-21.PDF"
     }
