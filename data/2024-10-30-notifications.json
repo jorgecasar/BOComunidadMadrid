@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 23 de octubre de 2024, de la Universidad Rey Juan Carlos, por la que se modifica la Oferta de Empleo Público de Personal Docente e Investigador derivada de la tasa específica prevista en la Ley 31/2022, previamente aprobada por Resolución de 21 de diciembre de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 16 de octubre de 2024, de la Directora General de Comercio, Consumo y Servicios, por la que se acuerda aplicar la tramitación de urgencia al procedimiento administrativo iniciado en virtud de la Orden de 26 de julio de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan las ayudas a proyectos de inversión para la modernización, digitalización, innovación tecnológica de las pequeñas y medianas empresas y empresarios individuales del sector comercial, de servicios y artesano de la Comunidad de Madrid para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-10.PDF"
