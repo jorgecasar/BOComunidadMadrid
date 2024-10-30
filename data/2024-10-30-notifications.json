@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden 2915/2024, de 16 de octubre, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se declara el importe del crédito presupuestario disponible para el procedimiento de concesión directa de ayudas económicas de pago único por nacimiento o adopción múltiple en la Comunidad de Madrid para el ejercicio 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 2916/2024, de 16 de octubre, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se declara el importe del crédito presupuestario disponible para la concesión directa de ayudas económicas de pago mensual por gestación, nacimiento de hijo o adopción de menores en la Comunidad de Madrid en el ejercicio 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-14.PDF"
     }
