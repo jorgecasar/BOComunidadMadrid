@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Extracto de la Orden de 24 de octubre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por las que se convocan subvenciones para el año 2024 para la concesión de las ayudas de los programas de ayuda al alquiler de vivienda y de ayuda a las personas jóvenes y para contribuir al reto demográfico",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 16 de octubre de 2024, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se publican las subvenciones concedidas durante el tercer trimestre de 2024 por la Dirección General de Agricultura, Ganadería y Alimentación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-12.PDF"
