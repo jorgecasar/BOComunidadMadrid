@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 11 de octubre de 2024, del Rector de la Universidad Complutense de Madrid, por la que se convoca la I Edición de los Premios a Ideas de emprendimiento en la Facultad de CC. Físicas, para promover iniciativas emprendedoras en dicha Facultad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 2 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Colmenar de Oreja, para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-16.PDF"
