@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 16 de octubre de 2024, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se publican las subvenciones concedidas durante el tercer trimestre de 2024 por la Dirección General de Agricultura, Ganadería y Alimentación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 2915/2024, de 16 de octubre, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se declara el importe del crédito presupuestario disponible para el procedimiento de concesión directa de ayudas económicas de pago único por nacimiento o adopción múltiple en la Comunidad de Madrid para el ejercicio 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-13.PDF"
