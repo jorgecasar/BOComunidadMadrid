@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 7 de octubre de 2024, de la Universidad Autónoma de Madrid, por la que se convocan plazas de Profesor Permanente Laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 17 de octubre de 2024, de la Universidad Autónoma de Madrid, por la que se convoca plaza de Profesor Permanente Laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/29/BOCM-20241029-8.PDF"
     }
