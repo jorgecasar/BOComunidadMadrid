@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Orden de 17 de octubre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se modifica la Orden de 5 de abril de 2024, por la que se aprueba el Plan Estratégico de Subvenciones para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 3713/2024, de 24 de octubre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se modifica la línea de subvención 75 del Anexo 1, del Plan Estratégico de Subvenciones de la Consejería para el período 2024-2027, aprobado mediante Orden 396/2024, de 2 de febrero",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-21.PDF"
