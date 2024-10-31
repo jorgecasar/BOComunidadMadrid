@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 3613/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se establece la convocatoria para 2024 de la fase de preparación de proyectos de las ayudas a la cooperación de grupos operativos de la Asociación Europea para la Innovación (AEI) en materia de productividad y sostenibilidad agrícolas en la Comunidad de Madrid, cofinanciadas por el Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y la Administración General del Estado, en el marco del Plan Estratégico de la Política Agraria Común para el período 2023-2027",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1859/2024, de 14 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve con carácter definitivo la convocatoria del año 2024 de ayudas a titulares de salas de exhibición cinematográfica en relación con el componente C.25.I1, con cargo al “Plan de Recuperación, Transformación y Resiliencia” (financiado por la Unión Europea) NextGenerationEU",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-23.PDF"
