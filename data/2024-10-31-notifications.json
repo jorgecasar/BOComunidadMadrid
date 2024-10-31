@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 18 de octubre de 2024, de la Gerencia de la Universidad de Alcalá, por la que se publica una modificación de la relación de puestos de trabajo de personal técnico, de gestión y de administración y servicios funcionario de este organismo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4797/2024, de 23 de octubre, de la Consejería de Educación, Ciencia y Universidades, por la que se abre un nuevo plazo de presentación de solicitudes en el marco del procedimiento de concesión directa de las becas de comedor escolar, durante el período lectivo del curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-16.PDF"
