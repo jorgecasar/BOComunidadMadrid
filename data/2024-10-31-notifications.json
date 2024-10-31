@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 28 de octubre de 2024, de adjudicación del contrato titulado “Servicio profesional de una central de medios de publicidad para la difusión de las campañas de Metro de Madrid” (expediente 6012400216)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 28 de octubre de 2024, de adjudicación del contrato titulado “Servicio de reacondicionamiento e integración de 9 pozos de ventilación de línea 8, 15 pozos de ventilación de línea 10 e integración de varios de otras líneas” (expediente 6012400026)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-32.PDF"
     }
