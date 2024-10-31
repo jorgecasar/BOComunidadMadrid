@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 22 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario Fundación Alcorcón, por la que se convocan pruebas selectivas para el acceso a la condición de personal laboral fijo del Hospital Universitario Fundación Alcorcón del Servicio de Salud de la Comunidad de Madrid en las categorías profesionales, turnos y cupos que se especifican en el anexo de esta Resolución, derivadas de las Ofertas de Empleo Público 2022 y 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 14 de octubre de 2024, de la Universidad Complutense de Madrid, por la que se nombra a D. Marcos García Díez Profesor Titular de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-14.PDF"
