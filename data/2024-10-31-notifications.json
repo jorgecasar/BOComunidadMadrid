@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Convenio de 15 de octubre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo y Comisiones Obreras de Madrid, para la información, orientación y apoyo en la inscripción en el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías no formales e informales en el ámbito de la Comunidad de Madrid en el marco del componente 20 “Plan Estratégico de Impulso de la Formación Profesional”, del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Convenio de 15 de octubre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la Agencia de Colocación Móstoles Desarrollo Promoción Económica, S. A., para la información, orientación y apoyo en la inscripción en el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías no formales e informales en el ámbito de la Comunidad de Madrid en el marco del componente 20 “Plan Estratégico de Impulso de la Formación Profesional”, del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-27.PDF"
     }
