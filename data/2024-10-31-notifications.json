@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Adenda de 17 de octubre de 2024, de prórroga del convenio entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Comisión Islámica de España para la asistencia religiosa islámica en los centros hospitalarios del Servicio Madrileño de Salud",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Convenio de 17 de octubre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la fundación segunda parte, para mejorar la calidad de vida de los pacientes con daño neurológico mediante un programa de actividad físico-deportiva en los centros sanitarios del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-34.PDF"
     }
