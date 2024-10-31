@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 4 de octubre de 2024, de la Dirección General de Transición Energética y Economía Circular, sobre autorización administrativa y aprobación del proyecto para la instalación de una línea subterránea de 220 kV denominada Melancólicos-Ventas del Batán ubicada en Paseo Melancólicos, número 12, en el término municipal de Madrid, solicitada por Red Eléctrica de España, S. A. U.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 4 de octubre de 2024, de la Dirección General de Transición Energética y Economía Circular, sobre autorización administrativa y aprobación del proyecto para la instalación de 1 línea subterránea de 220 kV en doble circuito denominada San Fernando-Puente San Fernando ubicada en Calle Albañiles, sin número, en el término municipal de San Fernando de Henares, solicitada por Red Eléctrica de España, S. A. U.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-50.PDF"
     }
