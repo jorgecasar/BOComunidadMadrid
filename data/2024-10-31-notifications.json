@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 28 de octubre de 2024, de adjudicación del contrato titulado “Servicio de reacondicionamiento e integración de 9 pozos de ventilación de línea 8, 15 pozos de ventilación de línea 10 e integración de varios de otras líneas” (expediente 6012400026)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Adenda de 17 de octubre de 2024, de prórroga del convenio entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Comisión Islámica de España para la asistencia religiosa islámica en los centros hospitalarios del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-33.PDF"
