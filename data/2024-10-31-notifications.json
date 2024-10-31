@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 14 de octubre de 2024, de la Universidad Complutense de Madrid, por la que se nombra a D. Marcos García Díez Profesor Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 18 de octubre de 2024, de la Gerencia de la Universidad de Alcalá, por la que se publica una modificación de la relación de puestos de trabajo de personal técnico, de gestión y de administración y servicios funcionario de este organismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-15.PDF"
