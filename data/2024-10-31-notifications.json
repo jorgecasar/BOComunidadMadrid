@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4797/2024, de 23 de octubre, de la Consejería de Educación, Ciencia y Universidades, por la que se abre un nuevo plazo de presentación de solicitudes en el marco del procedimiento de concesión directa de las becas de comedor escolar, durante el período lectivo del curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4839/2024, de 24 de octubre, de la Consejería de Educación, Ciencia y Universidades, por la que se declaran los expedientes excluidos en relación con la Orden 4879/2024, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas para el estudio de Bachillerato en la Comunidad de Madrid para el curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/30/BOCM-20241030-17.PDF"
     }
