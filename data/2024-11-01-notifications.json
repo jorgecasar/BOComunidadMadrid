@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 18 de octubre de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso selectivo para ingreso en el Cuerpo Superior de Inspección Sanitaria, Escala de Farmacéuticos de Inspección Sanitaria, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 22 de octubre de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso extraordinario de estabilización de empleo temporal del personal funcionario para el ingreso en el Cuerpo de Técnicos Superiores Especialistas, Escala Superior de Empleo, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-7.PDF"
     }
