@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1995/2024, de 28 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se amplía el plazo máximo para la constitución de los avales exigidos establecidos en la Orden 396/2024, de 22 de abril, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a empresas audiovisuales para la producción de largometrajes en la Comunidad de Madrid en 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 16 de octubre de 2024, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se anuncia la formalización del contrato de servicios denominado “Servicios de depósito, custodia y gestión del Archivo General de Vehículos de la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-21.PDF"
