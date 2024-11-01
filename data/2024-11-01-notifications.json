@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cercedilla",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Coslada",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-46.PDF"
