@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 18 de octubre de 2024, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de \"Química Inorgánica\", a don Alberto Hernán-Gómez Robledo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 16 de septiembre de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a doña María Gema Medina Gómez como Catedrática de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-15.PDF"
