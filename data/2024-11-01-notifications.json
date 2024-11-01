@@ -4,14 +4,6 @@
     "params": {
       "title": "Alcorcón",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcorcón",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-41.PDF"
     }
   },
