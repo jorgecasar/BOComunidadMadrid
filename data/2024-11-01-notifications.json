@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 18 de octubre de 2024, de formalización del contrato titulado “Ampliación y mantenimiento de la plataforma de supervisión y control de la VPN de Metro de Madrid” (expediente 6012400203) (contrato 7724000200-7224000550)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 28 de octubre de 2024, de adjudicación del contrato titulado “Servicio de adaptación por obsolescencia del sistema de protección del equipamiento eléctrico de corriente continua correspondiente al material móvil de la serie 2000-B” (expediente 6012400018)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-24.PDF"
     }
