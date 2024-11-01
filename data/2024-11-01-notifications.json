@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Decreto 32/2024, de 30 de octubre, de la Presidenta de la Comunidad de Madrid, por el que se declara luto oficial en la Comunidad de Madrid por las personas fallecidas durante la DANA iniciada el 29 de octubre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Decreto 99/2024, de 30 de octubre, del Consejo de Gobierno, por el que se establecen los criterios técnicos e higiénico-sanitarios de las piscinas y parques acuáticos de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-2.PDF"
