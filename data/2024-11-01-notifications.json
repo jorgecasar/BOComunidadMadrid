@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4601/2024, de 18 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada mediante Orden 2213/2024, de 16 de mayo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 28 de mayo de 2024) de la Consejería de Educación, Ciencia y Universidades, para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4625/2024, de 13 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada por Orden 3411/2024, de 29 de julio, del Consejero de Educación, Ciencia y Universidades (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de agosto de 2024), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-9.PDF"
     }
