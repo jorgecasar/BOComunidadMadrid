@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4467/2024, de 18 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la implantación de enseñanzas universitarias de máster en la Universidad Autónoma de Madrid, Universidad Antonio de Nebrija y Universidad Europea de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4648/2024, de 18 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se corrigen los errores materiales detectados en la Orden 3234/2024, de 18 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se establece el procedimiento para la realización del prácticum de los alumnos de los grados de Magisterio, Pedagogía y Psicología, Máster Universitario en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas y de la formación equivalente, durante el curso 2024-2025 en centros educativos no universitarios de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-18.PDF"
     }
