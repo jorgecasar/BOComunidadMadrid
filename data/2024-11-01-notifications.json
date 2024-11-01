@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4668/2024, de 18 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se establecen los complementos económicos de los coordinadores del programa Accede de los centros privados concertados para el curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1995/2024, de 28 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se amplía el plazo máximo para la constitución de los avales exigidos establecidos en la Orden 396/2024, de 22 de abril, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a empresas audiovisuales para la producción de largometrajes en la Comunidad de Madrid en 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-20.PDF"
