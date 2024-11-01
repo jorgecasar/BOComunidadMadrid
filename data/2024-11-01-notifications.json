@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Leganés",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Majadahonda",
       "description": "Régimen económico: Ordenanzas fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-58.PDF"
