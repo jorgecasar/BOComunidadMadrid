@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 16 de septiembre de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a doña María Gema Medina Gómez como Catedrática de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Extracto de la Orden de la Consejería de Presidencia, Justicia y Administración Local, por la que se amplía en 16.000.000 de euros los créditos presupuestarios disponibles, consignados en la Orden de 3 de julio de 2024, de la Consejería de Presidencia, Justicia y Administración Local, por la que se declara el importe del crédito presupuestario disponible para 2024 para financiar las subvenciones de concesión directa a municipios de menos de 20.000 habitantes para la ejecución de las actuaciones de embellecimiento viario municipal para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-16.PDF"
