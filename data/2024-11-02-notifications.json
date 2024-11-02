@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Convenio de 10 de octubre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Presidencia, Justicia y Administración Local, y la entidad de pago Nickel, para la colaboración en la prestación de servicios financieros en municipios rurales de hasta 3.000 habitantes de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/01/BOCM-20241101-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Convenio de 18 de octubre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la Asociación de Usuarios de SAP en España (AUSAPE), para la realización de actuaciones en materia de formación, difusión y divulgación del ecosistema SAP en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/01/BOCM-20241101-3.PDF"
