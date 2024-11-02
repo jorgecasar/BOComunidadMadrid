@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 1 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Arganda del Rey para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/01/BOCM-20241101-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 8 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Arroyomolinos para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/01/BOCM-20241101-5.PDF"
     }
