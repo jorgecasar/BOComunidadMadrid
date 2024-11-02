@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 14 de octubre de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa FCC Medio Ambiente, S. A. U., con su personal adscrito al servicio de limpieza viaria y recogida de residuos sólidos del municipio de Las Rozas de Madrid (código número 28103921012024)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/01/BOCM-20241101-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Convenio de 10 de octubre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Presidencia, Justicia y Administración Local, y la entidad de pago Nickel, para la colaboración en la prestación de servicios financieros en municipios rurales de hasta 3.000 habitantes de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/01/BOCM-20241101-2.PDF"
