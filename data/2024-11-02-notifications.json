@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 11 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de El Boalo, para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/01/BOCM-20241101-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 14 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Alcorcón, para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/01/BOCM-20241101-11.PDF"
     }
