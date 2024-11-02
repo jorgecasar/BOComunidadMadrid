@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 11 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de San Sebastián de los Reyes, para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/01/BOCM-20241101-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Adenda de 11 de octubre de 2024, de prórroga y modificación del convenio de colaboración en materia de formación del profesorado entre la Comunidad de Madrid (Consejería de Educación y Juventud) y la Universidad Politécnica de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/01/BOCM-20241101-9.PDF"
     }
