@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 8 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Arroyomolinos para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/01/BOCM-20241101-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 8 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Rivas-Vaciamadrid para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/01/BOCM-20241101-6.PDF"
     }
