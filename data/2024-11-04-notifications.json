@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 22 de octubre de 2024, del convenio marco de colaboración empresarial en actividades de interés general, entre la Fundación Margarita Salas y Metro de Madrid, S. A.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/02/BOCM-20241102-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Adenda de 15 de octubre de 2024, de modificación del convenio entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Deportes de Parálisis Cerebral y Daño Cerebral Adquirido para el desarrollo del Programa “Activa tu capacidad” 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/02/BOCM-20241102-4.PDF"
