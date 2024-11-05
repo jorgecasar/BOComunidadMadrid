@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución de 22 de octubre de 2024, del Consejero-Delegado de la Empresa Pública Madrid Cultura y Turismo, S. A. U., por la que se convoca el proceso selectivo de la Empresa Madrid Cultura y Turismo, S. A. U., para la estabilidad en el empleo, tasa de estabilización específica",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 14 de octubre de 2024, de la Secretaria General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se publican las subvenciones concedidas durante el tercer trimestre de 2024 por la Dirección General de Reequilibrio Territorial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-24.PDF"
