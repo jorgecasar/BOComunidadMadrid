@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 22 de octubre de 2024, del Vicerrectorado de Estudiantes de la Universidad Complutense de Madrid, por la que se convoca la concesión de premios a los estudiantes de primero de grado o doble grado matriculados en el curso 2024-25 en centros UCM, que hayan resultado ganadores de las fases finales de olimpiadas científico-académicas en 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Acuerdo 4/Pleno de 15 de octubre de 2024 por el que se aprueba una delegación de competencias del pleno del Consejo Social de la Universidad Autónoma de Madrid en la Comisión de Relaciones con la Sociedad del Consejo Social",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-33.PDF"
