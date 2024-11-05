@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Convenio de 10 de octubre de 2024, entre el Consorcio Regional de Transportes Públicos Regulares de Madrid y Renfe Viajeros Sociedad Mercantil Estatal, S. A., para la utilización de los abonos turísticos en la red de Cercanías de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 21 de octubre de 2024, de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud, por la que se hace pública la formalización del contrato denominado “Adquisición de expositores de vacunas con destino a los Centros Sanitarios de Atención Primaria del Servicio Madrileño de Salud”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-39.PDF"
