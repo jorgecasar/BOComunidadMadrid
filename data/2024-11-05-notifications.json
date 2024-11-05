@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 16 de octubre de 2024, de la Agencia de Seguridad y Emergencias Madrid 112, por la que se dispone la publicación del anuncio previo relativo al contrato “Suministro de un sistema para la activación automática de alarma en los parques de bomberos de la Comunidad de Madrid”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Adenda de 18 de octubre de 2024, de modificación y prórroga para el período 1 de diciembre de 2024 a 30 de noviembre de 2025, ambos inclusive, del convenio entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Alcorcón, para articular la atención a personas con discapacidad intelectual en centro ocupacional",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-48.PDF"
