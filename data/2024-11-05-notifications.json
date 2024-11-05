@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Orden de 18 de octubre de 2024, de la Consejería de Vivienda, Trasportes e Infraestructuras, por la que se declara la pérdida del derecho al cobro de la ayuda del Plan Regional de Ascensores de la Comunidad de Madrid, previstas en la Orden 1581/2023, de 12 de mayo, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se establecen las bases reguladoras para su concesión, y en la Orden 1764/2023, de 24 de mayo, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se convocan dichas ayudas, a los beneficiarios con concesión condicionada en los que se ha cumplido la condición resolutoria de la concesión",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 29 de octubre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se reconoce la condición de beneficiarios y se publica el listado definitivo de solicitantes excluidos en el proceso de concurrencia competitiva para la obtención de las subvenciones al alquiler de vivienda en la Comunidad de Madrid convocadas para el año 2023 mediante Orden de 11 de octubre de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-27.PDF"
     }
