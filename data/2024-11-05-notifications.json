@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 22 de octubre de 2024, de la Universidad Complutense de Madrid, por la que se convocan Becas UCM de colaboración de estudiantes en Departamentos e Institutos universitarios para el curso académico 2024-25",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Extracto de la Resolución de 22 de octubre de 2024, del Vicerrectorado de Estudiantes de la Universidad Complutense de Madrid, por la que se convoca la concesión de premios a los estudiantes de primero de grado o doble grado matriculados en el curso 2024-25 en centros UCM, que hayan resultado ganadores de las fases finales de olimpiadas científico-académicas en 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-32.PDF"
     }
