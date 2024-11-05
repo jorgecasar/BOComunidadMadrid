@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución de 21 de octubre de 2024, de la Secretaría General Técnica de la Consejería de Digitalización, por la que se dispone la publicación en el “perfil del contratante”, del Portal de Contratación de la Comunidad de Madrid, de la modificación del contrato de “Instalación del software y hardware necesario de gestión de turnos, circulación de pacientes y cartelería digital para los Centros de Atención Primaria de la Comunidad de Madrid”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 22 de octubre de 2024, de la Secretaría General Técnica de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del lote 1 del contrato de “Servicios de mantenimiento de las instalaciones semafóricas y luminosas, del alumbrado exterior y del equipamiento de control de la red de carreteras de la Comunidad de Madrid. Años 2022-2025”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-36.PDF"
