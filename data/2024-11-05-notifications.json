@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 22 de octubre de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se nombra personal estatutario fijo en la categoría de Enfermero/a del Servicio de Salud de la Comunidad de Madrid a doña Zaida Lanza Sánchez",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 10 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario de “La Princesa” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Sección de Neurología (Atención Ambulatoria y Coordinación de Calidad) en este centro asistencial para su cobertura mediante nombramiento provisional",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-18.PDF"
     }
