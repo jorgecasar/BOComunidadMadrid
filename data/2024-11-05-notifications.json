@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 1763/2024, de 21 de octubre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de carrera de naturaleza laboral vacantes en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 22 de octubre de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se nombra personal estatutario fijo en la categoría de Enfermero/a del Servicio de Salud de la Comunidad de Madrid a doña Zaida Lanza Sánchez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-17.PDF"
     }
