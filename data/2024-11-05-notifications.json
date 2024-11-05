@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 22 de octubre de 2024, de la Dirección General de Recursos Humanos, por la que se convoca concurso de traslados de ámbito estatal para funcionarios de los Cuerpos de Inspectores al Servicio de la Administración Educativa e Inspectores de Educación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1763/2024, de 21 de octubre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de carrera de naturaleza laboral vacantes en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-16.PDF"
