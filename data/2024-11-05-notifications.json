@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Acuerdo 4/Pleno de 15 de octubre de 2024 por el que se aprueba una delegación de competencias del pleno del Consejo Social de la Universidad Autónoma de Madrid en la Comisión de Relaciones con la Sociedad del Consejo Social",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 15 de octubre de 2024, de la Directora General de Recursos Humanos y Relaciones con la Administración de Justicia, por la que se hace pública la notificación, de 10 de julio de 2024, de la Encargada del Registro de Fundaciones, por la que se pone en conocimiento que se ha practicado en este Registro la inscripción segunda en Tomo CLXV (folios 420-421), relativa a la declaración de extinción de la Fundación Delfina",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-34.PDF"
