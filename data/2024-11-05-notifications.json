@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Extracto de la Orden de 22 de octubre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se convocan subvenciones para la ejecución de obras de mejora o rehabilitación de edificios de uso predominante residencial para vivienda previstas en el Programa 1 –de ayuda a las actuaciones de rehabilitación a nivel de barriodel Real Decreto 853/2021, de 5 de octubre, y en el marco de C02.I01 del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU, en el entorno residencial de rehabilitación programada de “Residencial. Fase I”, en el municipio de Nuevo Baztán",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1966/2024, de 25 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se conceden subvenciones a los Ayuntamientos de municipios de la Comunidad de Madrid de 2.500 a 20.000 habitantes, para el mantenimiento y mejora de las instalaciones deportivas municipales para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-30.PDF"
