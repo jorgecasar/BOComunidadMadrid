@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 24 de octubre de 2024, del Director General de Suelo, por la que se hace pública la Orden 3461/2024, de 18 de octubre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se declara urgente la ocupación de los bienes y derechos afectados por el “Proyecto de la Arteria Norte, para suministro de agua potable al sistema general aeroportuario de Madrid-Barajas”, en los términos municipales de Paracuellos de Jarama, San Sebastián de los Reyes y Alcobendas, y se convoca a los interesados al levantamiento de las actas previas a la ocupación. Expediente número 427",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 16 de octubre de 2024, de la Agencia de Seguridad y Emergencias Madrid 112, por la que se dispone la publicación del anuncio previo relativo al contrato “Suministro de un sistema para la activación automática de alarma en los parques de bomberos de la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-47.PDF"
     }
