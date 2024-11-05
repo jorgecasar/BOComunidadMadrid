@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Orden de 29 de octubre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se reconoce la condición de beneficiarios y se publica el listado definitivo de solicitantes excluidos en el proceso de concurrencia competitiva para la obtención de las subvenciones al alquiler de vivienda en la Comunidad de Madrid convocadas para el año 2023 mediante Orden de 11 de octubre de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 28 de octubre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se aprueba el segundo listado de requeridos de cobro en el proceso de concesión directa de las ayudas a las personas arrendatarias en situación de vulnerabilidad sobrevenida, previsto en el Real Decreto 42/2022, de 18 de enero, por el que se regula el Bono de Alquiler Joven y el Plan Estatal para el acceso a la vivienda 2022-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/04/BOCM-20241104-28.PDF"
     }
