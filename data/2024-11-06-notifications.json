@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Convenio de colaboración interadministrativo de 18 de octubre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales y la Agencia para la Administración Digital, y la Mancomunidad Intermunicipal “La Encina” para la implantación y desarrollo de la Historia Social Única, en el marco del Sistema de Información de Servicios Sociales de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Convenio de colaboración interadministrativo de 18 de octubre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y la Agencia para la Administración Digital y el Ayuntamiento de Pozuelo de Alarcón para la implantación y desarrollo de la Historia Social Única, en el marco del Sistema de Información de Servicios Sociales de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-44.PDF"
     }
