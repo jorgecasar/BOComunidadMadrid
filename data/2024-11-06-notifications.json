@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 8 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de fecha 4 de diciembre de 2023 de un puesto de Jefe/a de Sección de Radiodiagnóstico, Radiología Pediátrica",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 8 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe/a de Sección de Medicina Interna, Enfermedades Inmunomediadas en ese centro asistencial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-11.PDF"
     }
