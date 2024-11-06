@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Padrón edificios inspección técnica",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Licencias: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-51.PDF"
     }
