@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 10 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda” del Servicio Madrileño de Salud, por la que se publica la relación provisional de aspirantes admitidos/as y excluidos/as al proceso de provisión convocado para la cobertura de un puesto de Jefe/a de Sección de Medicina Intensiva (Perfil Neurocrítico/Trauma Grave) en ese centro asistencial mediante nombramiento provisional",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 8 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario Clínico “San Carlos” del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de fecha 29 de enero de 2024, de un puesto de Jefe/a de Sección de Cirugía Ortopédica y Traumatología",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-14.PDF"
     }
