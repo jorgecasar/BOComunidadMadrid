@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Algete",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arganda del Rey",
       "description": "Licencias: Roberto Muñoz Díez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-56.PDF"
