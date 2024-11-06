@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4757/2024, de 17 de octubre, por la que se modifican los conciertos educativos de determinados centros docentes privados aprobados por la Orden 3324/2024, de 22 de julio, del Consejero de Educación, Ciencia y Universidades",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1998/2024, de 30 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se amplía el plazo de justificación previsto en la Orden 249/2024, de 13 de marzo, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a empresas privadas para realizar proyectos de música en 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-26.PDF"
