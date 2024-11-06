@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución 687/2024, de 31 de octubre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se aprueban y declaran las listas provisionales de la Fase de Concurso o valoración de méritos de los perfiles P02 Consultor de Gestión, P04 Técnico Administrativo y de Gestión y P05 Técnico Administrativo y de Gestión del proceso selectivo convocado mediante Resolución 599/2023, de 23 de octubre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 259, del 31 de octubre de 2023)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4655/2024, de 18 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada mediante Orden 2056/2024, de 3 de mayo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 20 de mayo) para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en esta Consejería",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/05/BOCM-20241105-4.PDF"
