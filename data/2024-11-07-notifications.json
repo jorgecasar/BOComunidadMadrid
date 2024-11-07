@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Digitalización",
-      "description": "Convenio de 10 de octubre de 2024, entre la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales y la Consejería de Digitalización de la Comunidad de Madrid, en materia de utilización de los recursos humanos y materiales de las Jefaturas Provinciales de Inspección de Telecomunicaciones del Ministerio para la Transformación Digital y de la Función Pública",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Digitalización",
       "description": "Resolución de 23 de octubre de 2024, de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de suministro “Mantenimiento y soporte del producto GPT para centros dependientes de la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-26.PDF"
     }
