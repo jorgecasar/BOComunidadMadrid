@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Convenio de 16 de octubre de 2024, entre la Comunidad de Madrid y la Cámara Oficial de Comercio, Industria y Servicios de Madrid para la formalización por concesión directa de una subvención para el fomento de la igualdad de oportunidades y la corresponsabilidad en las empresas madrileñas, para el año 2024, cofinanciado al 40 % por el programa FSE+ 2021-2027 de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Convenio de colaboración de 23 de octubre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales y Fundación “la Caixa”, para el desarrollo del programa de personas mayores durante los años 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-40.PDF"
     }
