@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 25 de octubre de 2024, del Director General de Emergencias, por la que se da publicidad al calendario, programa y regulación del curso selectivo, elaborado por el Servicio de Formación del Cuerpo de Bomberos para los funcionarios D. Javier Díaz Sánchez y D. Óscar Morán Alonso, en cumplimiento de lo establecido en la Orden 2039/2019, de 14 de junio, de la Vicepresidencia, Consejería de Presidencia y Portavocía del Gobierno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Anuncio de 24 de octubre de 2024, por el que se convocan las bases del procedimiento de selección para cubrir un puesto indefinido en la Fundación de la Universidad Autónoma de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-12.PDF"
