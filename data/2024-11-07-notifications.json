@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución de 23 de octubre de 2024, de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de suministro “Mantenimiento y soporte del producto GPT para centros dependientes de la Comunidad de Madrid”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 23 de octubre de 2024, del Director-Gerente de la Agencia de Vivienda Social de la Comunidad de Madrid, por la que se hace pública la licitación del contrato denominado “Suministro en régimen de arrendamiento financiero sin opción a compra de 14 vehículos industriales, asegurados a todo riesgo, incluidos todos los mantenimientos, permisos y licencias para su circulación”, a adjudicar por procedimiento abierto con pluralidad de criterios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-27.PDF"
