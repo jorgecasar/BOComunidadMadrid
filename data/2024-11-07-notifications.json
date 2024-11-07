@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 23 de octubre de 2024, de la Universidad Politécnica de Madrid, por la que se anuncia convocatoria pública de concurso de traslado para cubrir plazas vacantes en la relación de puestos de trabajo de Personal Técnico, de Gestión y de Administración y Servicios Laboral de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 23 de octubre de 2024, de la Universidad Politécnica de Madrid, por la que anuncia la convocatoria pública, para su provisión mediante el procedimiento de libre designación, plazas vacantes en la Relación de Puestos de Trabajo de Personal Técnico, de Gestión y de Administración y Servicios Funcionario de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-14.PDF"
     }
