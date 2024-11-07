@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ciempozuelos",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Collado Villalba",
       "description": "Urbanismo: Plan general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-57.PDF"
