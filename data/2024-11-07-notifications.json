@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Aranjuez",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Boadilla del Monte",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-53.PDF"
