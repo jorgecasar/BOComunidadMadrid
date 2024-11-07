@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Convenio de 16 de octubre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y el Ayuntamiento de Valdemoro, para el desarrollo del Proyecto “Valdemoro Se Mueve 2.3” en el marco de la IX edición del Programa de colaboración institucional en proyectos de actividad física y salud",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio de Transportes y Movilidad Sostenible. Demarcación de Carreteras del Estado en Madrid. Información pública",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-42.PDF"
