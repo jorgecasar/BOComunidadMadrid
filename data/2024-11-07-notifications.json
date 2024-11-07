@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 29 de octubre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se nombran a D. Javier Díaz Sánchez y a D. Óscar Morán Alonso, funcionarios en prácticas del Cuerpo de Bomberos de la Comunidad de Madrid, Escala Ejecutiva u Operativa, Categoría de Jefe de Dotación, Grupo C, Subgrupo C1, por promoción interna",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Orden de 24 de octubre de 2024, de la Consejería de Digitalización, por la que se aprueba convocatoria pública para la provisión de dos puestos de trabajo vacantes en dicha Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-6.PDF"
