@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4661/2024, de 16 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se declara el desistimiento expreso de cinco solicitudes presentadas en la convocatoria del XX Certamen de Coros Escolares de la Comunidad de Madrid, correspondiente al curso escolar 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 21 de octubre de 2024, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se publican las subvenciones concedidas durante el tercer trimestre de 2024 por la Dirección General de Biodiversidad y Gestión Forestal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/06/BOCM-20241106-20.PDF"
