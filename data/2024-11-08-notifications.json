@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Loeches",
-      "description": "Organización y funcionamiento: Delegación competencias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Perales de Tajuña",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-47.PDF"
