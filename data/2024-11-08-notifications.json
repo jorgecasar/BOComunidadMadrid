@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Perales de Tajuña",
-      "description": "Otros anuncios: Candidaturas juez de paz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Pozuelo de Alarcón",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-49.PDF"
