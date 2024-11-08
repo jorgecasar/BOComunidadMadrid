@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Chapinería",
-      "description": "Régimen económico: Ordenanza precio público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Ciempozuelos",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-37.PDF"
