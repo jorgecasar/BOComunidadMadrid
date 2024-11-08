@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Villamanta",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Villanueva del Pardillo",
       "description": "Organización y funcionamiento: Delegación competencias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-55.PDF"
