@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Perales de Tajuña",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Perales de Tajuña",
       "description": "Otros anuncios: Candidaturas juez de paz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-48.PDF"
     }
