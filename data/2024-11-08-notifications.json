@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Cabrera",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Leganés",
       "description": "Otros anuncios: Bases concurso escaparatismo navideño",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-45.PDF"
