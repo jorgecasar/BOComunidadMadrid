@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución de corrección de errores del extracto de la Orden de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se convocan subvenciones para la ejecución de obras de mejora o rehabilitación de edificios de uso predominante residencial para vivienda previstas dentro del Programa 1 (de ayuda a las actuaciones de rehabilitación a nivel de barrio) del Real Decreto 853/2021, de 5 de octubre, y en el marco de C02.I01 del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea, Next-Generation EU, en el entorno residencial de rehabilitación programada de “Barrio Juan de la Cierva. Fase I”, en el municipio de Getafe en virtud del artículo 109.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 3737/2024, de 29 de octubre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se crea la línea 76 del Anexo I, se modifican las líneas 1 y 2 del Anexo II, y se crea la línea 1 del Anexo V, del Plan Estratégico de Subvenciones de la Consejería, para el período 2024-2027, aprobado mediante Orden 396/2024, de 2 de febrero",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-8.PDF"
