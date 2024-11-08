@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 23 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, la formalización del contrato de “Suministro de material fungible e instrumental para el sistema de cirugía robótica da vinci”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 25 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario de Móstoles, relativa al anuncio de información previa a la contratación prevista del expediente de marcapasos y electrodos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-25.PDF"
     }
