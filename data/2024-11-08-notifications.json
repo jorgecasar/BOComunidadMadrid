@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 3737/2024, de 29 de octubre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se crea la línea 76 del Anexo I, se modifican las líneas 1 y 2 del Anexo II, y se crea la línea 1 del Anexo V, del Plan Estratégico de Subvenciones de la Consejería, para el período 2024-2027, aprobado mediante Orden 396/2024, de 2 de febrero",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 3782/2024, de 31 de octubre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se establecen las bases reguladoras del sistema de ayudas a las Agrupaciones de Tratamiento Integrado en la Agricultura (ATRIA) para la mejora de la sanidad vegetal en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-9.PDF"
     }
