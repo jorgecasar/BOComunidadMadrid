@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Villanueva del Pardillo",
-      "description": "Organización y funcionamiento: Delegación competencias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Villaviciosa de Odón",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-56.PDF"
