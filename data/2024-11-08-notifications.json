@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Licencias: O. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-31.PDF"
