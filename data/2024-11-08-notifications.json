@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuenlabrada",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Gargantilla del Lozoya y Pinilla de Buitrago",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-43.PDF"
