@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pozuelo de Alarcón",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Robledillo de la Jara",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-50.PDF"
