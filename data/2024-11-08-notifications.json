@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 24 de octubre de 2024, de la Dirección General de la Agencia de Seguridad y Emergencias Madrid 112, por la que se anuncia la formalización del contrato “Servicio de helicópteros con funciones de coordinación, rescate, extinción de incendios, observación y patrullaje en la Comunidad de Madrid (tres lotes)”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Convenio de colaboración de 23 de octubre de 2024, entre la Comunidad de Madrid y la Asociación de Desarrollo Sierra de Guadarrama, para su incorporación a la red de Oficinas de Información Turística de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-28.PDF"
