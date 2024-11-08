@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Sebastián de los Reyes",
-      "description": "Urbanismo: Cambio uso suelos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Torrejón de Velasco",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/07/BOCM-20241107-52.PDF"
