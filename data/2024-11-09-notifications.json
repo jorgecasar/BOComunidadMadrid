@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución de 24 de octubre de 2024, de la Secretaría General Técnica de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se hace público el listado de las subvenciones concedidas durante el período del 1 de julio al 30 de septiembre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Resolución de 24 de octubre de 2024, del Director General de Servicios Sociales e Integración de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se resuelve la convocatoria de subvenciones a entidades sin ánimo de lucro para proyectos de voluntariado y proyectos de innovación social",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-19.PDF"
