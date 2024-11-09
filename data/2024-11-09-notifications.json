@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 28 de octubre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se nombra personal funcionario de carrera del Cuerpo de Técnicos de Gestión, de Administración General, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 29 de octubre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se nombra personal funcionario de carrera del Cuerpo de Ingenieros y Arquitectos Técnicos, Escala Arquitectura Técnica, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-3.PDF"
     }
