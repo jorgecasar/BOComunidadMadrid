@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2034/2024, de 6 de noviembre, de la Consejería de Cultura, Turismo y Deporte, por la que se amplía el plazo máximo para resolver y notificar establecido en la Orden 1571/2024, por la que se amplía el plazo máximo para resolver y notificar establecido en la Orden 2317/2023, de 27 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan las ayudas a entidades culturales privadas sin ánimo de lucro para la realización de actividades culturales relacionadas con el teatro, la música, la danza, la cinematografía, las artes visuales y la moda como disciplina creativa para el año 2024, modificada por la Orden 513/2024, de 15 de marzo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 7 de octubre de 2024, de la Universidad Complutense de Madrid, por la que se publica la modificación del Plan de Estudios del Máster Universitario en Análisis Sociocultural del Conocimiento y de la Comunicación por la Universidad Complutense de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-21.PDF"
