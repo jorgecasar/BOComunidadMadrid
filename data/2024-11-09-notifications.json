@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 7 de octubre de 2024, de la Universidad Complutense de Madrid, por la que se publica la modificación del Plan de Estudios del Máster Universitario en Psicoanálisis y Teoría de la Cultura por la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 17 de octubre de 2024, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se dispone la publicación del anuncio de información previa, relativo al contrato denominado: “Apoyo a la elaboración, actualización y gestión de los contenidos y servicios del Portal del Consumidor de la Comunidad de Madrid”. 2025-2026 (2 lotes)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-30.PDF"
