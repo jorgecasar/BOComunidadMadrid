@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo de 25 de octubre de 2024, de prórroga del convenio de 28 de octubre de 2020 de colaboración entre la Comunidad de Madrid (Consejería de Medio Ambiente, Ordenación del Territorio y Sostenibilidad) y la Asociación Empresarial para el Desarrollo e Impulso del Vehículo Eléctrico y Empresas de Movilidad Compartida, para la concesión de incentivos para el fomento de la movilidad sostenible",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 25 de octubre de 2024, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Torrejón de Ardoz para la adhesión de información relativa a su patrimonio de suelo disponible al portal de suelo de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-50.PDF"
     }
