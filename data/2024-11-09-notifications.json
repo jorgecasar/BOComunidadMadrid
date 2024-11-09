@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Adenda de 25 de octubre de 2024, de prórroga del convenio interadministrativo entre la Comunidad de Madrid y el Ayuntamiento de Madrid, para la prestación del servicio de comedor en la calle Canarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Adenda de 25 de octubre de 2024, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la entonces Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Madrid, para la ejecución de proyectos con cargo a los Fondos Europeos procedentes del Mecanismo para la Recuperación y Resiliencia (S20_S21_S22_S33_S65)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-53.PDF"
     }
