@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución de 21 de octubre de 2024, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del “Acuerdo marco de servicios y suministros de nube de innovación para soportar la transformación digital de la Comunidad de Madrid (2 lotes)”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 6 de noviembre de 2024, de adjudicación del contrato titulado “Servicio de evaluación independiente de seguridad para la renovación del sistema de señalización de la línea 7A de Metro de Madrid” (Expediente 6012400158)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-34.PDF"
