@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 6 de noviembre de 2024, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se aprueba la publicación del desistimiento parcial del expediente PACU 2024-1-34, de “Reactivos para realizar la identificación de microorganismos y sensibilidad antibiótica por dilución en caldo de bacterias”, lote 2, cuya licitación fue publicada el 25 de octubre de 2019 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 255)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 25 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario “Infanta Leonor”, por la que se dispone la publicación de la formalización de la prórroga del contrato denominado «Adquisición de fungible oftalmológico para el Hospital Universitario “Infanta Leonor”»",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/08/BOCM-20241108-47.PDF"
     }
