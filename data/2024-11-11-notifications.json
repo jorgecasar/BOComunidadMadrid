@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 25 de junio de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Corporación de Radio y Televisión Española, Sociedad Anónima, SME, para la realización de prácticas externas de los alumnos del Real Conservatorio Superior de Música de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/09/BOCM-20241109-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 29 de octubre de 2024, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Getafe para la adhesión de información relativa a su patrimonio de suelo disponible al Portal de Suelo de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/09/BOCM-20241109-5.PDF"
