@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 22 de octubre de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre modificación de los estatutos de la asociación empresarial denominada Asociación Madrileña de Escuelas Infantiles de Gestión Indirecta (AMEIGI) (número de depósito 28000147)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 25 de octubre de 2024, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo de la Comunidad de Madrid, por la que se hace pública la convocatoria del acuerdo marco para el suministro de gasóleo tipo C a los Centros de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-22.PDF"
     }
