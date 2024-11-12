@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Chinchón",
-      "description": "Régimen económico: Ordenanza tasa recogida residuos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Chinchón",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-58.PDF"
     }
