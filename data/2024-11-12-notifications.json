@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1971/2024, de 28 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se revocan total o parcialmente subvenciones concedidas en virtud de la Orden 1644/2024, de la Consejería de Cultura, Turismo y Deporte, por la que se concedieron subvenciones destinadas a Asociaciones Deportivas Madrileñas, excepto Federaciones Deportivas, para la participación en competiciones deportivas oficiales para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución 120/2024, de 28 de octubre, del Director General de Deportes, por la que se publica en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID la relación de los beneficiarios de las subvenciones concedidas por la Consejería de Cultura, Turismo y Deporte, a instancias de la Dirección General de Deportes, durante el período comprendido desde el 1 de julio hasta el 30 de septiembre de 2024, con expresión de cantidad concedida y finalidad o finalidades de la subvención",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-19.PDF"
     }
