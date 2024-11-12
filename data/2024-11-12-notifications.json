@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 22 de octubre de 2024, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Colada del Arroyo de Las Viñas, en el término municipal de Pozuelo de Alarcón, para línea subterránea de baja tensión para acometida eléctrica en calle Guadalquivir, número 10 B, actuación promovida por I-DE Redes Eléctricas Inteligentes, S. A. U.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 22 de octubre de 2024, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe Ambiental Estratégico del Plan Especial en la calle Fernández Caro, números 7 y 7 B, del Plan General de Ordenación Urbana del municipio de Madrid. (Expediente: 26-UB2-00040.2/2024, SIA 24/040)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-37.PDF"
     }
