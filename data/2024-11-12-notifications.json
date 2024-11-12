@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 22 de octubre de 2024, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe Ambiental Estratégico del Plan Especial en la calle Fernández Caro, números 7 y 7 B, del Plan General de Ordenación Urbana del municipio de Madrid. (Expediente: 26-UB2-00040.2/2024, SIA 24/040)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 23 de octubre de 2024, de la Agencia de Seguridad y Emergencias Madrid 112, por la que se anuncia la formalización del contrato “Servicio de mantenimiento preventivo y correctivo de los equipos y herramientas hidráulicas de rescate en accidentes de tráfico del Cuerpo de Bomberos de la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-38.PDF"
     }
