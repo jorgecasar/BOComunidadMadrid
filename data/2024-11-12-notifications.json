@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 3595/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprueba la convocatoria para el año 2024 de la ayuda a inversiones en infraestructuras de regadíos con objetivos ambientales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Corrección de errores de la Orden 3737/2024, de 29 de octubre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se crea la línea 76 del Anexo I, se modifican las líneas 1 y 2 del Anexo II, y se crea la línea 1 del Anexo V, del Plan Estratégico de Subvenciones de la Consejería, para el período 2024-2027, aprobado mediante Orden 396/2024, de 2 de febrero",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-16.PDF"
     }
