@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Licencias: Licencia actividad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arroyomolinos",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-48.PDF"
