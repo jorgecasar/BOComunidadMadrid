@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución 120/2024, de 28 de octubre, del Director General de Deportes, por la que se publica en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID la relación de los beneficiarios de las subvenciones concedidas por la Consejería de Cultura, Turismo y Deporte, a instancias de la Dirección General de Deportes, durante el período comprendido desde el 1 de julio hasta el 30 de septiembre de 2024, con expresión de cantidad concedida y finalidad o finalidades de la subvención",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución de 25 de octubre de 2024, del Director General de Cultura e Industrias Creativas, por la que se hace pública la relación de subvenciones concedidas sin promover concurrencia por este órgano",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-20.PDF"
     }
