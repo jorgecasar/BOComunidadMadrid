@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cercedilla",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cervera de Buitrago",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-56.PDF"
