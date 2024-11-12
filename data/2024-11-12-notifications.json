@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1683/2024, de 29 de octubre, de la Consejería de Sanidad, por la que se resuelve la convocatoria para el año 2024 de subvenciones destinadas a entidades sin ánimo de lucro de la Comunidad de Madrid, dirigidas a la financiación de proyectos para la asistencia sociosanitaria de las personas afectadas por el VIH/SIDA",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 3595/2024, de 30 de octubre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se establecen las bases reguladoras de las ayudas a inversiones en infraestructuras de regadíos con objetivos ambientales, cofinanciadas por el Fondo Europeo Agrícola de Desarrollo Rural (FEADER), por la Administración General del Estado y por la Comunidad de Madrid y se aprueba la convocatoria para el año 2024 de la ayuda a inversiones en infraestructuras de regadíos con objetivos ambientales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/11/BOCM-20241111-14.PDF"
