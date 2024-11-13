@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 31 de octubre de 2024, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala de Gestión Administrativa de la Universidad Autónoma de Madrid, por el sistema general de oposición libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 30 de octubre de 2024, de la Fundación General de la Universidad de Alcalá, por la que se publica la Oferta de Empleo Público para el año 2024, del personal con carácter indefinido, con cargo a la tasa de reposición específica de efectivos para 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-15.PDF"
