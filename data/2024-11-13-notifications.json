@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 8 de noviembre de 2024, de adjudicación del contrato titulado “Servicio de certificación, inspección, seguimiento y asistencia ante el suministro de nuevo material móvil de gálibo estrecho”. (Expediente 6012400179)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 8 de noviembre de 2024, por el que se convoca la licitación para la contratación de las obras de instalación de sistemas de comunicaciones para operación LAR (Línea de Alta Regularidad) en línea 6 de Metro de Madrid. (Expediente 6012400392)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-35.PDF"
     }
