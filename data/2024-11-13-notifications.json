@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 30 de octubre de 2024, de la Universidad Carlos III de Madrid, por la que se convoca concurso de acceso a plazas del Cuerpo de Catedráticas y Catedráticos de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 28 de octubre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se declara el crédito presupuestario disponible para financiar las ayudas al transporte público urbano y/o interurbano a trabajadores desempleados que participen en acciones de formación profesional para el empleo financiadas con fondos públicos, a través del Consorcio Regional de Transportes de Madrid, para el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-17.PDF"
