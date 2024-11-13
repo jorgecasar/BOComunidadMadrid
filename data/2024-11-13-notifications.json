@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Orden 153/2024, de 29 de octubre, de la Consejería de Digitalización, por la que se modifica parcialmente el Plan Estratégico de Subvenciones de la Consejería de Digitalización para el año 2024, aprobado por orden 52/2024, de 9 de mayo, de la Consejería de Digitalización",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4806/2024, de 27 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la implantación de programas oficiales de doctorado en la Universidad Rey Juan Carlos y Universidad Europea de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-19.PDF"
