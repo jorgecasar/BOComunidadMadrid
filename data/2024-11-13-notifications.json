@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 8 de noviembre de 2024, de adjudicación del contrato titulado “Servicio de inspección, vigilancia, control de la gestión medio ambiental y control de calidad para las obras de renovación integral de superestructura de vía en línea 6”. (Expediente 6012400277)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Convenio de 25 de octubre de 2024, entre el Instituto Nacional de Estadística y la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo y de la Consejería de Sanidad, para la realización de las estadísticas del movimiento natural de la población y de defunciones según la causa de muerte",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-37.PDF"
