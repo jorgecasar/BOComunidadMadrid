@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 28 de octubre de 2024, por la que se procede a la corrección de errores de la Orden 14 de octubre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se acuerda la cesión de uso gratuita, a favor de Cruz Roja Española, del inmueble situado en la avenida de Madrid, número 33, del municipio de San Martín de Valdeiglesias (Madrid), para la ubicación de la sede local dependiente de su Asamblea Comarcal Sierra Norte",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 27 de octubre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Educación, Ciencia y Universidades, y el Servicio Madrileño de Salud (SERMAS) para la realización de la fase de formación en empresas u organismos equiparados de los alumnos de los grados D y E de Formación Profesional de centros públicos dependientes de la Consejería de Educación, Ciencia y Universidades en centros del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-24.PDF"
