@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio de 25 de octubre de 2024, entre el Instituto Nacional de Estadística y la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo y de la Consejería de Sanidad, para la realización de las estadísticas del movimiento natural de la población y de defunciones según la causa de muerte",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 31 de octubre de 2024, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento ordinario número 1308/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-38.PDF"
     }
