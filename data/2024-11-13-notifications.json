@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2022/2024, de 31 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria aprobada por Orden 1639/2024, de 5 de septiembre, de la Consejería de Cultura, Turismo y Deporte (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID 18 de septiembre), para la provisión de varios puestos de trabajo vacantes en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 2023/2024, de 31 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria aprobada por Orden 1641/2024, de 6 de septiembre, de la Consejería de Cultura, Turismo y Deporte (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 18 de septiembre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/12/BOCM-20241112-13.PDF"
     }
