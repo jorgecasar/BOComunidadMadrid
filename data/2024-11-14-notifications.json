@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Adenda de 25 de octubre de 2024, de prórroga del Convenio entre la Comunidad de Madrid (Agencia de Seguridad y Emergencias Madrid 112) y el Comité Autonómico de Cruz Roja Española en la Comunidad de Madrid en materia de Emergencias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución de 29 de octubre de 2024, de cese de actividad de las agencias de viajes: Alem 21, S. L., Mi Próximo Destino, Newbel New Bridge to English Learning, S. L. y Viajes y Turismo Lomerva, S. L.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-45.PDF"
