@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución de 29 de octubre de 2024, de cese de actividad de las agencias de viajes: Alem 21, S. L., Mi Próximo Destino, Newbel New Bridge to English Learning, S. L. y Viajes y Turismo Lomerva, S. L.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Otros anuncios: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Autorización demanial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-46.PDF"
