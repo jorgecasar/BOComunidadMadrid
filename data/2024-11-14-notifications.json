@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 28 de octubre de 2024, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la formalización del contrato de servicio para el mantenimiento, actualización y soporte de los sistemas de gestión de partos y monitorización de pacientes críticos. P. N. S. P. 23/2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 28 de octubre de 2024, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet, de la formalización del contrato de suministro de medicamentos exclusivos: Brolucizumab (BEOVU), Everolimus (VOTUBIA), Inclisiran (LEQVIO), Ceritinib (ZYKADIA) y Asciminib (SCEMBLIX). P. N. S. P. 8/2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-26.PDF"
     }
