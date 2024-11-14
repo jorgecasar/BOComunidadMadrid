@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1671/2024, de 6 de noviembre, del Consejero de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de ayudas a empresas privadas para realizar proyectos de música en 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1982/2024, de 28 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se amplían los plazos de realización de los proyectos y actuaciones subvencionables previstos en la Orden 292/2024, de 13 de marzo, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a la creación en artes visuales para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-14.PDF"
     }
