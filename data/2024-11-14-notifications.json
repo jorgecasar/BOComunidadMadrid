@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Corrección de errores del Convenio de 26 de junio de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Corporación de Radio y Televisión Española, Sociedad Anónima, SME, para la realización de prácticas externas de los alumnos del Real Conservatorio Superior de Música de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 30 de octubre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Radio Televisión Madrid, S. A. U., para la colaboración en la realización de la “Semana de la ciencia”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-20.PDF"
     }
