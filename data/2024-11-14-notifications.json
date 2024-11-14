@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 30 de octubre de 2024, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de las vías pecuarias Colada de Alcalá a Torres y Nuevo Baztán y Colada Galiana, en el término municipal de Torres de la Alameda, para instalación de la línea L/220 Kv Cerezo-Noguera, coincidente con tramo AP 121-AP 133 de L/220 Kv Atanzón-Ardoz, actuación promovida por Cerezo Solar, S. L. U.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 30 de octubre de 2024, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de las vías pecuarias Vereda Carpetana y Cordel del Butarrón, en los términos municipales de Loeches y San Fernando de Henares, para instalación de la línea aérea L220 kV Noguera-AP157, actuación promovida por Grillete Solar S. L. U.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-43.PDF"
     }
