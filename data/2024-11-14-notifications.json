@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 5 de octubre de 2024, del Director General de la Fundación Clínica Universitaria de la Universidad Rey Juan Carlos, por la que se anuncia la cobertura mediante convocatoria pública ordinaria de una plaza de Higienista Dental, siete plazas de Auxiliares de Clínica de la tasa de reposición específica de 2022 y una plaza de Auxiliar de Clínica de la tasa de reposición ordinaria de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 28 de octubre de 2024, de la Dirección General de Promoción Económica e Industrial de la Comunidad de Madrid, por la que se aprueba la revisión 6 del procedimiento de tramitación como entidad de inspección y control industrial de las instalaciones de protección contra incendios en establecimientos industriales en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-11.PDF"
