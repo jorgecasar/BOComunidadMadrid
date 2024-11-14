@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4775/2024, de 27 de octubre, de la Consejería de Educación, Ciencia y Universidades, por la que se modifica la Orden 11995/2012, de 21 de diciembre, de la Consejería de Educación, Juventud y Deporte, de organización, funcionamiento e incorporación al Programa de Excelencia en Bachillerato en institutos de Educación Secundaria de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1671/2024, de 6 de noviembre, del Consejero de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de ayudas a empresas privadas para realizar proyectos de música en 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-13.PDF"
