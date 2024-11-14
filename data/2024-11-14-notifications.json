@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 3 de noviembre de 2024, de la Universidad Carlos III de Madrid, por la que se modifica la Resolución de 20 de diciembre de 2023, por la que se publica la Oferta de Empleo Público para el ejercicio 2023 vinculada a la tasa específica recogida en el apartado dos.4 del artículo 20 de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 31 de octubre de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a don José Eloy Hortal Muñoz como Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-7.PDF"
