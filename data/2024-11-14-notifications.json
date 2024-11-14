@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Estremera",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Estremera",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-58.PDF"
     }
