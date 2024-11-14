@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 30 de octubre de 2024, de la Universidad Complutense de Madrid, por la que se convocan becas para estudiantes residentes en colegios mayores propios de la UCM matriculados en la Universidad Complutense en el curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 29 de octubre de 2024, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante” del Portal de Contratación Pública de la Comunidad de Madrid, de la licitación del contrato titulado “Servicio de vigilancia de la salud para el personal de la Administración de Justicia en la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-17.PDF"
