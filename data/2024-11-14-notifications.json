@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2024/2024, de 31 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria pública para la provisión de puestos de trabajo vacantes en la citada Consejería por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 31 de octubre de 2024, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Técnica Superior de Administración de la Universidad Autónoma de Madrid, por el sistema general de oposición libre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-5.PDF"
