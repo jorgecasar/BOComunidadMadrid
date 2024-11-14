@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 30 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario “Infanta Leonor”, por la que se hace pública la formalización del contrato titulado «Adquisición de productos de higiene, aseo de pacientes y productos de limpieza para el Hospital Universitario “Infanta Leonor”» (lotes 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12 y 13)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 14 de junio de 2024, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Cañada Real de las Merinas del Camino de Madrid, en el término municipal de Colmenarejo, para línea subterránea de baja tensión para acometida eléctrica en edificio de viviendas ubicado en Carretera Galapagar (M-510) número 20, bajo, Colmenarejo (Madrid), actuación promovida por I-D de Redes Eléctricas Inteligentes, S. A. U.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-38.PDF"
