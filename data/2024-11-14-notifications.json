@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcalá de Henares",
-      "description": "Ofertas de empleo: Ente Público Empresarial Alcalá Desarrollo. Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcalá de Henares",
       "description": "Urbanismo: Notificación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/13/BOCM-20241113-48.PDF"
     }
