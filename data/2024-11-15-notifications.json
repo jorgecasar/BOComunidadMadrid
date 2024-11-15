@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 14 de octubre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Ron Lalá Teatro, S. L., para la realización de prácticas externas de los alumnos de la Real Escuela Superior de Arte Dramático",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 21 de octubre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Lazotea Contenidos, S. L. U., para la realización de prácticas externas de los alumnos de la Escuela Superior de Diseño",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-24.PDF"
     }
