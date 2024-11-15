@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución de 5 de noviembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se aprueba el quinto listado de requeridos a subsanar en el proceso de concesión directa de las ayudas a las personas arrendatarias en situación de vulnerabilidad sobrevenida, previsto en el Real Decreto 42/2022, de 18 de enero, por el que se regula el Bono de Alquiler Joven y el Plan Estatal para el acceso a la vivienda 2022-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución de 31 de octubre de 2024, del Director General de Cultura e Industrias Creativas, por la que se hace pública la relación de subvenciones concedidas sin promover concurrencia por este órgano",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-21.PDF"
