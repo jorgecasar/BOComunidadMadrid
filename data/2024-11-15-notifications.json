@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 4 de noviembre de 2024, de la Gerencia de la Universidad de Alcalá, por la que se resuelve el proceso selectivo de concurso-oposición de estabilización de empleo temporal, por el sistema de acceso libre, para la provisión de puestos vacantes de personal laboral de la categoría profesional de Titulado/a Medio, grupo B, nivel salarial B2, de la especialidad “Audiovisuales y Desarrollo de Soluciones Multimedia”, convocado por Resolución de 22 de noviembre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 4 de noviembre de 2024, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria para la provisión, por el sistema de libre designación, de un puesto de trabajo en esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-16.PDF"
