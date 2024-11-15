@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 4 de noviembre de 2024, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria para la provisión, por el sistema de libre designación, de un puesto de trabajo en esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 5 de noviembre de 2024, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-17.PDF"
