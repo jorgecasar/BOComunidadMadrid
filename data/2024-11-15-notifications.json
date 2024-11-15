@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución de 31 de octubre de 2024, del Director General de Cultura e Industrias Creativas, por la que se hace pública la relación de subvenciones concedidas sin promover concurrencia por este órgano",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 30 de octubre de 2024, de la Secretaria General Técnica de la Consejería de Educación, Ciencia y Universidades, por la que se dispone la publicación de la convocatoria del contrato de «Servicio para la gestión de la escuela infantil “La Mimosa” de Fuenlabrada»",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-22.PDF"
