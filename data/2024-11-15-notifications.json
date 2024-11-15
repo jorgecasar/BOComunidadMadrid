@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 30 de octubre de 2024, de la Secretaria General Técnica de la Consejería de Educación, Ciencia y Universidades, por la que se dispone la publicación de la convocatoria del contrato de «Servicio para la gestión de la escuela infantil “La Mimosa” de Fuenlabrada»",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 14 de octubre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Ron Lalá Teatro, S. L., para la realización de prácticas externas de los alumnos de la Real Escuela Superior de Arte Dramático",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-23.PDF"
     }
