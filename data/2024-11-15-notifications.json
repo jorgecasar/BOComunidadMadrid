@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 12 de noviembre de 2024, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en las pruebas selectivas del proceso extraordinario de estabilización de empleo temporal del personal laboral para el acceso a plazas de la categoría profesional de Titulado Superior Especialista, especialidad de Medicina Física y Rehabilitación (Grupo I, Nivel 10, Área D) de la Comunidad de Madrid, se publica la relación definitiva de personas aspirantes excluidas y se anuncia la celebración del primer y segundo ejercicios de la fase de oposición",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 3828/2024, de 4 de noviembre, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se resuelve la convocatoria aprobada mediante Orden 3039/2024, de 5 de septiembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 17 de septiembre de 2024), de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprobó la convocatoria pública para la provisión de un puesto de trabajo por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-12.PDF"
