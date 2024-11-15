@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 31 de octubre de 2024, de formalización del contrato titulado “Suministro carriles ferroviarios tipo 54E1 para Metro de Madrid” (expediente 6012400273, contrato 5324000159)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 31 de octubre de 2024, de formalización del contrato titulado “Servicio de soporte especializado de apoyo a la gestión y administración de la plataforma de gestión y seguridad de dispositivos móviles de Metro de Madrid” (expediente 6012400251 contrato 7224000626)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/14/BOCM-20241114-26.PDF"
     }
