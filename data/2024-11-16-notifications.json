@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Listado de 31 de octubre de 2024, de las cooperativas cuyas cuentas anuales han quedado depositadas en el Registro de Cooperativas de la Comunidad de Madrid en el trimestre 3.o del año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 16 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Guadarrama, para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-28.PDF"
