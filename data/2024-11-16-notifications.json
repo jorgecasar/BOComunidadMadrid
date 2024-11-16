@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 18 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario “Príncipe de Asturias” del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de fecha 26 de abril de 2024 de un puesto de Jefe/a de Sección de Dermatología Médico-Quirúrgica y Venereología",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 18 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario de Getafe del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Servicio de Dermatología Médico-Quirúrgica y Venereología en este centro asistencial para su cobertura mediante nombramiento provisional",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-17.PDF"
     }
