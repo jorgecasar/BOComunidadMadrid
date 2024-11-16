@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 102/2024, de 13 de noviembre, del Consejo de Gobierno, por el que se modifican cuarenta y un decretos por los que se establecen para la Comunidad de Madrid planes de estudios de ciclos formativos de grado medio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Decreto 103/2024, de 13 de noviembre, del Consejo de Gobierno, por el que se modifican setenta y seis Decretos por los que se establecen para la Comunidad de Madrid planes de estudios de ciclos formativos de grado superior",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-2.PDF"
     }
