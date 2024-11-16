@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5005/2024, de 30 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se acuerda el cambio de denominación de los centros de la Universidad de Diseño, Innovación y Tecnología, así como la redistribución de titulaciones entre los mismos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1397/2024, de 31 de octubre, del Consejero de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de ayudas a municipios de la Comunidad de Madrid para la realización de actividades culturales relacionadas con el teatro, la danza, la música y la cinematografía para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-25.PDF"
