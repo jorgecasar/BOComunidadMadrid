@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 7 de noviembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se declara el importe del crédito presupuestario destinado a la ampliación del crédito disponible para la concesión directa en el año 2024 de ayudas para el fomento de la responsabilidad social y la conciliación laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5005/2024, de 30 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se acuerda el cambio de denominación de los centros de la Universidad de Diseño, Innovación y Tecnología, así como la redistribución de titulaciones entre los mismos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-24.PDF"
