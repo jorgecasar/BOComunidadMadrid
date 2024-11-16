@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2031/2024, de 4 de noviembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria pública para la provisión de puestos de trabajo vacantes en la citada Consejería, por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 28 de octubre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se declara el crédito presupuestario disponible para financiar las ayudas a la conciliación a trabajadores desempleados que participen en acciones de formación profesional para el empleo financiadas con fondos públicos, para el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-22.PDF"
