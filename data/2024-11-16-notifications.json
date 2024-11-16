@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 13 de noviembre de 2024, de la Dirección General de Recursos Humanos, por la que se corrigen errores y omisiones en la Resolución de 7 de noviembre de 2024 de la Dirección General de Recursos Humanos, por la que se convocan listas extraordinarias permanentemente abiertas en determinadas especialidades del cuerpo de catedráticos de música y artes escénicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 24 de octubre de 2024, de la Dirección-Gerencia de la Unidad Central de Radiodiagnóstico del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe/a de Sección de Radiodiagnóstico (Patología mamaria) en ese centro asistencial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-8.PDF"
