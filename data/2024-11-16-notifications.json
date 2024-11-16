@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 24 de septiembre de 2024, de la Dirección-Gerencia del Hospital Universitario “Infanta Sofía” del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de fecha 10 de abril de 2024 de un puesto de Jefe/a de Sección de Cirugía Ortopédica y Traumatología con perfil Ortogeriátrico (Traumatológico y Ortopédico)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 18 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario “Infanta Sofía” del Servicio Madrileño de la Salud, por la que se resuelve la convocatoria, de 10 de abril de 2024, de un puesto de Jefe/a de Sección de Medicina Interna, con perfil enfermedades infecciosas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-19.PDF"
     }
