@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 28 de octubre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se declara el crédito presupuestario disponible para financiar las ayudas a la conciliación a trabajadores desempleados que participen en acciones de formación profesional para el empleo financiadas con fondos públicos, para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 7 de noviembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se declara el importe del crédito presupuestario destinado a la ampliación del crédito disponible para la concesión directa en el año 2024 de ayudas para el fomento de la responsabilidad social y la conciliación laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-23.PDF"
     }
