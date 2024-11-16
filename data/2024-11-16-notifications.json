@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 17 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Sección de Medicina Preventiva y Salud Pública (Perfil. Gestión de las áreas de la Cartera de Servicios y de la Central de Esterilización y Reprocesamiento de Equipos y Productos Sanitarios) en este centro asistencial para su cobertura mediante nombramiento provisional",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 21 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario de “La Princesa” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe/a de Sección de Neumología (Atención Ambulatoria, Proceso Agudo en Hospitalización y Coordinación de Calidad) en ese centro asistencial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-15.PDF"
     }
