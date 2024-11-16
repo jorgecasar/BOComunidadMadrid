@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 18 de octubre de 2024, de la Dirección-Gerencia del Hospital Universitario “Infanta Sofía” del Servicio Madrileño de la Salud, por la que se resuelve la convocatoria, de 10 de abril de 2024, de un puesto de Jefe/a de Sección de Medicina Interna, con perfil enfermedades infecciosas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden de 5 de noviembre de 2024, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se resuelve la convocatoria aprobada por Orden de 28 de agosto de 2024, de la Consejera de Familia, Juventud y Asuntos Sociales (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 5 de septiembre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/15/BOCM-20241115-20.PDF"
