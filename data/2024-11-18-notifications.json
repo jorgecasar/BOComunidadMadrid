@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden 2680/2024, de 7 de noviembre, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se establecen los requisitos y estándares de calidad para la acreditación de los centros y servicios de atención social que formen parte del Sistema Público de Servicios Sociales de la Comunidad de Madrid, en el ámbito de la promoción de la autonomía personal y la atención a las personas en situación de dependencia",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/16/BOCM-20241116-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 16 de octubre de2024, entre la Comunidad de Madrid y el Ayuntamiento de Parla para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/16/BOCM-20241116-2.PDF"
