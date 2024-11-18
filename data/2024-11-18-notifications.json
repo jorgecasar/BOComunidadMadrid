@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 16 de octubre de2024, entre la Comunidad de Madrid y el Ayuntamiento de Parla para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/16/BOCM-20241116-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 16 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Getafe para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/16/BOCM-20241116-3.PDF"
     }
