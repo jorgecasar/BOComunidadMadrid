@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 28 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Pedrezuela para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/16/BOCM-20241116-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 28 de octubre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Villanueva de Perales, para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/16/BOCM-20241116-7.PDF"
     }
