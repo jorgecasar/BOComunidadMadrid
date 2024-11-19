@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 6 de noviembre de 2024, de la Gerencia de la Universidad de Alcalá, por la que se resuelve el proceso selectivo de concurso-oposición de estabilización de empleo temporal, por el sistema de acceso libre, para la provisión de puestos vacantes de pesonal laboral de la categoría profesional de Técnico Especialista, grupo C, nivel salarial C1, de la especialidad “Audiovisuales”, convocado por Resolución de 21 de noviembre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/18/BOCM-20241118-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 6 de noviembre de 2024, de la Gerencia de la Universidad de Alcalá, por la que se resuelve el proceso selectivo de concurso-oposición de estabilización de empleo temporal, por el sistema de acceso libre, para la provisión de puestos vacantes de pesonal laboral de la categoría profesional de Técnico Especialista, Grupo C, Nivel Salarial C1, de la especialidad “Audiovisuales y Multimedia”, convocado por Resolución de 21 de noviembre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/18/BOCM-20241118-13.PDF"
     }
