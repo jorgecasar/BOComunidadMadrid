@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 30 de octubre de 2024, de la Dirección General de Infraestructuras y Servicios, por la que se dispone la publicación en el “perfil del contratante” de la formalización del contrato de “Suministro de pianos de gran cola de conciertos, para centros profesionales de música de la Comunidad de Madrid”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/18/BOCM-20241118-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 14 de noviembre de 2024, de adjudicación del contrato titulado “Servicio de adquisición y mantenimiento de la plataforma de virtualización de las bases de datos Oracle de los telemandos” (expediente 6012400217)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/18/BOCM-20241118-24.PDF"
