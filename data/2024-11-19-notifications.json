@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 7 de noviembre de 2024, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria de concurso público para la contratación de cuatro Investigadores Distinguidos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/18/BOCM-20241118-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 14 de noviembre de 2024, de la Universidad Carlos III de Madrid, por la que se modifica la Resolución de 2 de septiembre de 2024, por la que se convocaba proceso selectivo para el ingreso en la Escala Auxiliar Administrativa (Subgrupo C2) de la Universidad Carlos III de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/18/BOCM-20241118-15.PDF"
     }
