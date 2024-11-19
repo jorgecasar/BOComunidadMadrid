@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Extracto de la Orden de 31 de octubre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se amplía el crédito previsto en el artículo 5 de la Orden de 8 de abril de 2022, de la Consejería de Transportes e Infraestructuras, por la que se convocan las ayudas para la transformación de flotas de transporte de viajeros y mercancías de empresas privadas prestadoras de servicios de transporte por carretera, así como de empresas que realicen transporte privado complementario, en el marco del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/18/BOCM-20241118-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 30 de octubre de 2024, de ejecución de infraestructuras de alcantarillado Plan Sanea en el municipio de Valdaracete con cargo a cuota suplementaria, entre el Ayuntamiento de Valdaracete, Canal de Isabel II y Canal de Isabel II, S. A., M. P.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/18/BOCM-20241118-18.PDF"
