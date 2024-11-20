@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución de 6 de noviembre de 2024, de cese de actividad de las agencias de viajes “Celébralo”, “Soluciones Marketing Integral, S. L.” y “Real Estate y Turismo Internacional Consulting, S. L.”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/19/BOCM-20241119-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Disposiciones y Anuncios del Estado",
       "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Expropiación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/19/BOCM-20241119-44.PDF"
