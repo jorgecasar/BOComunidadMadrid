@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Corrección de errores de 7 de noviembre de 2024, de la Resolución de 17 de octubre de 2024, de la Universidad Rey Juan Carlos, por la que se resuelve la provisión de varios puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación, convocada por Resolución de 3 de julio de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 15 de julio)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/19/BOCM-20241119-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 6 de noviembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se modifica la Orden 3138/2022, de 22 de septiembre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba el Plan Estratégico de Subvenciones para el desarrollo del Plan Estatal de Acceso a la Vivienda 2022-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/19/BOCM-20241119-21.PDF"
