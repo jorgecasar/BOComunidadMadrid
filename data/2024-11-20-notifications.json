@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Orden de 6 de noviembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se modifica la Orden 3138/2022, de 22 de septiembre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba el Plan Estratégico de Subvenciones para el desarrollo del Plan Estatal de Acceso a la Vivienda 2022-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/19/BOCM-20241119-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 12 de noviembre de 2024, de la Dirección General de Transportes y Movilidad, por la que se convocan las pruebas para la obtención del certificado de aptitud profesional acreditativo de la cualificación inicial, a celebrar en el año 2025 en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/19/BOCM-20241119-22.PDF"
     }
