@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Régimen económico: Distrito de Latina. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/19/BOCM-20241119-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Urbanismo: Medidas promoción vivienda protegida",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/19/BOCM-20241119-48.PDF"
