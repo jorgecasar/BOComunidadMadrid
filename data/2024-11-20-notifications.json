@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 7 de noviembre de 2024, de la Universidad Carlos III de Madrid, por la que se corrigen los errores materiales advertidos en la Resolución de 4 de julio de 2024, de la Universidad Carlos III de Madrid, por la que se publica la Relación de Puestos de Trabajo de personal de administración y servicios funcionario, publicada en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 16 de julio de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/19/BOCM-20241119-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Corrección de errores de 7 de noviembre de 2024, de la Resolución de 17 de octubre de 2024, de la Universidad Rey Juan Carlos, por la que se resuelve la provisión de varios puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación, convocada por Resolución de 3 de julio de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 15 de julio)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/19/BOCM-20241119-20.PDF"
