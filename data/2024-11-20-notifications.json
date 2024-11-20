@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 3657/2024, de 5 de noviembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se delegan determinadas funciones del Organismo Pagador de los gastos financiados por los Fondos Europeos Agrícolas, en el marco del Programa de Desarrollo Rural de la Comunidad de Madrid 2014-2020, en la Dirección General de Reequilibrio Territorial de la Consejería de Presidencia, Justicia y Administración Local",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/19/BOCM-20241119-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 3012/2024, de 31 de octubre, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se conceden las subvenciones cuyo objeto y condiciones de otorgamiento se establecen en el Programa para otorgar subvenciones a entidades locales para la ejecución de proyectos en el marco del Plan Corresponsables 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/19/BOCM-20241119-24.PDF"
