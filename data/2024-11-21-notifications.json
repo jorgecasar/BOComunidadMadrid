@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5288/2024, de 8 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada por Orden 3367/2024, de 24 de julio, del Consejero de Educación, Ciencia y Universidades (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de agosto de 2024), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1913/2024, de 8 de noviembre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-9.PDF"
