@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Resolución 5734/2024, de 19 de noviembre, del Director General de Servicios Sociales e Integración, por la que se conceden ayudas del bono social térmico 2022 a 187 beneficiarios, del bono social eléctrico a 31 de diciembre de 2021 en la Comunidad de Madrid y por la que se inicia el plazo de renuncia de los beneficiarios incluidos en esta Resolución al derecho de las ayudas del bono social térmico 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 104/2024, de 13 de noviembre, del Consejo de Gobierno, por el que se declara bien de interés cultural de la Comunidad de Madrid, en la categoría de conjunto de bienes muebles, el relicario del Monasterio del Santísimo Sacramento de Religiosas Bernardas, en Boadilla del Monte (Madrid)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-23.PDF"
