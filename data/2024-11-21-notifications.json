@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5092/2024, de 13 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria correspondiente al año 2024 de las ayudas de atracción de talento investigador “César Nombela”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5133/2024, de 7 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se modifica la Orden 1025/2023, de 28 de marzo, por la que se aprueba el plan estratégico de la Viceconsejería de Política Educativa de la Vicepresidencia, Consejería de Educación y Universidades, para los ejercicios 2023, 2024 y 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-18.PDF"
     }
