@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 1913/2024, de 8 de noviembre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 1914/2024, de 8 de noviembre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-10.PDF"
     }
