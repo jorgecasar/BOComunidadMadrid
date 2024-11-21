@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 18 de noviembre de 2024, por el que se convoca la licitación para la contratación de un “Servicio de mantenimiento del Sistema de Atención Telefónica Avanzada del Centro de Operaciones de Mantenimiento y Monitorización de Instalaciones y Telecomunicaciones (COMMIT)”. (Expediente 6012400400)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 18 de noviembre de 2024, por el que se convoca la licitación para la contratación de un “Servicio de mantenimiento del sistema de transmisión DWDM” (expediente 6012400403)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-35.PDF"
     }
