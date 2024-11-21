@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 11 de noviembre de 2024, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Especial Técnica de Sistemas y Tecnologías de la Información de la Universidad Autónoma de Madrid, por el sistema general de oposición libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 11 de noviembre de 2024, por la que se corrige la Orden de 30 de julio de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se dictan Instrucciones para la Gestión de las Nóminas del Personal de la Comunidad de Madrid para 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-16.PDF"
