@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Adenda de 6 de noviembre de 2024, de la cuarta prórroga del convenio de colaboración suscrito entre la Comunidad de Madrid, a través de la Consejería de Políticas Sociales, Familias, Igualdad y Natalidad (ahora Consejería de Familia, Juventud y Asuntos Sociales), la Agencia Madrileña de Atención Social y los obispos de las Diócesis que comprenden el territorio de la Provincia Eclesiástica de la Comunidad de Madrid, en materia de asistencia religiosa católica en residencias de mayores adscritas a la Agencia Madrileña de Atención Social",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Anuncio de 29 de octubre de 2024, de modificación de contrato de servicio de agencia de viajes para Madrid Cultura y Turismo, S. A. U.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/20/BOCM-20241120-56.PDF"
