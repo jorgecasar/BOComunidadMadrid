@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Corpa",
-      "description": "Organización y funcionamiento: Ordenanza vallado y limpieza solares",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Corpa",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-55.PDF"
     }
