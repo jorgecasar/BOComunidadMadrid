@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Corpa",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Boalo",
       "description": "Contratación: Licitación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-56.PDF"
