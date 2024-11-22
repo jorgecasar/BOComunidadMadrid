@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 3801/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se amplía en 175.000 euros el crédito presupuestario disponible de la Orden 887/2023, de 3 de octubre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se declara el importe del crédito presupuestario disponible para financiar las pólizas suscritas entre el 1 de octubre de 2023 y el 31 de octubre de 2024 así como posibles regularizaciones de pólizas vigentes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 3982/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprueba la convocatoria 2024, de las ayudas a las Agrupaciones de Tratamiento Integrado en la Agricultura (ATRIA) para la mejora de la Sanidad Vegetal en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-23.PDF"
     }
