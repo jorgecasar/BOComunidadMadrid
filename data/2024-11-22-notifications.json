@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4442/2024, de 2 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza el traslado de las instalaciones de la Escuela Universitaria de Enfermería de la Fundación Jiménez Díaz, centro adscrito a la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4908/2024, de 2 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se acuerda el traslado de la Facultad de Comunicación y Artes de la Universidad Antonio de Nebrija",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-20.PDF"
     }
