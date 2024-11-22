@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 11 de noviembre de 2024, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la Relación de Puestos de Trabajo del Personal Técnico, de Gestión y de Administración y Servicios Laboral de esta Universidad, aprobada en Consejo de Gobierno de 8 de noviembre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4058/2024, de 8 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza el inicio de actividades del centro de educación superior “Real Centro Universitario Escorial-María Cristina”, adscrito a la universidad San Pablo-CEU y se autoriza la implantación de su oferta académica para el curso académico 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-18.PDF"
