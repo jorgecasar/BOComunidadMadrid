@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 6 de noviembre de 2024, de la Universidad Complutense de Madrid, por la que se publica el Plan de Estudios Graduado o Graduada en Estudios Teatrales por la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Acuerdo 2/CG, de 8 de noviembre de 2024 por el que se modifica el Acuerdo de Consejo Gobierno, de 1 de junio de 2012 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 148, de 22 de junio de 2012; BOUAM número 1, de 6 de julio de 2012), por el que se aprueba el Reglamento del “Boletín Oficial de la Universidad Autónoma de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-25.PDF"
