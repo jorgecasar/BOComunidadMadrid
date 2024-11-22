@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4058/2024, de 8 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza el inicio de actividades del centro de educación superior “Real Centro Universitario Escorial-María Cristina”, adscrito a la universidad San Pablo-CEU y se autoriza la implantación de su oferta académica para el curso académico 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4442/2024, de 2 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza el traslado de las instalaciones de la Escuela Universitaria de Enfermería de la Fundación Jiménez Díaz, centro adscrito a la Universidad Autónoma de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-19.PDF"
     }
