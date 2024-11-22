@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Políticas de Vivienda. Concesión subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-43.PDF"
     }
