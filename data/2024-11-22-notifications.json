@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 4 de noviembre de 2024, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 11 de noviembre de 2024, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de varios puestos de trabajo vacantes mediante el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-16.PDF"
