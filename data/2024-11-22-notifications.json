@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4908/2024, de 2 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se acuerda el traslado de la Facultad de Comunicación y Artes de la Universidad Antonio de Nebrija",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 3615/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan para el año 2025 ayudas para el mantenimiento de razas autóctonas amenazadas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-21.PDF"
