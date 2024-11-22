@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Colmenar Viejo",
-      "description": "Urbanismo: Ordenanza calificaciones urbanísticas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Corpa",
       "description": "Organización y funcionamiento: Ordenanza vallado y limpieza solares",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/21/BOCM-20241121-54.PDF"
