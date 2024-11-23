@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Corrección de errores de la Resolución de 7 de octubre de 2024, de la Universidad Complutense de Madrid, por la que se publica la modificación del Plan de Estudios del Máster Universitario en Análisis Sociocultural del Conocimiento y de la Comunicación por la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Adenda de 24 de octubre de 2024, a la prórroga con vigencia desde el 1 de julio de 2024 y el 30 de junio de 2025 del convenio de colaboración entre la Agencia de la Comunidad de Madrid para la Reeducación y Reinserción del Menor Infractor y la Asociación para la Gestión de la Integración Social (GINSO), en la cual se determina el número de plazas reservadas en el Centro de Ejecución de Medidas Judiciales “Teresa de Calcuta” para el período comprendido entre el 1 de octubre de 2024 y el 30 de junio 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-16.PDF"
