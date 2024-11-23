@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cubas de la Sagra",
-      "description": "Urbanismo: Expropiación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Molar",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-59.PDF"
