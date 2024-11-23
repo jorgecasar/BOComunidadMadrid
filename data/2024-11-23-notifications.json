@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 12 de noviembre de 2024, de formalización del contrato titulado Suministro de rodamientos para el mantenimiento de trenes del parque de material móvil de Metro de Madrid. (Expediente 6012400206)-(Contrato 5324000162)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 19 de noviembre de 2024, de adjudicación del contrato titulado “Servicio de mantenimiento del sistema de transmisión IPMUS” (expediente 6012400244)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-23.PDF"
     }
