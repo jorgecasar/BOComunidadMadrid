@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 11 de noviembre de 2024, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se publican las subvenciones concedidas durante el tercer trimestre de 2024 por la Dirección General de Transición Energética y Economía Circular",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 2097/2024, de 15 de noviembre, del Consejero de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de ayudas bienales para el fomento de estructuras de empresas de teatro para 2024 y 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-14.PDF"
