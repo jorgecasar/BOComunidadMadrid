@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Carabaña",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenar de Oreja",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-55.PDF"
