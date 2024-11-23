@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Corrección de errores de 12 de noviembre de 2024, del anuncio de licitación del contrato titulado “Servicio de limpieza en la sede de la Agencia de Seguridad y Emergencias Madrid 112”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Anuncio de 12 de noviembre de 2024, de Canal de Isabel II, S. A., M. P., por el que se hace pública la convocatoria del contrato por procedimiento abierto para los “Servicios profesionales de asesoría y asistencia continuada en la fiscalidad y tributación a las sociedades del grupo Canal de Isabel II”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-41.PDF"
     }
