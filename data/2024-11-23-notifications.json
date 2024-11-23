@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2097/2024, de 15 de noviembre, del Consejero de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de ayudas bienales para el fomento de estructuras de empresas de teatro para 2024 y 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Corrección de errores de la Resolución de 7 de octubre de 2024, de la Universidad Complutense de Madrid, por la que se publica la modificación del Plan de Estudios del Máster Universitario en Análisis Sociocultural del Conocimiento y de la Comunicación por la Universidad Complutense de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-15.PDF"
