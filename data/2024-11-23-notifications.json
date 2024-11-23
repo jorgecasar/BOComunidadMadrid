@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden de 12 de noviembre de 2024, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se resuelve la convocatoria aprobada por Orden de 13 de septiembre de 2024, de la Consejera de Familia, Juventud y Asuntos Sociales (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de septiembre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación en el ente público Agencia Madrileña para el Apoyo a las Personas Adultas con Discapacidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 2103/2024, de 12 de noviembre, de la Consejería de Cultura, Turismo y Deporte, de corrección de errores de la Orden 1855/2024, de 14 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria pública para la provisión de puesto de trabajo vacante en la citada Consejería, por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-8.PDF"
