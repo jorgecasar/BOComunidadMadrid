@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 20 de noviembre de 2024, de adjudicación del contrato titulado “Servicio relativo a la póliza del seguro de accidentes de viajeros (SOV)” (Expediente 6012400324)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 20 de noviembre de 2024, de adjudicación del contrato titulado “Servicio relativo a la póliza del seguro de Responsabilidad Civil de Administradores y Directivos (D&O)” (expediente: 6012400323)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/22/BOCM-20241122-25.PDF"
     }
