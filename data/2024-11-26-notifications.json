@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 8 de noviembre de 2024, de la Directora de la Fundación para la Investigación Biomédica del Hospital “Gregorio Marañón”, por la que se anuncia la cobertura, mediante convocatoria pública, de un puesto de trabajo de carácter indefinido: Investigador/a Doctor/a en la Unidad de Imagen para pequeño animal de experimentación (Investigador/a Asociado/a, Área funcional 2, Grupo I)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 2122/2024, de 13 de noviembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en dicha Consejería, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-11.PDF"
