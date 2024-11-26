@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2122/2024, de 13 de noviembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en dicha Consejería, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 11 de noviembre de 2024, de la Universidad Complutense de Madrid, por la que se publica la Oferta de Empleo Público del Personal Técnico, de Gestión y de Administración y Servicios para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-12.PDF"
