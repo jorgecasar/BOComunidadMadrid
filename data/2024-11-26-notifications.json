@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Orden de 14 de noviembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se reconoce la condición de beneficiarios en el proceso de concesión directa para la obtención de las subvenciones reguladas mediante el Acuerdo de 26 de octubre de 2022, del Consejo de Gobierno, de ayudas a las personas arrendatarias en situación de vulnerabilidad sobrevenida",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 12 de noviembre de 2024, de la Dirección General de Transportes y Movilidad, por la que se convocan pruebas para la obtención del certificado de competencia profesional para el ejercicio de las actividades de transporte público por carretera, a celebrar en el año 2025 en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-20.PDF"
     }
