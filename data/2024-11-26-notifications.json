@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 11 de noviembre de 2024, de la Universidad Complutense de Madrid, por la que se publica la Oferta de Empleo Público del Personal Técnico, de Gestión y de Administración y Servicios para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 30 de octubre de 2024, de la Universidad Politécnica de Madrid, por la que se nombran funcionarios de carrera en la Escala Técnica de Gestión, Grupo A, Subgrupo A1 (Asesor Letrado), de la Universidad Politécnica de Madrid, por el sistema de acceso libre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-13.PDF"
