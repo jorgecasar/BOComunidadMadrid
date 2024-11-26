@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Dirección General de Política Energética y Minas. Autorización administrativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-53.PDF"
