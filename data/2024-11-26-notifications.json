@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Adenda de 11 de noviembre de 2024, de prórroga del convenio entre la Comunidad de Madrid, la Fundación del Teatro Real y la Fundación Amigos del Teatro Real para el desarrollo de actividades en el ámbito educativo y cultural",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 20 de noviembre de 2024, de adjudicación del contrato titulado “Suministro de repuestos de inmovilizado del proveedor Faiveley para el mantenimiento del sistema de frenos instalado en los trenes del material móvil de Metro de Madrid” (expediente 6012400178)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-31.PDF"
