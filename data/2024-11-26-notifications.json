@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución de 12 de noviembre de 2024, de la Dirección General de Transportes y Movilidad, por la que se convocan pruebas para la obtención del certificado de competencia profesional para el ejercicio de las actividades de transporte público por carretera, a celebrar en el año 2025 en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 2054/2024, de 21 de noviembre, de la Consejería de Sanidad, por la que se aprueban las bases reguladoras de las subvenciones destinadas a las asociaciones y otras entidades sin ánimo de lucro que lleven a cabo programas de promoción de salud mental y prevención de adicciones en población infantojuvenil de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-21.PDF"
