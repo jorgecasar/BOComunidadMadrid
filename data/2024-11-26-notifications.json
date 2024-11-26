@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Adenda de 31 de octubre de 2024, de prórroga al convenio entre el Ministerio de Educación y Formación Profesional, la Delegación en España de la Fundación British Council y la Comunidad de Madrid, para la realización de proyectos curriculares integrados y actividades educativas conjuntas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Adenda de 11 de noviembre de 2024, de prórroga del convenio entre la Comunidad de Madrid, la Fundación del Teatro Real y la Fundación Amigos del Teatro Real para el desarrollo de actividades en el ámbito educativo y cultural",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-30.PDF"
     }
