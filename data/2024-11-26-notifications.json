@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 12 de noviembre de 2024, de la Universidad de Alcalá, por la que se convoca concurso de acceso a plaza de funcionario de carrera de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 12 de noviembre de 2024, de la Universidad de Alcalá, por la que se convoca concurso de movilidad para la provisión de plaza de funcionario de carrera de los cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-15.PDF"
     }
