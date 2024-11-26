@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 2054/2024, de 21 de noviembre, de la Consejería de Sanidad, por la que se aprueban las bases reguladoras de las subvenciones destinadas a las asociaciones y otras entidades sin ánimo de lucro que lleven a cabo programas de promoción de salud mental y prevención de adicciones en población infantojuvenil de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 6 de noviembre de 2024, del Consejo de Gobierno, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de incentivos del “Plan Mueve Madrid: Ayudas para el fomento de la movilidad sostenible y accesible para todos en la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-22.PDF"
