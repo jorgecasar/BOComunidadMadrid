@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Convenio de 7 de noviembre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la Asociación de Consumidores y Usuarios de Madrid Región-ACUREMA, para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Adenda de 7 de noviembre de 2024, de prórroga y modificación del convenio de 8 de junio de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Asociación de Usuarios de Bancos, Cajas y Seguros de la Comunidad de Madrid (ADICAE) para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-27.PDF"
     }
