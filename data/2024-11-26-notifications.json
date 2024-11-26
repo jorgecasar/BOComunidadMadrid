@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 8 de noviembre de 2024, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, sobre el procedimiento de admisión y matrícula de alumnos libres en la prueba de certificación de nivel C1, en el idioma inglés, en las Escuelas Oficiales de Idiomas de la Comunidad de Madrid, para su convocatoria de febrero 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 14 de noviembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se reconoce la condición de beneficiarios en el proceso de concesión directa para la obtención de las subvenciones reguladas mediante el Acuerdo de 26 de octubre de 2022, del Consejo de Gobierno, de ayudas a las personas arrendatarias en situación de vulnerabilidad sobrevenida",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/25/BOCM-20241125-19.PDF"
