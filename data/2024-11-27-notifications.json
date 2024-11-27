@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 7 de noviembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Villaviciosa de Odón, para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 12 de noviembre de 2024, de formalización del contrato titulado “Acuerdo marco para el suministro de hardware y software del ámbito de ciberseguridad” (Expediente 6012400149)-(Contrato I00061-001)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-39.PDF"
