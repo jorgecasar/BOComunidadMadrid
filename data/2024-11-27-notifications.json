@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 14 de noviembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Resolución 720/2024, de 14 de noviembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se corrige error material advertido en la Resolución 611/2024, de 9 de octubre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-8.PDF"
