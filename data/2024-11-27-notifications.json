@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Publicación de 13 de noviembre de 2024, de la relación de subvenciones concedidas por el ente público Canal de Isabel II durante el tercer trimestre del año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 3421/2024, de 15 de noviembre, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se resuelve la Orden 1676/2024, por la que se convocan los Premios Emprendimiento Joven-Carné Joven Comunidad de Madrid correspondientes al año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-24.PDF"
