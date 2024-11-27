@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5090/2024, de 13 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se amplía el importe de los créditos disponibles para financiar en el año 2024 las obligaciones de contenido económico derivadas de la concesión directa de ayudas cofinanciadas por el Fondo Europeo de Desarrollo Regional a proyectos que hayan obtenido un sello de excelencia dentro del Programa Acelerador del Consejo Europeo de Innovación (EIC Accelerator, incluida la fase piloto), en el marco del Programa Horizonte Europa (2021-2027) para el fomento de la inversión empresarial en I + D + I",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5432/2024, de 20 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se concede el premio “Fermina Orduña” de la Comunidad de Madrid, a la innovación tecnológica, en su VII edición correspondiente al año 2024, a don Ramón Torrecillas San Millán en la modalidad a la trayectoria profesional personal continuada de personas mayores de 40 años, y a don Pablo Roca Morales en la modalidad de jóvenes innovadores o innovadoras menores de 40 años, y se dispone un gasto de 84.000 euros para la financiación de dichos premios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-19.PDF"
     }
