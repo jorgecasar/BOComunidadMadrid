@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 25 de noviembre de 2024, de la Universidad Rey Juan Carlos, por la que se hace pública la modificación de la tasa específica de la Oferta de Empleo Público del personal técnico, de gestión y de administración y servicios para el 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 14 de noviembre de 2024, del Director General de la Fundación Clínica Universitaria de la Universidad Rey Juan Carlos, por la que se anuncia la cobertura mediante convocatoria pública ordinaria de dos plazas de Odontólogo/a, una plaza de Auxiliar Administrativo, una plaza de Economista y una plaza de Abogado de la tasa de reposición específica de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-17.PDF"
     }
