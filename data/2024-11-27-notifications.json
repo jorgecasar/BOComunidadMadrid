@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 14 de noviembre de 2024, del Director General de la Fundación Clínica Universitaria de la Universidad Rey Juan Carlos, por la que se anuncia la cobertura mediante convocatoria pública ordinaria de dos plazas de Odontólogo/a, una plaza de Auxiliar Administrativo, una plaza de Economista y una plaza de Abogado de la tasa de reposición específica de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5090/2024, de 13 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se amplía el importe de los créditos disponibles para financiar en el año 2024 las obligaciones de contenido económico derivadas de la concesión directa de ayudas cofinanciadas por el Fondo Europeo de Desarrollo Regional a proyectos que hayan obtenido un sello de excelencia dentro del Programa Acelerador del Consejo Europeo de Innovación (EIC Accelerator, incluida la fase piloto), en el marco del Programa Horizonte Europa (2021-2027) para el fomento de la inversión empresarial en I + D + I",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-18.PDF"
