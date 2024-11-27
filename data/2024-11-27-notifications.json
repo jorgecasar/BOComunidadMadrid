@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 15 de noviembre de 2024, de la Universidad Autónoma de Madrid, por la que advertido error, se modifica la reseña publicada en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 8 de noviembre de 2024 de la convocatoria de las pruebas selectivas para el ingreso en la Escala Especial Superior de Sistemas y Tecnologías de la Información de la Universidad Autónoma de Madrid, por el sistema general de oposición libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 25 de noviembre de 2024, de la Universidad Rey Juan Carlos, por la que se hace pública la modificación de la tasa específica de la Oferta de Empleo Público del personal técnico, de gestión y de administración y servicios para el 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-16.PDF"
