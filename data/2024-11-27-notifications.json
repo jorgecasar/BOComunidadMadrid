@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Resolución 5845/2024, de 22 de noviembre, del Director General de Servicios Sociales e Integración, por la que se concede ayudas del bono social térmico 2023 a 615 beneficiarios del bono social eléctrico a 31 de diciembre de 2022 en la Comunidad de Madrid y por la que se inicia el plazo de renuncia de los beneficiarios incluidos en esta resolución al derecho de las ayudas del bono social térmico 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1672/2024, de 8 de noviembre, del Consejero de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de ayudas a empresas privadas para realizar actividades de teatro y danza en 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-26.PDF"
