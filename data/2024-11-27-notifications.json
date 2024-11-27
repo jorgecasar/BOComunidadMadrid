@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 4058/2024, de 22 de noviembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se hace pública la declaración del crédito presupuestario disponible en el ejercicio 2024 para financiar el Plan Mueve Madrid de ayudas para el fomento de la movilidad sostenible y accesible para todos en la Comunidad de Madrid, aprobadas por Acuerdo de 6 de noviembre de 2024, del Consejo de Gobierno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Publicación de 13 de noviembre de 2024, de la relación de subvenciones concedidas por el ente público Canal de Isabel II durante el tercer trimestre del año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/26/BOCM-20241126-23.PDF"
     }
