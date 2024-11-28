@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 18 de noviembre de 2024, de la Universidad Complutense de Madrid, por la que se convocan nuevas ayudas al estudio Concepción Arenal para estudiantes de grado en la UCM del curso 2024-25",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Extracto de la Resolución de 18 de noviembre de 2024, de la Universidad Complutense de Madrid, por la que se convocan ayudas de continuidad al estudio Concepción Arenal para estudiantes matriculados en la UCM en el curso 2024-2025, que hayan sido beneficiarios de estas ayudas en el curso anterior",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-18.PDF"
     }
