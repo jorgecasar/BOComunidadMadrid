@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1999/2024, de 18 de noviembre, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 1493/2024, de 16 de septiembre, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 26 de septiembre), para la provisión de un puesto de trabajo vacante en la citada Consejería, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 8 de noviembre de 2024, de la Universidad Complutense de Madrid, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-9.PDF"
