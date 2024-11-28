@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Fuenlabrada",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Fuenlabrada",
       "description": "Personal: Nombramiento funcionaria carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-53.PDF"
     }
