@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ciempozuelos",
-      "description": "Personal: Nombramiento personal laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenarejo",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-51.PDF"
