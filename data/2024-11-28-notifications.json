@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Corrección de errores de la Resolución de 25 de octubre de 2024, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en las pruebas selectivas para el ingreso, por el sistema general de acceso libre y de promoción interna, en el Cuerpo de Administrativos, de Administración General, Grupo C, Subgrupo C1, de la Comunidad de Madrid, se publican las relaciones definitivas de personas aspirantes excluidas en las citadas pruebas, y se anuncia la celebración del primer y segundo ejercicio de la oposición del proceso selectivo de acceso libre y del ejercicio de la fase de oposición del proceso selectivo de promoción interna",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Resolución 743/2024, de 25 de noviembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se aprueban y declaran las listas definitivas de la fase de concurso o valoración de méritos de los perfiles P02 Consultor de Gestión, P04 Técnico Administrativo y de Gestión y P05 Técnico Administrativo y de Gestión del proceso selectivo convocado mediante Resolución 599/2023, de 23 de octubre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 259, de 31 de octubre de 2023)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-4.PDF"
