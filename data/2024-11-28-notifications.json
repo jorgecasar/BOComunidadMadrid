@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución 743/2024, de 25 de noviembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se aprueban y declaran las listas definitivas de la fase de concurso o valoración de méritos de los perfiles P02 Consultor de Gestión, P04 Técnico Administrativo y de Gestión y P05 Técnico Administrativo y de Gestión del proceso selectivo convocado mediante Resolución 599/2023, de 23 de octubre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 259, de 31 de octubre de 2023)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5410/2024, de 14 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-5.PDF"
