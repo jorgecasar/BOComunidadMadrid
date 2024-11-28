@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 18 de noviembre de 2024, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Administrativa de la Universidad Autónoma de Madrid, por el sistema de promoción horizontal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 18 de noviembre de 2024, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en diversas Escalas de la Universidad Autónoma de Madrid, por el sistema de promoción interna",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-11.PDF"
     }
