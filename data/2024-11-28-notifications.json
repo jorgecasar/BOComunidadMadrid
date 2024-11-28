@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 14 de noviembre de 2024, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden conjunta de 12 de noviembre de 2024, de la Consejería de Medio Ambiente, Agricultura e Interior y de la Consejería de Sanidad, por la que se modifica la Orden conjunta de 29 de julio de 2022, de la Consejería de Presidencia, Justicia e Interior y de la Consejería de Sanidad, por la que se establece el marco general de colaboración para la incorporación de personal sanitario enfermero/a del SUMMA 112 Servicio de Urgencia Médica en las intervenciones en helicóptero en el Grupo Especial de Rescate en Altura del Cuerpo de Bomberos de la Comunidad de Madrid, ampliando la cobertura de la referida colaboración",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-14.PDF"
