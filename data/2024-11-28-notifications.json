@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Buitrago del Lozoya",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Campo Real",
       "description": "Régimen económico: Ordenanza tasa estacionamiento vehículos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-49.PDF"
