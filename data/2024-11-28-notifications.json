@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Colmenarejo",
-      "description": "Licencias: Licencia actividad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuenlabrada",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-52.PDF"
