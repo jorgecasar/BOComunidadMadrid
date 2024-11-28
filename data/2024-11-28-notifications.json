@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Licencias: O. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Contratación: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Estructura costes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/27/BOCM-20241127-46.PDF"
     }
