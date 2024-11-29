@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 12 de noviembre de 2024, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se aprueba la actualización de la carta de servicios del Instituto de Educación Secundaria “Alarnes”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 13 de noviembre de 2024, de la Dirección General de Enseñanzas Artísticas, por la que se da publicidad a las autorizaciones y modificaciones o extinciones de la autorización de centros privados de enseñanzas artísticas superiores aprobadas por las Consejerías competentes en materia de Enseñanzas Artísticas Superiores hasta el último trimestre de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-20.PDF"
     }
