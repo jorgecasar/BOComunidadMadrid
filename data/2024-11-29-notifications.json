@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 26 de noviembre de 2024, de la Universidad Rey Juan Carlos, por la que se procede a la adjudicación de una plaza convocada por el sistema general de acceso libre por concurso-oposición según Resolución de 25 de noviembre de 2022 (“Boletín Oficial del Estado” y BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 15 de diciembre), para la provisión de plazas de personal técnico, de gestión, de administración y servicios laboral de la Universidad Rey Juan Carlos, de la especialidad de Administración, grupo C2, en el marco del proceso de estabilización del personal temporal de esta Universidad, previstas en la Oferta de Empleo Público complementaria de 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 11 de noviembre de 2024, de la Consejería de Presidencia, Justicia y Administración Local, por la que se da por cumplido el trámite previsto relativo a la emisión de informe favorable al acuerdo de disolución de la Mancomunidad de Servicios de Arquitectura y Urbanismo Sierra Norte",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-16.PDF"
