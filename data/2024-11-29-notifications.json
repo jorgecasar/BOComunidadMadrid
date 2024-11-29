@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4815/2024, de 2 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria para el año 2024 de las ayudas a los Ayuntamientos de la región para colaborar en el sostenimiento de los colegios públicos de Educación Infantil, Educación Primaria y/o Educación Especial, radicados en su municipio en los que se imparte Educación Secundaria Obligatoria, primer ciclo de Educación Infantil o en los que se escolarizan alumnos censados en otros municipios por falta o insuficiencia de oferta educativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 30 de octubre de 2024, de la Dirección General de Educación Concertada, Becas y Ayudas al Estudio, por la que se da publicidad a las autorizaciones y modificaciones o extinciones de la autorización de centros docentes privados aprobadas por la Consejería de Educación, Ciencia y Universidades en el primer trimestre de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-18.PDF"
     }
