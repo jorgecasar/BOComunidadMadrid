@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 3949/2024, de la Consejería de Medio Ambiente, Agricultura e Interior por la que se establece el procedimiento de concesión de la ayuda complementaria a la contratación de determinados seguros agrarios en la Comunidad de Madrid y se declara el importe del crédito presupuestario disponible para financiar las pólizas suscritas entre el 1 de noviembre de 2024 y el 31 de diciembre de 2025, así como posibles regularizaciones de pólizas vigentes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 3949/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se establece el procedimiento de concesión de la ayuda complementaria a la contratación de determinados seguros agrarios en la Comunidad de Madrid y se declara el importe del crédito presupuestario disponible para financiar las pólizas suscritas entre el 1 de noviembre de 2024 y el 31 de diciembre de 2025, así como posibles regularizaciones de pólizas vigentes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-23.PDF"
     }
