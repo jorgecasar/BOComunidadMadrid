@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Garganta de los Montes",
-      "description": "Personal: Nombramiento funcionaria carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Guadarrama",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-56.PDF"
