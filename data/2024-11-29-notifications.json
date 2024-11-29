@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución conjunta de 15 de noviembre de 2024, de las Direcciones Generales de Bilingüismo y Calidad de la Enseñanza, de Educación Concertada, Becas y Ayudas al Estudio y de Recursos Humanos, por la que se hace pública la lista de candidatos que han obtenido la habilitación lingüística en idiomas extranjeros, para el desempeño de puestos bilingües en centros docentes públicos y privados concertados de la Comunidad de Madrid, según lo dispuesto en la base quinta de la Resolución conjunta de 24 de enero de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 3949/2024, de la Consejería de Medio Ambiente, Agricultura e Interior por la que se establece el procedimiento de concesión de la ayuda complementaria a la contratación de determinados seguros agrarios en la Comunidad de Madrid y se declara el importe del crédito presupuestario disponible para financiar las pólizas suscritas entre el 1 de noviembre de 2024 y el 31 de diciembre de 2025, así como posibles regularizaciones de pólizas vigentes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-22.PDF"
