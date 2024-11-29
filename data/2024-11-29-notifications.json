@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto del Acuerdo de 21 de noviembre de 2024, del Rector de la Universidad Complutense de Madrid, por la que se convoca la V Edición del Programa UCM-Santander de Incentivos al Impulso, Creación y Consolidación de Iniciativas Emprendedoras de la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 14 de noviembre de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre depósito de los Estatutos de la Organización Sindical denominada Unión Sindical Independiente Fincas Urbanas (USIFU) (Número de depósito 28100067)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-29.PDF"
