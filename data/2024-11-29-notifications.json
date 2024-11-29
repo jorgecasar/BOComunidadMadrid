@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Ley 5/2024, de 20 de noviembre, por la que se modifica el texto refundido de las disposiciones legales de la Comunidad de Madrid en materia de tributos cedidos por el Estado, aprobado por Decreto Legislativo 1/2010, de 21 de octubre, del Consejo de Gobierno, para incorporar medidas fiscales con el fin de favorecer el acceso a la vivienda y el cambio de residencia a municipios en riesgo de despoblación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 15 de noviembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-3.PDF"
