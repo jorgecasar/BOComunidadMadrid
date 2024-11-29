@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Ley 4/2024, de 20 de noviembre, por la que se modifica el texto refundido de las disposiciones legales de la Comunidad de Madrid en materia de tributos cedidos por el Estado, aprobado por Decreto Legislativo 1/2010, de 21 de octubre, del Consejo de Gobierno, para establecer una deducción por inversiones de nuevos contribuyentes procedentes del extranjero en el ámbito del Impuesto sobre la Renta de las Personas Físicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Ley 5/2024, de 20 de noviembre, por la que se modifica el texto refundido de las disposiciones legales de la Comunidad de Madrid en materia de tributos cedidos por el Estado, aprobado por Decreto Legislativo 1/2010, de 21 de octubre, del Consejo de Gobierno, para incorporar medidas fiscales con el fin de favorecer el acceso a la vivienda y el cambio de residencia a municipios en riesgo de despoblación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-2.PDF"
     }
