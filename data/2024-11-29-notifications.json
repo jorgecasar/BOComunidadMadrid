@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 26 de noviembre de 2024, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en las pruebas selectivas para el acceso, por el sistema general de acceso libre, a plazas de carácter laboral de la categoría profesional de Titulado Superior, Especialidad Medicina (Grupo I, Nivel 9, Área D), de la Comunidad de Madrid, se publica la relación definitiva de personas excluidas y se anuncia la celebración del primer ejercicio de la oposición",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5433/2024, de 18 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacante en la Consejería de Educación, Ciencia y Universidades por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/28/BOCM-20241128-8.PDF"
