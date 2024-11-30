@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Convenio de 11 de noviembre de 2024, de ejecución de infraestructuras de alcantarillado Plan Sanea en el municipio de Valdepiélagos con cargo a cuota suplementaria, entre el Ayuntamiento de Valdepiélagos, Canal de Isabel II y Canal de Isabel II, S. A. M. P.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 2181/2024, de 21 de noviembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba el Plan Estratégico de Subvenciones de la Dirección General de Cultura e Industrias Creativas para 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-27.PDF"
