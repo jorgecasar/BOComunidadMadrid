@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 26 de noviembre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se aprueba el Plan Estratégico de Subvenciones para la concesión directa de una subvención a la Fundación Infante de Orleans para la construcción del Museo de Aviones Históricos en Getafe",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 26 de noviembre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se aprueba el Plan Estratégico de Subvenciones para la concesión, en el ejercicio 2024, de una subvención nominativa a Avalmadrid, S. G. R. por importe de un millón de euros para el Fondo de Provisiones Técnicas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-21.PDF"
     }
