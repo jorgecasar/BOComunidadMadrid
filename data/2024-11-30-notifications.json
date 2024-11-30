@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4850/2024, de 22 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se publica el listado de solicitantes excluidos en la convocatoria para el año 2024 de las ayudas a los Ayuntamientos de la región para colaborar en el sostenimiento de los colegios públicos de Educación Infantil, Educación Primaria y/o Educación Especial radicados en su municipio en los que se imparte Educación Secundaria Obligatoria, Primer Ciclo de Educación Infantil o en los que se escolarizan alumnos censados en otros municipios por falta o insuficiencia de oferta educativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 11 de noviembre de 2024, de ejecución de infraestructuras de alcantarillado Plan Sanea en el municipio de Fuentidueña de Tajo con cargo a cuota suplementaria, entre el Ayuntamiento de Fuentidueña de Tajo, Canal de Isabel II y Canal de Isabel II, S. A., M. P.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-24.PDF"
