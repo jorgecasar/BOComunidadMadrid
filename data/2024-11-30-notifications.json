@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2181/2024, de 21 de noviembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba el Plan Estratégico de Subvenciones de la Dirección General de Cultura e Industrias Creativas para 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 2215/2024, de la Consejería de Cultura, Turismo y Deporte, por la que se amplían los plazos de justificación previstos en la Orden 2317/2023, de 27 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a entidades culturales privadas sin ánimo de lucro para la realización de actividades culturales relacionadas con el teatro, la música, la danza, la cinematografía, las artes visuales y la moda como disciplina creativa en el año 2024, corregida por la Orden 513/2024, de 15 de marzo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-28.PDF"
     }
