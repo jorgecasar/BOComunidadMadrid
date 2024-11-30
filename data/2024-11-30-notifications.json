@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 2215/2024, de la Consejería de Cultura, Turismo y Deporte, por la que se amplían los plazos de justificación previstos en la Orden 2317/2023, de 27 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a entidades culturales privadas sin ánimo de lucro para la realización de actividades culturales relacionadas con el teatro, la música, la danza, la cinematografía, las artes visuales y la moda como disciplina creativa en el año 2024, corregida por la Orden 513/2024, de 15 de marzo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Convenio de 29 de octubre de 2024, entre el Consejo General del Poder Judicial, el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, la Comunidad de Madrid y la Universidad Antonio de Nebrija para la realización de prácticas externas en juzgados y tribunales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-29.PDF"
