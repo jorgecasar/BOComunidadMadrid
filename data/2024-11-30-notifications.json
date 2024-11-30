@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 26 de noviembre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se aprueba el Plan Estratégico de Subvenciones para la concesión, en el ejercicio 2024, de una subvención nominativa a Avalmadrid, S. G. R. por importe de un millón de euros para el Fondo de Provisiones Técnicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 18 de noviembre de 2024, de la Dirección General de Presupuestos, por la que se hace público el “Estado de ejecución del presupuesto de gastos” correspondiente al mes de septiembre de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-22.PDF"
     }
