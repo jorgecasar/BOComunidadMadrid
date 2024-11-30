@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Arroyomolinos",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Arroyomolinos",
       "description": "Personal: Nombramiento funcionario carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-57.PDF"
     }
