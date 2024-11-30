@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arganda del Rey",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-55.PDF"
