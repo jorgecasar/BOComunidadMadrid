@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Acuerdo 3274/2024, de 19 de noviembre, del Consejo de Administración de la Agencia Madrileña de Atención Social, por la que se adjudica, con carácter definitivo, el puesto de carrera vacante en el organismo convocado por el Gerente de la Agencia de Atención Social de “Director Centro de Menores”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 6 de noviembre de 2024, de la Universidad Autónoma de Madrid, por la que se nombra funcionaria de carrera de la Escala Especial Técnica de Gestión Universitaria de la Universidad Autónoma de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-15.PDF"
