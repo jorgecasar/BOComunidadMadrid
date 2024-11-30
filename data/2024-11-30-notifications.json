@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 19 de noviembre de 2024, de la Universidad Rey Juan Carlos, por la que se convoca proceso selectivo para la constitución de una bolsa de empleo para nombramientos temporales de funcionarios/as interinos/as de la Escala Oficial de Oficios de esta Universidad, Especialidad Análisis Químico",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 14 de noviembre de 2024, de la Consejería de Presidencia, Justicia y Administración Local, por la que se modifica la Orden de 7 de marzo de 2024, por la que se aprueba el Plan Estratégico de Subvenciones de la Consejería de Presidencia, Justicia y Administración Local para los años 2024 y 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-19.PDF"
