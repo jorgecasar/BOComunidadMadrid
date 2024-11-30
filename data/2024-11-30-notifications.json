@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Acuerdo de 27 de noviembre de 2024, del Consejo de Gobierno, por el que se cesa y se nombra a vocales de los consejos sociales de la Universidad de Alcalá, de la Universidad Carlos III de Madrid y de la Universidad Complutense de Madrid, en representación de los intereses sociales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Acuerdo de 27 de noviembre de 2024, del Consejo de Gobierno, por el que se cesa y se nombra a vocales del Consejo Social de la Universidad Carlos III de Madrid, en representación de la comunidad universitaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/29/BOCM-20241129-6.PDF"
     }
