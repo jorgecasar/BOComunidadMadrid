@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 26 de febrero de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Asociación de Empresas de Transporte de la Región Centro CETM Madrid “ATRADICE-CETM Madrid”, para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 8 de septiembre de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la Confederación General de la Pequeña y Mediana Empresa del Estado Español (COPYME), para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-13.PDF"
     }
