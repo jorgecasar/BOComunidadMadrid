@@ -1,0 +1,150 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 286,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/11/30/BOCM-20241130286.PDF",
+      "total": 22,
+      "items": {
+        "Comunidad de Madrid": 17,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de noviembre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se procede a la corrección de errores de la Orden de 14 de noviembre de 2024, por la que se nombra personal funcionario de carrera del Cuerpo de Técnicos y Diplomados Especialistas, Escala Gestión de Empleo, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de noviembre)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 15 de noviembre de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del acuerdo de la comisión paritaria del Convenio Colectivo del Sector de Actores y Actrices de Madrid (código número 28005805011991)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 15 de noviembre de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del acta de 5 de noviembre de 2024, de la comisión negociadora por la que aprueba el calendario laboral para el año 2025 del convenio colectivo de la empresa auxiliar de Servicios de Pinto, S. A. U. (código número 28010272011998)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 29 de octubre de 2024, prórroga y modificación del convenio de 20 de agosto de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la Asociación Nacional de Distribuidores e Importadores de Neumáticos (ADINE) para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 9 de junio de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Asociación de Empresas del Sector de las Instalaciones y la Energía (AGREMIA) para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 16 de agosto de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y AMACFOR CECAP-MADRID Asociación Madrileña de Empresas y Centros de Formación y Agencias de Colocación para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 16 de agosto de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la Asociación Nacional de Vendedores de Vehículos a Motor, Reparación y Recambios (GANVAM) para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 15 de junio de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Asociación Nacional de Centros y Proveedores de e-Learning (ANCYPEL), anteriormente denominada Asociación Nacional de Centros de e-Learning y Distancia (ANCED), para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 16 de junio de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Asociación de Talleres de Automación (ASETRA) [anteriormente Asociación de Empresarios de Talleres de Reparación de Automóviles y Motocicletas de Madrid (ASETRA)], para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 17 de septiembre de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Asociación Profesional de Tintorerías y Lavanderías de la Comunidad de Madrid (ASTYLCAM) para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 17 de junio de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Asociación de Técnicos de Electrodomésticos (ATE), para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 26 de febrero de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Asociación de Empresas de Transporte de la Región Centro CETM Madrid “ATRADICE-CETM Madrid”, para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 8 de septiembre de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la Confederación General de la Pequeña y Mediana Empresa del Estado Español (COPYME), para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 30 de julio de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Confederacion Empresarial de Madrid–CEOE (CEIM), para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 5 de noviembre de 2024, de prórroga y modificación del convenio de 9 de junio de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Asociación ARBITEL para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 12 de noviembre de 2024, de prórroga y modificación del convenio de 1 de junio de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Federación Regional de Asociaciones Vecinales de Madrid (FRAVM), para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Adenda de 11 de noviembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid (Consejería de Justicia, Interior y Víctimas), la Gestora de Conciertos para la contribución a los servicios de extinción de incendios, A. I. E. y los ayuntamientos de Fuenlabrada, Leganés y Móstoles, para la liquidación y recaudación de la contribución especial para el establecimiento, la mejora y la ampliación de los servicios de prevención y extinción de incendios",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-17.PDF"
+    }
+  }
+]
