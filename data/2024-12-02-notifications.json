@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 16 de agosto de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la Asociación Nacional de Vendedores de Vehículos a Motor, Reparación y Recambios (GANVAM) para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 15 de junio de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Asociación Nacional de Centros y Proveedores de e-Learning (ANCYPEL), anteriormente denominada Asociación Nacional de Centros de e-Learning y Distancia (ANCED), para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-8.PDF"
     }
