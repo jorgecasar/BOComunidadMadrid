@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 9 de junio de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo (anteriormente Consejería de Economía, Empleo y Competitividad), y la Asociación de Empresas del Sector de las Instalaciones y la Energía (AGREMIA) para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Adenda de 29 de octubre de 2024, de prórroga y modificación del convenio de 16 de agosto de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y AMACFOR CECAP-MADRID Asociación Madrileña de Empresas y Centros de Formación y Agencias de Colocación para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/11/30/BOCM-20241130-6.PDF"
     }
