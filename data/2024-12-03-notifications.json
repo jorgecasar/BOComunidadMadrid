@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1952/2024, de 16 de noviembre, de la Consejería de Sanidad, por la que se resuelve la convocatoria del año 2024 de subvenciones destinadas a entidades locales de la Comunidad de Madrid para la realización de actividades en materia de promoción de la salud en el ámbito municipal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 3758/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan para el año 2025 las ayudas destinadas a entidades locales, para fomentar la protección de los animales de compañía en la Comunidad de Madrid reguladas por la Orden 59/2023, de 12 de julio, de la Consejería de Medio Ambiente, Agricultura e Interior",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-24.PDF"
