@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4923/2024, de 20 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada mediante Orden 2846/2024, de 18 de junio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 1 de julio de 2024) de la Consejería de Educación, Ciencia y Universidades, para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5011/2024, de 21 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que cesan y se nombran vocales titulares y suplentes en el Observatorio para la Convivencia en los centros docentes de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-7.PDF"
     }
