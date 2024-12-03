@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 5345/2024, de 14 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se declara el importe de los créditos disponibles para la concesión directa de ayudas a Ayuntamientos para la prestación del servicio de comedor a alumnos en situación socioeconómica desfavorecida en colegios públicos durante los períodos no lectivos de Navidad, Semana Santa y verano del curso escolar 2024-2025 y se establece el plazo de presentación de solicitudes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1952/2024, de 16 de noviembre, de la Consejería de Sanidad, por la que se resuelve la convocatoria del año 2024 de subvenciones destinadas a entidades locales de la Comunidad de Madrid para la realización de actividades en materia de promoción de la salud en el ámbito municipal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-23.PDF"
