@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 15 de noviembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba el plan estratégico de subvenciones gestionadas por la Dirección General del Servicio Público de Empleo de la Comunidad de Madrid para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4179/2024, de 14 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la sede del Centro de Enseñanza Superior, Instituto de Estudios Bursátiles, adscrito a la Universidad Complutense de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-20.PDF"
