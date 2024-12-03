@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 28 de noviembre de 2024, de la Universidad Carlos III de Madrid, por la que se convoca concurso público para la provisión de plazas de profesor o profesora permanente laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 21 de noviembre de 2024, de la Universidad Rey Juan Carlos, por la que se nombran a Catedráticos de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-17.PDF"
