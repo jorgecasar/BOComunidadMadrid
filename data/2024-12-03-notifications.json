@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 3758/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan para el año 2025 las ayudas destinadas a entidades locales, para fomentar la protección de los animales de compañía en la Comunidad de Madrid reguladas por la Orden 59/2023, de 12 de julio, de la Consejería de Medio Ambiente, Agricultura e Interior",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 4014/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan, para el año 2025, ayudas a inversiones materiales e inmateriales en instalaciones de transformación y en infraestructuras vitivinícolas, así como en estructuras e instrumentos de comercialización, en la Comunidad de Madrid, financiadas por el Fondo Europeo Agrícola de Garantía Agraria (FEAGA), según las normas reguladoras del Real Decreto 905/2022, de 25 de octubre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-25.PDF"
     }
