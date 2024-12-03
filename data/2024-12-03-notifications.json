@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 19 de noviembre de 2024, de formalización del contrato titulado “Servicio de mantenimiento integral del sistema centralizado de grabación de audio de Metro de Madrid” (Expediente 6012400304)-(Contrato 7224000620)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 22 de noviembre de 2024, de la Viceconsejera de Sanidad y Directora General del Servicio Madrileño de Salud, por la que se anuncia la publicación las nuevas fechas de presentación de ofertas y de celebración de actos públicos en el procedimiento de licitación del contrato (expediente: PA SER 30/2024)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-33.PDF"
