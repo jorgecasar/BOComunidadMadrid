@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5011/2024, de 21 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que cesan y se nombran vocales titulares y suplentes en el Observatorio para la Convivencia en los centros docentes de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5516/2024, de 21 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-8.PDF"
     }
