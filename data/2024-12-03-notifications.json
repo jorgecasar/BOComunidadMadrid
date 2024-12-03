@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo 88/2024, de 31 de octubre, de la Comisión de Urbanismo de Madrid, relativo a la aprobación inicial del Plan Especial de Infraestructuras para la Planta Solar Fotovoltaica “PF Buenavista” y la línea subterránea de evacuación a la red eléctrica general (documento julio 2024), que afecta a los términos municipales de Valdemorillo y Villanueva de la Cañada, promovido por Ascella Investments, S. L.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Convenio de colaboración de 6 de noviembre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Pozuelo de Alarcón, para la atención en adicciones, abuso y uso inadecuado de las tecnologías de la relación, comunicación e información a adolescentes y sus familias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-46.PDF"
