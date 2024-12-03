@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 4133/2024, de 20 de noviembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Medio Ambiente, Agricultura e Interior por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 2173/2024, de 20 de noviembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-12.PDF"
