@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Corrección de errores de la Resolución de 20 de noviembre de 2024, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 19 de noviembre de 2024, de la Gerencia de la Universidad de Alcalá, por la que se modifica la Resolución de 6 de junio de 2024, relativa a la Resolución del proceso selectivo de concurso-oposición, por el sistema de acceso libre en el marco de la estabilización de empleo temporal, para la provisión de puestos vacantes de personal laboral de la categoría profesional de Técnico Especialista, Grupo C, nivel salarial C1, de la especialidad “Mantenimiento. Multifunción”, convocado por Resolución de 21 de noviembre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-14.PDF"
