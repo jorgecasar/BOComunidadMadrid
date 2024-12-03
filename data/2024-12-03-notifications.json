@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución conjunta de 15 de noviembre de 2024, de las Direcciones Generales de Bilingüismo y Calidad de la Enseñanza, de Educación Concertada, Becas y Ayudas al Estudio y de Recursos Humanos, por la que se hace pública la lista de candidatos que han obtenido la acreditación para impartir el currículo de Inglés Avanzado en los institutos bilingües y en los centros privados concertados autorizados para impartir el Programa Bilingüe en Educación Secundaria de la Comunidad de Madrid, según lo dispuesto en la base quinta de la Resolución conjunta de 22 de febrero de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Extracto de la Orden 5345/2024, de 14 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se declara el importe de los créditos disponibles para la concesión directa de ayudas a Ayuntamientos para la prestación del servicio de comedor a alumnos en situación socioeconómica desfavorecida en colegios públicos durante los períodos no lectivos de Navidad, Semana Santa y verano del curso escolar 2024-2025 y se establece el plazo de presentación de solicitudes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/02/BOCM-20241202-22.PDF"
     }
