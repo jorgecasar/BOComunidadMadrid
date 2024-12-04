@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 22 de noviembre de 2024, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/03/BOCM-20241203-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4180/2024, de 14 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza el traslado de las instalaciones del Centro Universitario, Gestión IEB Global, adscrito a la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/03/BOCM-20241203-31.PDF"
