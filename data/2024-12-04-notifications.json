@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5210/2024, de 13 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los premios correspondientes al XXXI Certamen de Teatro Escolar de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/03/BOCM-20241203-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 4027/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan para el año 2025 las ayudas destinadas a las Agrupaciones de Defensa Sanitaria Ganaderas reguladas en la Orden 684/2016, de 28 de abril",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/03/BOCM-20241203-33.PDF"
