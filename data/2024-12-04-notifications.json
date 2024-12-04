@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 12 de noviembre de 2024, de la Dirección-Gerencia del Hospital Infantil Universitario “Niño Jesús” del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos/as y excluidos/as al proceso de provisión convocado para la cobertura de un puesto de Jefe/a de Sección de Anatomía Patológica en ese centro asistencial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/03/BOCM-20241203-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 14 de noviembre de 2024, de la Dirección-Gerencia del Hospital Universitario de Getafe del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos/as y excluidos/as al proceso de provisión convocado para la cobertura de un puesto de Jefe/a de Sección de Angiología y Cirugía Vascular en ese centro asistencial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/03/BOCM-20241203-24.PDF"
     }
