@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 20 de noviembre de 2024, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/03/BOCM-20241203-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 20 de noviembre de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a don Eduardo García Pardo como Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/03/BOCM-20241203-28.PDF"
     }
