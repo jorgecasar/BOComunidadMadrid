@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Delegación funciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/04/BOCM-20241204-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/04/BOCM-20241204-58.PDF"
     }
