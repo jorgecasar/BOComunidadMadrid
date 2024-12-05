@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución 776/2024, de 2 de diciembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se aprueban y declaran las listas provisionales de la fase de concurso o valoración de méritos de los perfiles P01 Consultor de Gestión y P03 Técnico Administrativo y de Gestión del proceso selectivo convocado mediante Resolución 599/2023, de 23 de octubre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 259, del 31 de octubre de 2023)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/04/BOCM-20241204-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 18 de noviembre 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud (SERMAS), por la que se procede a realizar corrección de errores de la Resolución de 27 de junio de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del SERMAS, sobre reconocimiento y denegación de los niveles I, II, III y IV de carrera profesional, evaluados en el procedimiento ordinario del año 2023, relativos al personal laboral fijo y funcionario de carrera que, en virtud del proceso de integración voluntaria en el régimen estatuario convocado por Orden 1625/2022, de 27 de octubre, del Consejero de Sanidad de la Comunidad de Madrid, se integra en el régimen estatutario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/04/BOCM-20241204-7.PDF"
