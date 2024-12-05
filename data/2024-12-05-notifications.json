@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 3735/2024, de 30 de octubre, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se declara el importe del crédito presupuestario disponible para la concesión directa de las ayudas para compatibilizar la actividad ganadera con la existencia de poblaciones de lobos, perros asilvestrados y buitres en la Comunidad de Madrid, durante el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/04/BOCM-20241204-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1371/2024, de 29 de noviembre, del Consejero de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de ayudas a empresas y personas físicas para la creación y desarrollo de proyectos de videojuego en la Comunidad de Madrid en 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/04/BOCM-20241204-16.PDF"
