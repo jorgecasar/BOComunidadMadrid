@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1371/2024, de 29 de noviembre, del Consejero de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de ayudas a empresas y personas físicas para la creación y desarrollo de proyectos de videojuego en la Comunidad de Madrid en 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/04/BOCM-20241204-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1415/2024, de 29 de noviembre, del Consejero de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de ayudas a entidades culturales privadas sin ánimo de lucro para la realización de actividades culturales relacionadas con el teatro, la música, la danza, la cinematografía, las artes visuales y la moda como disciplina creativa para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/04/BOCM-20241204-17.PDF"
     }
