@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 22 de noviembre de 2024, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 26 de julio de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 9 de agosto), para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia y Administración Local, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/04/BOCM-20241204-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 22 de noviembre de 2024, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en las pruebas selectivas para el ingreso en el Cuerpo de Letrados, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid, se publica la relación definitiva de personas aspirantes excluidas en las citadas pruebas, y se anuncia la celebración del primer ejercicio del citado proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/04/BOCM-20241204-4.PDF"
     }
