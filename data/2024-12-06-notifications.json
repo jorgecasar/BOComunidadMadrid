@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 26 de noviembre de 2024, de la Universidad Autónoma de Madrid, por la que se convoca concurso de méritos específico para la provisión de tres puestos de trabajo vacantes en la relación de puestos de trabajo de personal funcionario de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 25 de noviembre de 2024, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesor Permanente Laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-25.PDF"
