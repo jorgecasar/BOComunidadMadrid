@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 25 de noviembre de 2024, de la Universidad Carlos III de Madrid, por la que se convoca concurso de acceso a plazas de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Encomienda de gestión de 21 de noviembre de 2024, del Organismo Autónomo Agencia de la Comunidad de Madrid para la Reeducación y Reinserción del Menor Infractor, a la Dirección General de Infraestructuras Judiciales, ambos de la Consejería de Presidencia, Justicia y Administración Local, en materia de ejecución de obras de construcción, conservación y mejora de los Centros de Ejecución de Medidas Judiciales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-28.PDF"
