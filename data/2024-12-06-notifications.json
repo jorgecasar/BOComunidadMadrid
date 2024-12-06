@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 12 de noviembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Asociación Dan Zass (Artes Escénicas y Diversidad), para la realización de prácticas externas de los alumnos del Conservatorio Superior de Danza “María de Ávila”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 3 de diciembre de 2024, de adjudicación del contrato titulado “Servicio de sustitución de los condensadores C1, C2 y C3 del cofre de electrónica de potencia en coches 2000-A y 2000-B”. (Expediente 6012400113)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-42.PDF"
