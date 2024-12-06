@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Acuerdo de 4 de diciembre de 2024, del Consejo de Gobierno, por el que se establecen las condiciones de reafianzamiento público de los riesgos de crédito de sociedades de garantía recíproca en operaciones de financiación de la compra de suelo finalista para la construcción de viviendas de protección pública de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5676/2024, de 3 de diciembre, de la Consejería de Educación, Ciencia y Universidades, por la que se declaran los expedientes excluidos en la relación con la Orden 5705/2024, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas para el estudio de Formación Profesional de Grado Medio en la Comunidad de Madrid para el curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-30.PDF"
