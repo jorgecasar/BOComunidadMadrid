@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 25 de noviembre de 2024, de la Universidad Autónoma de Madrid, por la que se convoca proceso selectivo para la constitución de una lista de espera de funcionarios/as interinos/as de la Escala Especial Superior de Laboratorios de Investigación y Docencia de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 26 de noviembre de 2024, de la Universidad Autónoma de Madrid, por la que se convoca Concurso de Méritos general, para la provisión de varios puestos de trabajo vacantes, en la relación de puestos de trabajo de personal funcionario de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-22.PDF"
     }
