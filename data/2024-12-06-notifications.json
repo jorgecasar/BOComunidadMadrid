@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Decreto 105/2024, de 4 de diciembre, del Consejo de Gobierno, por el que se modifica el Decreto 84/2020, de 7 de octubre, del Consejo de Gobierno, por el que se regula el procedimiento de asignación y el uso de viviendas construidas al amparo de concesión demanial en suelos de redes supramunicipales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Decreto 107/2024, de 4 de diciembre, del Consejo de Gobierno, por el que se modifica el Decreto 241/2023, de 20 de septiembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Familia, Juventud y Asuntos Sociales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-2.PDF"
