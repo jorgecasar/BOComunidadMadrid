@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 4366/2024, de 25 de noviembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se resuelve la convocatoria aprobada mediante Orden 2014/2024, de 6 de junio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 17 de junio del 2024), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la citada Consejería",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Decreto 108/2024, de 4 de diciembre, del Consejo de Gobierno, por el que cesa doña Patricia Reyes Rivera, como Directora General de Igualdad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-17.PDF"
