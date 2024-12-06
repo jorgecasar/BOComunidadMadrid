@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Decreto 108/2024, de 4 de diciembre, del Consejo de Gobierno, por el que cesa doña Patricia Reyes Rivera, como Directora General de Igualdad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Decreto 109/2024, de 4 de diciembre, del Consejo de Gobierno, por el que se nombra Directora General de la Mujer a doña Patricia Reyes Rivera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-18.PDF"
     }
