@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5704/2024, de 3 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas para el estudio de Formación Profesional de Grado Superior en la Comunidad de Madrid, para el curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5705/2024, de 3 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas para el estudio de Formación Profesional de Grado Medio en la Comunidad de Madrid para el curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-33.PDF"
     }
