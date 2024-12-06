@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Extracto de la Orden de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se amplía la cuantía del crédito presupuestario establecido inicialmente en la Orden de 20 de octubre de 2023, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se convocan subvenciones para la ejecución de obras de mejora o rehabilitación de edificios de uso predominante residencial para vivienda previstas en el programa 1, de ayuda a las actuaciones de rehabilitación a nivel de barrio, del Real Decreto 853/2021, de 5 de octubre, y en el marco de C02.I01 del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-NextGenerationEU, en los entornos residenciales de rehabilitación programada de “Distrito Centro. Fase I” y “San Esteban. Fase I”, en el municipio de Fuenlabrada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 18 de noviembre de 2024, de la Directora General de Salud Pública, por la que se establece el comité de expertos de la Red Palinológica de la Comunidad de Madrid y la composición del mismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/05/BOCM-20241205-35.PDF"
