@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Adenda de 11 de noviembre de 2024, de modificación y prórroga del Convenio de Cooperación Educativa entre la Universidad Autónoma de Madrid y el Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario para el desarrollo de prácticas académicas externas y trabajos de fin de grado y máster",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/06/BOCM-20241206-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 12 de noviembre de 2024, de prórroga del Convenio entre la Comunidad de Madrid, Ecoembalajes España, S. A., y la Federación de Municipios de Madrid, por el que se establece la regulación de los compromisos relativos al Sistema Integrado de Gestión de Residuos (SIG)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/06/BOCM-20241206-6.PDF"
     }
