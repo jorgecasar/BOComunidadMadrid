@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Getafe",
-      "description": "Urbanismo: Plan general ordenación urbana",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Getafe",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-49.PDF"
     }
