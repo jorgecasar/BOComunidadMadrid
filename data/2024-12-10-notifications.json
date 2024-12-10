@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 4 de diciembre de 2024, por el que se convoca la licitación para la contratación de un acuerdo marco para suministro e instalación de maquinaria y bancos de prueba para la revisión y reparación de equipos electroneumáticos, hidráulicos y eléctricos del material móvil de Metro de Madrid (expediente 6012400420)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 4 de diciembre de 2024, de adjudicación del contrato titulado “Soporte y mantenimiento del software de virtualización Vmware” (expediente 6012400298)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-25.PDF"
     }
