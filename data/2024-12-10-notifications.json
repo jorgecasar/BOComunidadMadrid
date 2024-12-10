@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Buitrago del Lozoya",
-      "description": "Organización y funcionamiento: Reglamento Escuela Música",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Collado Mediano",
       "description": "Régimen económico: Plan estratégico subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-43.PDF"
