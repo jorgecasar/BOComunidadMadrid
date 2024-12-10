@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Decreto 106/2024, de 4 de diciembre, del Consejo de Gobierno, por el que se declaran las zonas vulnerables a la contaminación producida por nitratos procedentes de fuentes agrarias en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto de la Resolución del Director del Instituto Franklin de la Universidad de Alcalá, de 19 de noviembre de 2024, por la que publica VI Convocatoria de ayudas a familia por compensación de gastos de alojamiento de los estudiantes extranjeros matriculados en estudios organizados por el Instituto Franklin de la Universidad de Alcalá. Curso 2024-25 y 2025-26",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-18.PDF"
