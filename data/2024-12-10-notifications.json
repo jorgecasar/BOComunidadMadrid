@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Martín de Valdeiglesias",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Serranillos del Valle",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-57.PDF"
