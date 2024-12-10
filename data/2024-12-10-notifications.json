@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Adenda de 24 de noviembre de 2024, de prórroga para el año 2025 y modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, la Asociación para la Defensa de los Usuarios de Bancos, Cajas y Seguros de la Comunidad de Madrid (ADICAE Comunidad De Madrid), y los Ayuntamientos de Alameda del Valle, El Atazar, Canencia, Corpa, Horcajuelo de la Sierra, Montejo de la Sierra, Puentes Viejas, Redueña, Robledillo de la Jara, Santorcaz y Valdeavero, para implantar un sistema de información al consumidor",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 25 de noviembre de 2024, de la Secretaria General Técnica de la Consejería de Educación, Ciencia y Universidades, por la que se dispone la publicación de la declaración de desierto, acordada mediante Orden del Consejero de Educación, Ciencia y Universidades, número 5557/2024, de 22 de noviembre, en la licitación del expediente de contratación del servicio para la gestión de la Escuela Infantil “La Mimosa” de Fuenlabrada",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-21.PDF"
