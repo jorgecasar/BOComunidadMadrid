@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 27 de noviembre de 2024, de la Universidad Complutense de Madrid, por la que se corrige error material en la Resolución de 11 de noviembre de 2024, por la que se publica la Oferta de Empleo Público del Personal Técnico, de Gestión y de Administración y Servicios para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 26 de noviembre de 2024, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de Docentes Universitarios entre Acreditados: Profesores Permanentes Laborales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-12.PDF"
