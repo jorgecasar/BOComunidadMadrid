@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Fernando de Henares",
-      "description": "Otros anuncios: Inventario patrimonio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Martín de Valdeiglesias",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-56.PDF"
