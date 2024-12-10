@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 3 de diciembre de 2024, de adjudicación del contrato titulado “Suministro para la sustitución de las plantas de energía de los Centros Administrativos de Telecomunicaciones (CAT) de Metro de Madrid”. (Expediente 6012400108)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 3 de diciembre de 2024, de adjudicación del contrato titulado “Suministro de repuestos de inmovilizado para los sistemas de detección de incendios por aspiración de humos para Metro de Madrid” (expediente 6012400246)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-23.PDF"
     }
