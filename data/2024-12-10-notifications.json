@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Extracto de la Orden de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se amplía el plazo de presentación de solicitudes establecido en la Orden de 22 de octubre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se convocan subvenciones para la ejecución de obras de mejora o rehabilitación de edificios de uso predominante residencial para vivienda previstas en el Programa 1 –de ayuda a las actuaciones de rehabilitación a nivel de barriodel Real Decreto 853/2021, de 5 de octubre, y en el marco de C02.I01 del Plan de Recuperación, Transformación y Resiliencia financiado por la Unión Europea, NextGenerationEU, en el entorno residencial de rehabilitación programada de “Residencial. Fase I”, en el municipio de Nuevo Baztán",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Decreto 106/2024, de 4 de diciembre, del Consejo de Gobierno, por el que se declaran las zonas vulnerables a la contaminación producida por nitratos procedentes de fuentes agrarias en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-17.PDF"
