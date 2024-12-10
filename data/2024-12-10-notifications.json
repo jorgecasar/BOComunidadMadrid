@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 20 de noviembre de 2024, de la Universidad Complutense de Madrid, por la que se convoca proceso selectivo, mediante el sistema de Concurso-Oposición Libre, para la provisión de plazas de personal técnico, de gestión y de administración y servicios laboral fijo de los grupos y niveles salariales A1, A2, B1, B2, C1, C2 y C3",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 20 de noviembre de 2024, de la Universidad Complutense de Madrid, por la que se convoca proceso selectivo, mediante Concurso-Oposición Libre, para la provisión de 21 plazas de personal técnico, de gestión y de administración y servicios laboral fijo de los grupos y niveles salariales A2, B2, C1, C2 y C3 derivadas de la tasa específica prevista en el artículo 20.Dos, apartados 1.d) y 4, de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-9.PDF"
     }
