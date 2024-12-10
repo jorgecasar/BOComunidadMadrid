@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 26 de noviembre de 2024, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de Docentes Universitarios entre Acreditados: Profesores Permanentes Laborales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 26 de noviembre de 2024, de la Universidad Rey Juan Carlos, por la que se resuelve la provisión de varios puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación, convocada por Resolución de fecha 10 de octubre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 14 de octubre)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-13.PDF"
