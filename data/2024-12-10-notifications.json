@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Atazar",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuenlabrada",
       "description": "Régimen económico: Patronato Municipal de Deportes. Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/09/BOCM-20241209-47.PDF"
