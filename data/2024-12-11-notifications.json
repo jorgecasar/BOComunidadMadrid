@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5583/2024, de 28 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada por Orden 4441/2024, de 1 de octubre, del Consejero de Educación, Ciencia y Universidades (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 11 de octubre de 2024), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/10/BOCM-20241210-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 3 de diciembre de 2024, de la Dirección General de Recursos Humanos, por la que se convoca lista extraordinaria permanentemente abierta en la especialidad de Italiano del Cuerpo de Profesores de Escuelas Oficiales de Idiomas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/10/BOCM-20241210-8.PDF"
     }
