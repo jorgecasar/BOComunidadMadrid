@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución 780/2024, de 5 de diciembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se hace pública la ampliación de plazas convocadas en el proceso selectivo para la selección de personal laboral ordinario indefinido (laboral fijo), en turno libre, convocado mediante Resolución 598/2023, de 23 de octubre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/10/BOCM-20241210-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5583/2024, de 28 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada por Orden 4441/2024, de 1 de octubre, del Consejero de Educación, Ciencia y Universidades (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 11 de octubre de 2024), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/10/BOCM-20241210-7.PDF"
