@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 26 de noviembre de 2024, de la Universidad Politécnica de Madrid, por la que se convocan concursos de acceso a plazas de los Cuerpos Docentes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/10/BOCM-20241210-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 25 de noviembre de 2024, de la Consejería de Economía, Hacienda y Empleo, de modificación del Plan Estratégico de Subvenciones 2024/2025, gestionadas por la Dirección General de Formación de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/10/BOCM-20241210-19.PDF"
