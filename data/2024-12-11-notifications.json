@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 3 de diciembre de 2024, de la Dirección General de Recursos Humanos, por la que se convoca lista extraordinaria permanentemente abierta en la especialidad de Italiano del Cuerpo de Profesores de Escuelas Oficiales de Idiomas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/10/BOCM-20241210-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 2 de diciembre de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se fija la fecha y el procedimiento a seguir para la elección de plazas por los aspirantes que han superado las pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Técnico Superior Especialista en Radiodiagnóstico, se publica la relación de plazas ofertadas y se determina la entrega de documentación acreditativa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/10/BOCM-20241210-9.PDF"
