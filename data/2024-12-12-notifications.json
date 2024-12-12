@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 25 de octubre de 2024, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe de Impacto Ambiental del proyecto de “Gestión de Residuos no Peligrosos en Calle Gamonal 3”, en el término municipal de Madrid, promovido por Recuperaciones Luis Sánchez, S. L. (Expediente: 26-EIA-00017.3/2024)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/11/BOCM-20241211-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 25 de noviembre de 2024, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe Ambiental Estratégico del Plan Parcial del SUS.02, en el término municipal de Olmeda de las Fuentes, promovido por el Ayuntamiento de Olmeda de las Fuentes (expediente: 26-UB2-00153.4/2023, SIA 23/151)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/11/BOCM-20241211-49.PDF"
     }
