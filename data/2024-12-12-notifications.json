@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Resolución de 29 de noviembre de 2024, del Director General de Servicios Sociales e Integración de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se modifica la Resolución de 24 de octubre de 2024, del Director General de Servicios Sociales e Integración, por la que se resuelve la convocatoria de subvenciones a entidades sin ánimo de lucro para proyectos de voluntariado y proyectos de innovación social para el año 2024, convocada por Orden 1514/2024, de 9 de mayo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/11/BOCM-20241211-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 26 de noviembre de 2024, de la Universidad Carlos III de Madrid, por la que se publican los planes de estudios de determinados títulos de Máster Universitario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/11/BOCM-20241211-11.PDF"
