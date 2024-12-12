@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 21 de noviembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Obra Pía de los Santos Lugares, para la realización de actividades conjuntas a través de la Escuela Superior de Conservación y Restauración de Bienes Culturales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/11/BOCM-20241211-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 25 de noviembre de 2024, del Director-Gerente de la Agencia de Vivienda Social de la Comunidad de Madrid, por la que se hace pública la formalización del contrato denominado “Ejecución de las obras de 90 viviendas VPPA en tres edificios sitos en las manzanas I, II y III de la Unidad de Ejecución UE-10A de Villa del Prado (Madrid), a adjudicar por procedimiento abierto con pluralidad de criterios. Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/11/BOCM-20241211-27.PDF"
