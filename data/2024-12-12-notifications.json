@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución conjunta de 26 de noviembre de 2024, de la Dirección General de Recursos Humanos y de la Dirección General de Función Pública, por la que se resuelve el proceso selectivo de promoción interna para el ingreso en el Cuerpo Superior de Gestión, de Administración General, Grupo A, Subgrupo A1, de la Comunidad de Madrid, y se establece el procedimiento para la adjudicación de destinos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/11/BOCM-20241211-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 28 de noviembre de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso extraordinario de estabilización de empleo temporal para el acceso a plazas de carácter laboral de la categoría profesional de Gobernante (Grupo III, Nivel 6, Área B) de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/11/BOCM-20241211-4.PDF"
     }
