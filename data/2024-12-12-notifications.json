@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 9 de diciembre de 2024, por el que se convoca la licitación para la contratación del acuerdo marco para los trabajos de instalación y suministro de puentes grúa en los talleres de mantenimiento de material móvil (expediente 6012400421)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/11/BOCM-20241211-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 10 de diciembre de 2024, de adjudicación del contrato titulado “Servicio de retirada de equipamiento de señalización de la línea 7A de Metro de Madrid que contiene materiales con amianto”. (Expediente 6012400157)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/11/BOCM-20241211-29.PDF"
     }
