@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 4179/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan para el año 2025, ayudas para el control del rendimiento lechero",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/12/BOCM-20241212-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 29 de noviembre de 2024, para la gestión del servicio de distribución con renovación de las infraestructuras internas de la Urbanización “Las Mojadillas” entre Canal de Isabel II, Canal de Isabel II, Sociedad Anónima, M. P., el Ayuntamiento de Valdemorillo y la Urbanización “Las Mojadillas”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/12/BOCM-20241212-20.PDF"
     }
