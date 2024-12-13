@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Becerril de la Sierra",
-      "description": "Personal: Nombramiento personal laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/12/BOCM-20241212-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Bustarviejo",
       "description": "Otros anuncios: Enajenación parcela",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/12/BOCM-20241212-58.PDF"
