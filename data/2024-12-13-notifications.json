@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio específico de 27 de noviembre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Fundación Aladina, para la remodelación de la sala de lactancia, salas de neonatos (cuidados intermedios y cuidados intensivos) y los pasillos de acceso a la zona de obstetricia y UCI de la Unidad de Hospitalización de Neonatos y Pediatría, del Hospital Universitario de Getafe",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/12/BOCM-20241212-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 28 de noviembre de 2024, de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud, por la que se hace pública la formalización del contrato denominado “Adquisición de aparataje sanitario con destino a los Centros Sanitarios de Atención Primaria del Servicio Madrileño de Salud”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/12/BOCM-20241212-28.PDF"
     }
