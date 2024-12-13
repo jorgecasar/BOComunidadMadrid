@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 10 de diciembre de 2024, de declaración de desierto de la licitación para la contratación del “Servicio de limpieza y desinfección de los vehículos de Metro de Madrid”. (Expediente 6012400339)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/12/BOCM-20241212-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 10 de diciembre de 2024, de adjudicación del contrato titulado “Servicio de inspección manual de soldaduras aluminotérmicas mediante ultrasonidos”. (Expediente: 6012400195)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/12/BOCM-20241212-26.PDF"
     }
