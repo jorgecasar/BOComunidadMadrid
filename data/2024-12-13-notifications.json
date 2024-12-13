@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 28 de noviembre de 2024, de la Universidad Politécnica de Madrid, por la que se convocan concursos de acceso a plazas de los Cuerpos Docentes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/12/BOCM-20241212-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 28 de noviembre de 2024, de la Universidad Politécnica de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/12/BOCM-20241212-14.PDF"
     }
