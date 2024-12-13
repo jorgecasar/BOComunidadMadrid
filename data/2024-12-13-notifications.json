@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Urbanismo: Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/12/BOCM-20241212-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcobendas",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/12/BOCM-20241212-49.PDF"
