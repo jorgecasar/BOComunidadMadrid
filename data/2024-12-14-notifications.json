@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Decreto 111/2024, de 11 de diciembre, del Consejo de Gobierno, por el que se establece la estructura directiva de la Agencia de Seguridad y Emergencias Madrid 112",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 2 de diciembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-3.PDF"
