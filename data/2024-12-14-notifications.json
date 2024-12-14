@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alpedrete",
-      "description": "Organización y funcionamiento: Ordenanza objetos perdidos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alpedrete",
       "description": "Régimen económico: Precios públicos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-57.PDF"
     }
