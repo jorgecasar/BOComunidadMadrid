@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 3 de diciembre de 2024, de la Dirección General de Trabajo, por la que se declaran las fiestas laborales de ámbito local en la Comunidad de Madrid para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5467/2024, de 18 de noviembre, por la que se modifican los conciertos educativos de determinados centros docentes privados aprobados por la Orden 3324/2024, de 22 de julio, del Consejero de Educación, Ciencia y Universidades",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-24.PDF"
