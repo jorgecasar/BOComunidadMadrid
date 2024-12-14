@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Corrección de errores de la Resolución de 2 de diciembre de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se fija la fecha y el procedimiento a seguir para la elección de plazas por los aspirantes que han superado las pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Técnico Superior Especialista en Laboratorio de Diagnóstico Clínico, se publica la relación de plazas ofertadas y se determina la entrega de documentación acreditativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 3 de diciembre de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se procede a la modificación de la composición del Tribunal Calificador de las pruebas selectivas para el acceso, por el turno libre, a la condición de personal estatutario fijo, en la categoría de Facultativo Especialista en Bioquímica Clínica del Servicio Madrileño de Salud de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-16.PDF"
     }
