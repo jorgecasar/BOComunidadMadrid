@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Otros anuncios: Mutación demanial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alpedrete",
       "description": "Organización y funcionamiento: Reglamento Instalaciones y Servicios Deportivos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-54.PDF"
