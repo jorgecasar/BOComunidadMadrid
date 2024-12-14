@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2328/2024, de 13 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de ayudas a empresas audiovisuales para la producción de largometrajes en la Comunidad de Madrid en 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Acuerdo de 14 de noviembre de 2024, de prórroga para el año 2025, del convenio entre la Comunidad de Madrid y la Mancomunidad de Servicios del Valle Norte del Lozoya, por el que se encomienda la gestión de las actividades materiales y técnicas de la competencia de la Comunidad de Madrid de fomento del desarrollo económico en materia turística, al carecer de medios materiales y técnicos idóneos en la Sierra Norte de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-30.PDF"
