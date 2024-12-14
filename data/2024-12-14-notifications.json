@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Aranjuez",
-      "description": "Organización y funcionamiento: Ordenanza gestión ética colonias felinas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arganda del Rey",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-59.PDF"
