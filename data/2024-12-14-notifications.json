@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 4608/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se amplía en 825.000 euros el crédito presupuestario disponible de la Orden 2098/2024, de 19 de junio, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se declara el importe del crédito presupuestario disponible para la concesión directa de ayudas destinadas al sector del ganado bovino de la Comunidad de Madrid, especialmente afectado por las pérdidas producidas por la enfermedad hemorrágica epizoótica (EHE) durante el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 2328/2024, de 13 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de ayudas a empresas audiovisuales para la producción de largometrajes en la Comunidad de Madrid en 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-29.PDF"
