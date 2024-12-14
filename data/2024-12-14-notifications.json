@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alpedrete",
-      "description": "Régimen económico: Precios públicos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Aranjuez",
       "description": "Organización y funcionamiento: Ordenanza gestión ética colonias felinas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-58.PDF"
