@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Decreto 110/2024, de 11 de diciembre, del Consejo de Gobierno, por el que se regulan los requisitos de utilización y usos admitidos de áridos reciclados procedentes de operaciones de valorización de residuos de construcción y demolición en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Decreto 111/2024, de 11 de diciembre, del Consejo de Gobierno, por el que se establece la estructura directiva de la Agencia de Seguridad y Emergencias Madrid 112",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-2.PDF"
     }
