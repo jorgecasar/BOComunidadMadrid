@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 22 de noviembre de 2024, de la Viceconsejería de Política y Organización Educativa, por la que se dictan instrucciones sobre la participación en el proceso de admisión de alumnos de primer ciclo de Educación Infantil en centros públicos y en centros privados sostenidos con fondos públicos de la Comunidad de Madrid para el curso escolar 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 22 de noviembre de 2024, de la Viceconsejería de Política y Organización Educativa, por la que se dictan instrucciones sobre la participación en el proceso de admisión de alumnos en centros docentes sostenidos con fondos públicos que imparten segundo ciclo de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato, así como las etapas de Educación Especial en la Comunidad de Madrid para el curso 2025-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-26.PDF"
     }
