@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución conjunta de 29 de noviembre de 2024, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial y la Dirección General de Enseñanzas Artísticas, por la que se convocan en la Comunidad de Madrid en el curso académico 2024-2025 las pruebas de acceso a ciclos formativos de formación profesional y a las enseñanzas profesionales de artes plásticas y diseño, así como la prueba sustitutiva de los requisitos académicos establecidos para el acceso a las enseñanzas deportivas de régimen especial y a las formaciones deportivas en período transitorio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 4608/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se amplía en 825.000 euros el crédito presupuestario disponible de la Orden 2098/2024, de 19 de junio, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se declara el importe del crédito presupuestario disponible para la concesión directa de ayudas destinadas al sector del ganado bovino de la Comunidad de Madrid, especialmente afectado por las pérdidas producidas por la enfermedad hemorrágica epizoótica (EHE) durante el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/13/BOCM-20241213-28.PDF"
