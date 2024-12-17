@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 3 de diciembre de 2024, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la Resolución de adjudicación de los puestos convocados para su provisión por el sistema de Libre Designación, convocado por Resolución de 24 de octubre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/16/BOCM-20241216-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 3 de diciembre de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a don Alberto Hernando García-Cervigón como Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/16/BOCM-20241216-22.PDF"
