@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 3 de diciembre de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a don Alberto Hernando García-Cervigón como Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/16/BOCM-20241216-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 3 de diciembre de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a don Marcos Méndez Iglesias como Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/16/BOCM-20241216-23.PDF"
     }
