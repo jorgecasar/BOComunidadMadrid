@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "CÁMARA de Cuentas de La Comunidad de Madrid",
-      "description": "Resolución de 4 de diciembre de 2024, del Presidente de la Cámara de Cuentas, por la que se hace público el Acuerdo del Consejo de 28 de noviembre de 2024, por el que se resuelve parcialmente la convocatoria para la provisión de puestos de trabajo por el sistema de Libre Designación, aprobada por Acuerdo del Consejo de 18 de septiembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 30 de septiembre de 2024)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/16/BOCM-20241216-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 3 de diciembre de 2024, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la Resolución de adjudicación de los puestos convocados para su provisión por el sistema de Libre Designación, convocado por Resolución de 24 de octubre de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/16/BOCM-20241216-21.PDF"
