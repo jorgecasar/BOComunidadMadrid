@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 4 de diciembre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se nombra personal funcionario de carrera del Cuerpo de Técnicos Superiores Especialistas, Especialidad de Estadística, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/16/BOCM-20241216-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 4 de diciembre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se nombra personal funcionario de carrera del Cuerpo de Técnicos Superiores Especialistas, Escala Superior de Empleo, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/16/BOCM-20241216-5.PDF"
     }
