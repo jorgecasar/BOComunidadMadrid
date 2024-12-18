@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 5 de diciembre de 2024, del Director General de Recursos Humanos, por la que se emplaza a los posibles interesados para que puedan personarse como demandados en el recurso contencioso-administrativo interpuesto por don Alejandro Carmona Diéguez, en relación con el procedimiento selectivo convocado por resolución de 23 de noviembre de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/17/BOCM-20241217-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 13 de diciembre de 2024, por el que se convoca la licitación para la contratación de un servicio de ingeniería de integración y asistencia técnica del proyecto de automatización de la línea 6 de Metro de Madrid (programa LAR6) (expediente 6012400426)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/17/BOCM-20241217-38.PDF"
