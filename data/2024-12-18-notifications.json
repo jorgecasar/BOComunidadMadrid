@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Asamblea de Madrid",
-      "description": "Acuerdo de 25 de noviembre de 2024, del Tribunal Calificador constituido para juzgar las pruebas selectivas para la cobertura de dos plazas del Cuerpo de Redactores, Taquígrafos, Estenotipistas y Catalogadoras, proceso excepcional de estabilización de empleo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 310, del jueves 29 de diciembre de 2022), en sesión celebrada el lunes 25 de noviembre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/17/BOCM-20241217-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 4 de diciembre de 2024, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 17 de septiembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 1 de octubre), para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/17/BOCM-20241217-4.PDF"
