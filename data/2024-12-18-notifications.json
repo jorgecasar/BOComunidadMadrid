@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 9 de diciembre de 2024, de la Dirección General de Recursos Humanos, por la que se modifica la lista de seleccionados del procedimiento selectivo de estabilización, por el sistema de concurso-oposición, para ingreso en el Cuerpo de Maestros, convocado por Resolución de 19 de diciembre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/17/BOCM-20241217-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 2117/2024, de 2 de diciembre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/17/BOCM-20241217-9.PDF"
