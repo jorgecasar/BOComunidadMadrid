@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Anuncio de la convocatoria de 13 de diciembre de 2024, de la Directora de la Fundación para la Investigación Biomédica del Hospital “Gregorio Marañón”, por la que se anuncia la cobertura mediante convocatoria pública de 2 plazas de contratos laborales indefinidos de Investigador Biosanitario Doctor con certificación I3, bajo la modalidad de Investigador Distinguido, conforme a la Oferta de Empleo Público de vinculación de las plazas 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/17/BOCM-20241217-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Anuncio de la convocatoria de 13 de diciembre de 2024, de la Directora de la Fundación para la Investigación Biomédica del Hospital “Gregorio Marañón”, por la que se anuncia la cobertura mediante convocatoria pública de 2 plazas de contratos laborales indefinidos de Investigador Biosanitario Doctor con certificación I3, bajo la modalidad de Investigador Distinguido, conforme a la Oferta de Empleo Público de vinculación de las plazas 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/17/BOCM-20241217-11.PDF"
     }
