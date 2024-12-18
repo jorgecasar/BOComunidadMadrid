@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
-      "description": "Acuerdo de 25 de noviembre de 2024, del Tribunal Calificador constituido para juzgar las pruebas selectivas para la cobertura de dos plazas del Cuerpo de Administrativos, proceso excepcional de estabilización de empleo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 310, del jueves 29 de diciembre de 2022), en sesión celebrada el lunes 25 de noviembre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/17/BOCM-20241217-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Asamblea de Madrid",
       "description": "Acuerdo de 25 de noviembre de 2024, del Tribunal Calificador constituido para juzgar las pruebas selectivas para la cobertura de dos plazas del Cuerpo de Redactores, Taquígrafos, Estenotipistas y Catalogadoras, proceso excepcional de estabilización de empleo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 310, del jueves 29 de diciembre de 2022), en sesión celebrada el lunes 25 de noviembre de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/17/BOCM-20241217-3.PDF"
     }
