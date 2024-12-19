@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo 96/2024, de 28 de noviembre, de la Comisión de Urbanismo de Madrid, relativo a la aprobación definitiva del «Plan Especial de Infraestructuras de elementos integrantes de la red pública de abastecimiento de agua “Campo de Pozos de Batres”», en los términos municipales de Navalcarnero, Batres, El Álamo y Griñón, promovido por Canal de Isabel II, S. A. M. P.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo 105/2024, de 28 de noviembre, de la Comisión de Urbanismo de Madrid, relativo al «Proyecto de expropiación de los bienes y derechos de propietarios no adheridos a la Junta de Compensación del polígono industrial “Huertas de Abajo” (hoy AD-10), en Paracuellos de Jarama»",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-21.PDF"
     }
