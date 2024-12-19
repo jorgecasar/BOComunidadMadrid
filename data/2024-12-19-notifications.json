@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Convenio de colaboración de 2 de diciembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Villamanta, para su incorporación a la Red de Oficinas de Información Turística de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Convenio de 3 de diciembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Madrid, para la edición de la publicación Madrid Metrópoli. El Sueño de Antonio Palacios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-49.PDF"
     }
