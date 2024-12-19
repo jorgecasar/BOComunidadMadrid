@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Convenio de 3 de diciembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Madrid, para la edición de la publicación Madrid Metrópoli. El Sueño de Antonio Palacios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Expropiación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-50.PDF"
