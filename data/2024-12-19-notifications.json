@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Tarifas servicio taxi",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Disolución junta compensación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-53.PDF"
     }
