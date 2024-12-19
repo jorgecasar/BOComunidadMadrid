@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 112/2024, de 11 de diciembre, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de Paisaje Cultural, la Dehesa de La Villa en Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 11 de diciembre de 2024, del Rector Magnífico de la Universidad Rey Juan Carlos, por la que se aprueba y hacen públicas las bases reguladoras y la convocatoria del Programa de “Becas-Prácticas Fundación ONCE-CRUE”. Curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-23.PDF"
