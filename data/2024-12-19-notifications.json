@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo 105/2024, de 28 de noviembre, de la Comisión de Urbanismo de Madrid, relativo al «Proyecto de expropiación de los bienes y derechos de propietarios no adheridos a la Junta de Compensación del polígono industrial “Huertas de Abajo” (hoy AD-10), en Paracuellos de Jarama»",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 112/2024, de 11 de diciembre, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de Paisaje Cultural, la Dehesa de La Villa en Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-22.PDF"
