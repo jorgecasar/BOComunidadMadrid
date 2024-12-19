@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Camarma de Esteruelas",
-      "description": "Otros anuncios: Denominación viales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Collado Villalba",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-59.PDF"
