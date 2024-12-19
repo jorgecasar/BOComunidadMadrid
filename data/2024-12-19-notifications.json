@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 16 de diciembre de 2024, de la Dirección General de Función Pública, por la que se anuncia la apertura de un nuevo plazo de acreditación de los méritos alegados por las personas participantes en la autobaremación formulada en sus solicitudes en el proceso selectivo para el ingreso en el Cuerpo de Técnicos Superiores de Salud Pública, Especialidad Psicología, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Resolución 775/2024, de 5 de diciembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se aprueban los resultados finales y la calificación de los aspirantes que han superado el proceso selectivo convocado mediante Resolución 75/2024, de 8 de febrero de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-14.PDF"
