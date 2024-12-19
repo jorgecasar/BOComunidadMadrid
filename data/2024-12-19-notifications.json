@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 11 de diciembre de 2024, del Rector Magnífico de la Universidad Rey Juan Carlos, por la que se aprueba y hacen públicas las bases reguladoras y la convocatoria del Programa de “Becas-Prácticas Fundación ONCE-CRUE”. Curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 14 de noviembre de 2024, de la Dirección General de Patrimonio y Contratación, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” de la novación del contrato de arrendamiento para uso distinto del de vivienda de la planta baja y primera y de dos plazas de garaje del inmueble ubicado en la calle Martínez Villergas, número 52, de Madrid, para destinarlo a la implantación de una Oficina de Empleo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-24.PDF"
