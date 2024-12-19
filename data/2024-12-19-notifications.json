@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 16 de diciembre de 2024, de ampliación de plazo de presentación de ofertas de la licitación de una instalación y configuración de la plataforma de tierra para tren digital cofinanciable al 40% con cargo al programa FEDER 2021-2027 de la Comunidad de Madrid dentro del objetivo político 1: una Europa más competitiva e inteligente, promoviendo una transformación económica innovadora e inteligente y una conectividad regional a las tecnologías de la información y de las comunicaciones y el objetivo específico 1.2: aprovechamiento de las ventajas de la digitalización para los ciudadanos, las empresas, las organizaciones de investigación y las administraciones públicas (expediente 6012400393)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 4 de diciembre de 2024, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento abreviado número 573/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/18/BOCM-20241218-33.PDF"
