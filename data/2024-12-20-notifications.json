@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Decreto 113/2024, de 18 de diciembre, del Consejo de Gobierno, de adaptación de la normativa reglamentaria de la Comunidad de Madrid a la nueva terminología para referirse a las personas con discapacidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden 3065/2024, de 2 de diciembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas de promoción interna para el ingreso en el Cuerpo de Bomberos de la Comunidad de Madrid, Escala Ejecutiva u Operativa, Especialidad de Comunicaciones, Categoría de Jefe de Sala, Grupo C, Subgrupo C1",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-2.PDF"
