@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución de 11 de diciembre de 2024, de la Dirección General de Transportes y Movilidad, por la que se establece el calendario para la acreditación de los requisitos de obtención y mantenimiento de las autorizaciones de arrendamiento de vehículos con conductor de ámbito nacional domiciliadas en la Comunidad de Madrid habilitadas para realizar transporte urbano de viajeros",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 4462/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan para el año 2025 las ayudas destinadas a entidades sin ánimo de lucro, para fomentar la protección de los animales de compañía en la Comunidad de Madrid reguladas por la Orden 59/2023, de 12 de julio, de la Consejería de Medio Ambiente, Agricultura e Interior",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-22.PDF"
