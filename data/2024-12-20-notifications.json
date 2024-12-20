@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 5 de diciembre de 2024, de la Universidad de Alcalá, por la que se publica el Plan de Estudios del Título Oficial de Grado en Matemáticas y Computación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 9 de diciembre de 2024, de la Universidad de Alcalá, por la que se publica el plan de estudios de Máster Universitario en Innovación Educativa para la Creación de Valor",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-27.PDF"
     }
