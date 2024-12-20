@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Adenda de 2 de diciembre de 2024, de prórroga para el año 2025 y modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y empleo, la Asociación de Amas de Casa y Consumidores-Usuarios de la Comunidad de Madrid “Ascensión Sedeño” (AACCU), y los ayuntamientos de Alpedrete, Becerril de la Sierra, El Boalo-Cerceda-Mataelpino, Cercedilla, Collado Mediano, Colmenar del Arroyo, Fresnedillas de la Oliva, Guadalix de la Sierra, Manzanares el Real, Miraflores de la Sierra, Los Molinos, Moralzarzal, Navacerrada, Navalagamella, Santa María de la Alameda, Soto del Real y Villamanta, para implantar un sistema de información al consumidor",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 17 de diciembre de 2024, por el que se convoca la licitación para la contratación del suministro carriles ferroviarios tipo 54e1 para Metro de Madrid. (Expediente: 6012400431)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-31.PDF"
