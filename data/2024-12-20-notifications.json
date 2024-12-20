@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5538/2024, de 10 de diciembre, de la Consejería de Educación, Ciencia y Universidades, por la que se modifican las órdenes que regulan la enseñanza bilingüe español-inglés en centros privados concertados, para su adaptación a la financiación establecida en las leyes de presupuestos generales de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 16 de diciembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se aprueba la relación de beneficiarios y el listado definitivo de solicitantes excluidos en el procedimiento de concurrencia competitiva simplificada para la obtención de las subvenciones destinadas a la ejecución de obras en edificios y viviendas en el marco del Área de regeneración y renovación urbana y rural denominada “Barrio del Cerro y El Molino”, en el municipio de Fuenlabrada, convocada para el año 2022 mediante Orden 4159/2022, de la Consejería de Medio Ambiente, Vivienda y Agricultura",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-17.PDF"
