@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden 3728/2024, de 18 de diciembre, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se fijan los servicios mínimos a fin de garantizar el funcionamiento del servicio público prestado por las empresas del sector de asistencia domiciliaria (ayuda a domicilio) en la Comunidad de Madrid con ocasión de la huelga convocada para los días 23, 26, 27 y 30 de diciembre de 2024; 2 y 3 de enero de 2025 e indefinidamente a partir del 7 de enero de 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Resolución 6260/2024, de 18 de diciembre, del Director General de Servicios Sociales e Integración, por la que se tienen por desistidos a 884 beneficiarios de la ayuda del bono social térmico 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-24.PDF"
     }
