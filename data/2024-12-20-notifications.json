@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Ofertas de empleo: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Ambite",
       "description": "Organización y funcionamiento: Ordenanza",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-48.PDF"
