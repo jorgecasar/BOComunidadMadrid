@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 4462/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan para el año 2025 las ayudas destinadas a entidades sin ánimo de lucro, para fomentar la protección de los animales de compañía en la Comunidad de Madrid reguladas por la Orden 59/2023, de 12 de julio, de la Consejería de Medio Ambiente, Agricultura e Interior",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 3728/2024, de 18 de diciembre, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se fijan los servicios mínimos a fin de garantizar el funcionamiento del servicio público prestado por las empresas del sector de asistencia domiciliaria (ayuda a domicilio) en la Comunidad de Madrid con ocasión de la huelga convocada para los días 23, 26, 27 y 30 de diciembre de 2024; 2 y 3 de enero de 2025 e indefinidamente a partir del 7 de enero de 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-23.PDF"
