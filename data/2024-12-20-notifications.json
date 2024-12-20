@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Campo Real",
-      "description": "Régimen económico: Ordenanza impuesto vehículos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenar de Oreja",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-57.PDF"
