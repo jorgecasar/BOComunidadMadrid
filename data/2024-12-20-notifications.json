@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 17 de diciembre de 2024, por el que se convoca la licitación para la contratación del suministro carriles ferroviarios tipo 54e1 para Metro de Madrid. (Expediente: 6012400431)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 5 de diciembre de 2024, de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud, por la que se hace pública la formalización del contrato denominado “Adquisición de aparataje y equipamiento de fisioterapia con destino a los Centros Sanitarios de Atención Primaria del Servicio Madrileño de Salud”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-32.PDF"
