@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5778/2024, de 9 de diciembre, Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada por Orden 4614/2024, de 10 de octubre, del Consejero de Educación, Ciencia y Universidades (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de octubre de 2024), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5779/2024, de 9 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada por Orden 4793/2024, de 18 de octubre, del Consejero de Educación, Ciencia y Universidades (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 30 de octubre de 2024), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-5.PDF"
     }
