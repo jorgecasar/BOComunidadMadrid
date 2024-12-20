@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Orden de 10 de diciembre de 2024, del Consejero de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Vivienda, Transportes e Infraestructuras, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 2152/2024, de 10 de diciembre, de la Consejería de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 978/2024, de 17 de junio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de junio de 2024), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-8.PDF"
