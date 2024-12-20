@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 17 de diciembre de 2024, de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria pública para la provisión de varios puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5538/2024, de 10 de diciembre, de la Consejería de Educación, Ciencia y Universidades, por la que se modifican las órdenes que regulan la enseñanza bilingüe español-inglés en centros privados concertados, para su adaptación a la financiación establecida en las leyes de presupuestos generales de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-16.PDF"
