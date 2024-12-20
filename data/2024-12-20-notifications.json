@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Resolución 6260/2024, de 18 de diciembre, del Director General de Servicios Sociales e Integración, por la que se tienen por desistidos a 884 beneficiarios de la ayuda del bono social térmico 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 4 de diciembre de 2024, de la Universidad de Alcalá, por la que se publica el plan de estudios de Máster Universitario en Ciencias y Tecnologías Analíticas y Bioanalíticas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-25.PDF"
