@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Adenda de 2 de diciembre de 2024, de prórroga para el año 2025 y modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, la Unión de Consumidores Europeos de la Comunidad de Madrid (Euroconsumo), y los ayuntamientos de Buitrago del Lozoya, Bustarviejo, La Cabrera, Cadalso de los Vidrios, Cenicientos, Chapinería, Gascones, Lozoyuela-Navas-Sieteiglesias, Navas del Rey, Pelayos de la Presa, Villa de Rascafría, Robledo de Chavela, Rozas de Puerto Real, San Martín de Valdeiglesias, Sevilla la Nueva, Torremocha de Jarama, Valdemanco, Valdepiélagos, Valverde de Alcalá, Villa del Prado, Villanueva de Perales y Villavieja del Lozoya, para implantar un sistema de información al consumidor",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Adenda de 2 de diciembre de 2024, de prórroga para el año 2025 y modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y empleo, la Asociación de Amas de Casa y Consumidores-Usuarios de la Comunidad de Madrid “Ascensión Sedeño” (AACCU), y los ayuntamientos de Alpedrete, Becerril de la Sierra, El Boalo-Cerceda-Mataelpino, Cercedilla, Collado Mediano, Colmenar del Arroyo, Fresnedillas de la Oliva, Guadalix de la Sierra, Manzanares el Real, Miraflores de la Sierra, Los Molinos, Moralzarzal, Navacerrada, Navalagamella, Santa María de la Alameda, Soto del Real y Villamanta, para implantar un sistema de información al consumidor",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-30.PDF"
     }
