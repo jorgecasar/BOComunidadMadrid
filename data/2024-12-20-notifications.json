@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 17 de diciembre de 2024, por la que se aprueba la Oferta de Empleo Público de Personal Técnico, Gestión y Administración y Servicios de la Universidad Rey Juan Carlos para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 17 de diciembre de 2024, de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria pública para la provisión de varios puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/19/BOCM-20241219-15.PDF"
     }
