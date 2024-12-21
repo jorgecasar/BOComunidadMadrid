@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Becerril de la Sierra",
-      "description": "Ofertas de empleo: Nombramiento personal laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Brunete",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-55.PDF"
