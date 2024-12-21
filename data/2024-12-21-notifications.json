@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Decreto 114/2024, de 18 de diciembre, del Consejo de Gobierno, por el que se modifica el Decreto 163/2008, de 29 de diciembre, del Consejo de Gobierno, por el que se regula la actividad de control de acceso a espectáculos públicos y actividades recreativas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 10 de diciembre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se nombra personal funcionario de carrera del Cuerpo Superior de Inspección Sanitaria, Escala de Farmacéuticos de Inspección Sanitaria, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-2.PDF"
