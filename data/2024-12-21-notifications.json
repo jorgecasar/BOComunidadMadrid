@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Orden de 11 de diciembre de 2024, del Consejero de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Vivienda, Transportes e Infraestructuras, por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución 4319/2024, de 25 de noviembre, del Director-Gerente de la Agencia de Vivienda Social, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo de carrera de naturaleza laboral, denominado “Conductor Alto Cargo”, por el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-10.PDF"
     }
