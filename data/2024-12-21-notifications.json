@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo 97/2024, de 28 de noviembre, de la Comisión de Urbanismo de Madrid, relativo a la aprobación inicial del «Plan Especial de Infraestructuras Planta Fotovoltaica “Cobesol” e infraestructuras de evacuación», en los términos municipales de Cobeña y San Sebastián de los Reyes, promovido por Meletea Investments, S. L.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 17 de diciembre de 2024, del Consejo de Administración de la Agencia de Seguridad y Emergencias de Madrid, por el que se aprueba la concesión de la subvención destinada a la compra de vestuario, placa emblema, emblemas y divisas identificativas, para los cuerpos de policía local/municipal de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-20.PDF"
     }
