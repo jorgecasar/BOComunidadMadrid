@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2379/2024, de 5 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba el Plan Estratégico de Subvenciones de la Dirección General de Turismo y Hostelería para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 4 de diciembre 2024, de la Universidad Carlos III de Madrid, por la que se publica la modificación de varios planes de estudio de Graduado o Graduada, así como la creación del plan nuevo del Grado en Neurociencia/Bachelor in Neuroscience",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-22.PDF"
