@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución de 12 de noviembre de 2024, del Director-Gerente de la Agencia de Vivienda Social de la Comunidad de Madrid, por la que se hace pública el desierto del contrato denominado “Suministro en régimen de arrendamiento financiero sin opción a compra de 14 vehículos industriales, asegurados a todo riesgo, incluidos todos los mantenimientos, permisos y licencias para su circulación”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 18 de diciembre de 2024, por el que se convoca la licitación para la contratación del servicio de apoyo al mantenimiento de instalaciones de línea aérea en vías principales y depósitos de Metro de Madrid. (Expediente 6012400435)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-26.PDF"
     }
