@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 18 de diciembre de 2024, por el que se convoca la licitación para la contratación del servicio de apoyo al mantenimiento de instalaciones de línea aérea en vías principales y depósitos de Metro de Madrid. (Expediente 6012400435)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 18 de diciembre de 2024, por el que se convoca la licitación para la contratación del acuerdo marco para los trabajos de reacondicionamiento, mejora ante filtraciones y de monitorización de ascensores. (Expediente 6012400437)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-27.PDF"
     }
