@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Bustarviejo",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenar Viejo",
       "description": "Urbanismo: Plan general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-57.PDF"
