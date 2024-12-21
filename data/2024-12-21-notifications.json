@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución de 11 de diciembre de 2024, de la Dirección General de Transportes y Movilidad de la Consejería de Vivienda, Transportes e Infraestructuras, sobre la aplicación del artículo 2 de la Orden de 17 de diciembre de 2019, de la Consejería de Transportes, Movilidad e Infraestructuras, sobre régimen tarifario de los servicios interurbanos de autotaxi",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 11 de diciembre de 2024, del Consejo de Gobierno, por el que se aprueba la prórroga, durante el año 2025, del programa de apoyo a las Policías Locales de la Comunidad de Madrid para los años 2021 a 2024, aprobado mediante acuerdo de 29 de diciembre de 2020, del Consejo de Gobierno",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-18.PDF"
