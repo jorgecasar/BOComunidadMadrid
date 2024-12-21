@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 10 de diciembre de 2024, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Especial Superior de Servicios de la Universidad Autónoma de Madrid, por el sistema general de oposición libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5136/2024, de 2 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se reconoce una nueva beneficiaria de las ayudas para la contratación de personal investigador predoctoral en formación correspondientes al año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-15.PDF"
