@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo de 11 de diciembre de 2024, del Consejo de Gobierno, por el que se aprueba la prórroga, durante el año 2025, del programa de apoyo a las Policías Locales de la Comunidad de Madrid para los años 2021 a 2024, aprobado mediante acuerdo de 29 de diciembre de 2020, del Consejo de Gobierno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo 97/2024, de 28 de noviembre, de la Comisión de Urbanismo de Madrid, relativo a la aprobación inicial del «Plan Especial de Infraestructuras Planta Fotovoltaica “Cobesol” e infraestructuras de evacuación», en los términos municipales de Cobeña y San Sebastián de los Reyes, promovido por Meletea Investments, S. L.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-19.PDF"
     }
