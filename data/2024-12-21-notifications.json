@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución 4319/2024, de 25 de noviembre, del Director-Gerente de la Agencia de Vivienda Social, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo de carrera de naturaleza laboral, denominado “Conductor Alto Cargo”, por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 2138/2024, de 9 de diciembre, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 1567/2024, de 25 de septiembre, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de octubre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-11.PDF"
