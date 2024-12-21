@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 4 de diciembre 2024, de la Universidad Carlos III de Madrid, por la que se publica la modificación de varios planes de estudio de Graduado o Graduada, así como la creación del plan nuevo del Grado en Neurociencia/Bachelor in Neuroscience",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 9 de diciembre de 2024, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se dispone la publicación del anuncio previo relativo al contrato denominado: “Servicios de oficina de gestión de proyectos (project management office) de la Ciudad de la Justicia de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/20/BOCM-20241220-23.PDF"
