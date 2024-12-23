@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Convenio de 3 de diciembre de 2024, entre la Consejería de Vivienda, Transportes e Infraestructuras y la Agencia de Vivienda Social de la Comunidad de Madrid, por el que se instrumentaliza la concesión directa de una subvención para la adquisición de viviendas a la sociedad de gestión de activos procedentes de la Reestructuración Bancaria, S. A. (SAREB, S. A).",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/21/BOCM-20241221-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Convenio de 1 de octubre de 2024, de colaboración entre el Servicio Madrileño de Salud y la Oficina de Gestión y Liquidación de los Derechos Individuales de la Comisión Europea, para la ordenación de la asistencia sanitaria del personal al servicio de las instituciones europeas incluido en el régimen común de seguro de enfermedad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/21/BOCM-20241221-5.PDF"
