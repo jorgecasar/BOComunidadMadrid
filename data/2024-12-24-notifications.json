@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 10 de diciembre de 2024, de la Directora General de Comercio, Consumo y Servicios, por la que se convoca la fase autonómica de la Comunidad de Madrid del concurso escolar 2024-2025 Consumópolis 20: ¿Sabes lo que consumes? Únete a un consumo más consciente y solidario",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5884/2024, de 19 de diciembre, de la Consejería de Educación, Ciencia y Universidades, por la que se declaran los expedientes excluidos en la relación con la Orden 5925/2024, por la que se resuelve la convocatoria de becas para el estudio de Programas de Segunda Oportunidad correspondiente al curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-20.PDF"
