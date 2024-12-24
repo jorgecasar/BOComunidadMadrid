@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Acuerdo de 11 de diciembre de 2024, del Consejo de Gobierno, por el que se aprueba expresa y formalmente el Acuerdo de 2 de diciembre de 2024, de la Mesa Sectorial del Personal Funcionario de Administración y Servicios, sobre condiciones de trabajo del personal funcionario de administración y servicios de la Comunidad de Madrid (2025-2028)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 5 de diciembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de tres puestos de trabajo vacantes en la Consejería de Medio Ambiente, Agricultura e Interior (Organismo Autónomo Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-2.PDF"
     }
