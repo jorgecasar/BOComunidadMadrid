@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 12 de diciembre de 2024, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento abreviado número 262/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 12 de diciembre de 2024, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento abreviado número 65/2023, a fin de que puedan personarse en autos, si a su derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-31.PDF"
     }
