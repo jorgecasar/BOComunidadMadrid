@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 19 de diciembre de 2024, de adjudicación del contrato titulado “Suministro, instalación, puesta en servicio y mantenimiento de puertas de andén en la línea 6 de Metro de Madrid” (expediente 6012400294)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 10 de diciembre de 2024, de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud, por la que se hace pública la formalización del contrato denominado “Adquisición de aparataje sanitario con destino a los Centros Sanitarios de Atención Primaria del Servicio Madrileño de Salud”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-28.PDF"
