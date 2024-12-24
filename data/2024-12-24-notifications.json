@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 19 de diciembre de 2024, de adjudicación del contrato titulado “Obras de actualización sistema señalización y CBTC asociados a la renovación de material móvil y plataforma de vía de la Línea 6 de Metro de Madrid” (Expediente 6012400295)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 19 de diciembre de 2024, de adjudicación del contrato titulado “Suministro, instalación, puesta en servicio y mantenimiento de puertas de andén en la línea 6 de Metro de Madrid” (expediente 6012400294)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-27.PDF"
     }
