@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ciempozuelos",
-      "description": "Organización y funcionamiento: Candidatura juez de paz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Collado Mediano",
       "description": "Personal: Nombramiento personal laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-58.PDF"
