@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo de 18 de diciembre de 2024, del Consejo de Gobierno, por el que se determinan las cuantías correspondientes a la prórroga durante el año 2025 del programa de apoyo a las policías locales de la Comunidad de Madrid para los años 2021 a 2024 y se autoriza el gasto de tramitación anticipada en materia de personal por un importe total de 64.817.530,30 euros",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 11 de diciembre de 2024, de la Fundación de la Energía de la Comunidad de Madrid, por la que se amplía la cuantía del crédito presupuestario consignado la Resolución de la Fundación de la Energía de la Comunidad de Madrid, de 15 de julio de 2021, por la que se convoca la concesión de ayudas a la movilidad eléctrica del Programa Moves III, años 2021-2022-2023-2024. Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU, Ministerio para la Transición Ecológica y el Reto Demográfico",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-25.PDF"
     }
