@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 12 de diciembre de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso selectivo extraordinario de estabilización de empleo temporal del personal funcionario para el ingreso en el Cuerpo de Técnicos y Diplomados Especialistas, Escala de Asistentes Sociales, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 12 de diciembre de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso selectivo de estabilización de empleo temporal de personal funcionario para el ingreso en el Cuerpo de Técnicos Auxiliares de Administración Especial, Especialidad de Salud Pública, Grupo C, Subgrupo C1",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-8.PDF"
     }
