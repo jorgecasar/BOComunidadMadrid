@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Arganda del Rey",
-      "description": "Organización y funcionamiento: Ordenanza tarjeta estacionamiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Arganda del Rey",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-53.PDF"
     }
