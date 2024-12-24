@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Casarrubuelos",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Ciempozuelos",
       "description": "Organización y funcionamiento: Candidatura juez de paz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-57.PDF"
