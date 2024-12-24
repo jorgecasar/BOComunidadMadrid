@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 5873/2024, de 17 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se amplía la cuantía del crédito presupuestario establecido inicialmente en la Orden 3664/2024, de 13 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se convocan para 2024 las ayudas para contribuir a la mejora de la cooperación público privada en materia de I+D+I mediante proyectos de efecto tractor en consorcio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 16 de diciembre de 2024, de la Consejería de Vivienda, Trasportes e Infraestructuras, por la que conceden subvenciones del programa de “Mejora de la accesibilidad en y a las viviendas” para la convocatoria 2023, previstas en el Real Decreto 42/2022, de 18 de enero, por el que se regula el Bono Alquiler Joven y el Plan Estatal para el acceso a la vivienda 2022-2025 y se aprueba el listado definitivo de solicitantes excluidos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/23/BOCM-20241223-23.PDF"
