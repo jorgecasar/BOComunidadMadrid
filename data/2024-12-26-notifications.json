@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 9 de diciembre de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo del Sector de la Madera de la Comunidad de Madrid. Suscrito por la/s organizaciones empresariales ACOMAT, AFAMID y APISMA y por la representación sindical CC. OO. y UGT (Código número 28002235011982)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/24/BOCM-20241224-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 27 de noviembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Altura X Estudio de Diseño, S. L., para la realización de prácticas externas de los alumnos de la Escuela Superior de Diseño",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/24/BOCM-20241224-2.PDF"
