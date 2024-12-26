@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 4 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Disline Comunicaciones, S. L., para la realización de prácticas extracurriculares remuneradas de los alumnos de la Escuela Superior de Diseño",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/24/BOCM-20241224-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 4 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Spainmedia Consulting, S. L., para la realización de prácticas externas de los alumnos de la Escuela Superior de Diseño",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/24/BOCM-20241224-4.PDF"
     }
