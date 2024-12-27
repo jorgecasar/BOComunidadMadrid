@@ -1,0 +1,970 @@
+[
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Presidencia de La Comunidad",
+      "description": "Ley 6/2024, de 20 de diciembre, de Adaptación Normativa de la Comunidad de Madrid a la nueva terminología para referirse a las personas con discapacidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Orden de 12 de diciembre de 2024, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Anuncio de 13 de diciembre de 2024, de Radio Televisión Madrid, S. A. U., para la provisión de una plaza mediante convocatoria pública",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 3200/2024, de 11 de diciembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas de promoción interna para el ingreso en el Cuerpo de Bomberos de la Comunidad de Madrid, Escala Técnica o de Mando, Categoría de Inspector, Grupo A, Subgrupo A1",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Resolución 834/2024, de 20 de diciembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se aprueban y declaran las listas provisionales de la Fase de Oposición o valoración de conocimientos y capacidades del proceso selectivo convocado mediante Resolución 598/2023, de 23 de octubre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 259, del 31 de octubre de 2023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 16 de diciembre de 2024, de la Dirección General de Recursos Humanos, por la que se aprueba el expediente del procedimiento selectivo de estabilización, por el sistema de concurso-oposición, para ingreso en el Cuerpo de Maestros, convocado por Resolución de 19 de diciembre de 2022 y se declaran aptos en la fase de prácticas a los aspirantes seleccionados",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 2182/2024, de 13 de diciembre, de la Consejería de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 1325/2024, de 13 de agosto (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 3 de septiembre de 2024), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Resolución de 10 de diciembre de 2024, del Director General de Reequilibrio Territorial de la Consejería de Presidencia, Justicia y Administración Local, por la que se hace pública la convocatoria del Programa de Formación para el personal y cargos electos de las Entidades Locales de la Comunidad de Madrid correspondiente al primer semestre de 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 12 de diciembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se declara el importe del crédito presupuestario destinado a la ampliación del crédito disponible para la concesión directa en el año 2024 de ayudas para el fomento de la responsabilidad social y la conciliación laboral",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 5694/2024, de 10 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria correspondiente al año 2024 de las ayudas a proyectos de I+D realizados en colaboración entre grupos de investigación pertenecientes a las universidades y organismos de investigación de la Comunidad de Madrid en la modalidad de programas de actividades de I+D en Procesos Humanos y Sociales, convocadas por la Orden 3176/2024, de 10 de julio, del Consejero de Educación, Ciencia y Universidades",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 5696/2024, de 10 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria correspondiente al año 2024 de las ayudas a proyectos de I+D realizados en colaboración entre grupos de investigación pertenecientes a las universidades y organismos de investigación de la Comunidad de Madrid en la modalidad de programas de actividades de I+D en tecnologías convocadas por Orden 3177/2024, de 10 de julio, del Consejero de Educación, Ciencia y Universidades",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 5836/2024, de 13 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se corrige un error material en la Orden 5696/2024, de 10 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria correspondiente al año 2024 de las ayudas a proyectos de I+D realizados en colaboración entre grupos de investigación pertenecientes a las universidades y organismos de investigación de la Comunidad de Madrid en la modalidad de programas de actividades de I+D en tecnologías convocadas por Orden 3177/2024, de 10 de julio, del Consejero de Educación, Ciencia y Universidades",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Resolución de 13 de diciembre de 2024, de la Dirección General de Transportes y Movilidad, por la que se nombra el Tribunal de las pruebas para la obtención del certificado de aptitud profesional acreditativo de la cualificación inicial de los conductores de determinados vehículos destinados al transporte por carretera correspondientes al año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Resolución de 13 de diciembre de 2024, de la Dirección General de Transportes y Movilidad de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se nombra el tribunal para las pruebas para la obtención del certificado de competencia profesional para el ejercicio de las actividades de transporte público por carretera, a celebrar en el año 2025 en la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Extracto de la Resolución de la Fundación de la Energía de la Comunidad de Madrid, por la que se convocan ayudas para incentivar la sustitución de ventanas, en viviendas del sector residencial, en desarrollo del Plan Renove de ventanas de la Comunidad de Madrid para el año 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 2364/2024, de 4 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se concede una ayuda al club madrileño cuyo recurso administrativo ha sido estimado, derivado de la Orden 308/2024, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria para el año 2024 de subvenciones destinadas a asociaciones deportivas madrileñas, excepto federaciones deportivas, para la participación en competiciones deportivas oficiales para el año 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Resolución de 5 de diciembre de 2024, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” del Portal de Contratación Pública de la Comunidad de Madrid de la licitación del contrato titulado “Dirección facultativa y coordinación de seguridad y salud en la ejecución de las obras de construcción de la Ciudad de la Justicia de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Resolución de 10 de diciembre de 2024, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de “Servicios de asistencia material y técnica en los procesos de selección de personal laboral de las tasas de reposición de los años 2019 a 2025, mediante convocatoria pública, en la empresa pública Planifica Madrid, Proyectos y Obras, M. P., S. A.”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 11 de diciembre de 2024, de la Secretaria General Técnica de la Consejería de Educación, Ciencia y Universidades, por la que se dispone la publicación de la formalización del contrato de servicios denominado «Formación de la ciudadanía en competencias digitales transversales en el marco del Componente 19 “Plan Nacional de Competencias Digitales” del Plan de Recuperación, Transformación y Resiliencia (PRTR), Inversión 01 “Competencias Digitales Transversales” y Proyecto 01 “Red de Centros de Capacitación Digital” (C19.I01.P01), financiado con fondos del Mecanismo de Recuperación y Resiliencia (MRR)»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 13 de diciembre de 2024, del Director General de Recursos Humanos, por la que se emplaza a los posibles interesados para que puedan personarse como demandados en el recurso contencioso-administrativo interpuesto por doña María Rosario Arriba del Amo en relación con el procedimiento selectivo convocado por Resolución de 20 de diciembre de 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 13 de diciembre de 2024, del Director General de Recursos Humanos, por la que se emplaza a los posibles interesados para que puedan personarse como demandados en el recurso contencioso-administrativo interpuesto por doña Encarnación González Sacristán en relación con el procedimiento selectivo convocado por Resolución de 20 de diciembre de 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 20 de diciembre de 2024, por el que se convoca la licitación para la contratación del suministro para la conversión del sistema SAP a S/4HANA, migración de GRC, migración de BW y suministro de infraestructura y licencias en Metro de Madrid, S. A. (Expediente: 6012400445)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 12 de diciembre de 2024, de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud, por la que se hace pública la convocatoria de licitación denominado “Suministro de consumibles de informática: tóneres y accesorios con destino a los Centros de Salud y Consultorios Locales dependientes de la Gerencia Asistencial de Atención Primaria”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 12 de diciembre de 2024, de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud, por la que se hace pública la convocatoria de licitación denominado “Servicio de control integrado de plagas (desinfección, desinsectación y desratización), y de la gestión de otros animales en los centros dependientes de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 12 de diciembre de 2024, de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud, por la que se hace pública la convocatoria de licitación denominada “Servicio de redacción, actualización e implantación de planes de emergencia y planes de autoprotección en los centros dependientes de la Gerencia Asistencial de Atención Primaria”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 10 de diciembre de 2024, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la formalización del contrato de suministro de material de implantes de radiología vascular. P. A. 2024-0-6",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 12 de diciembre de 2024, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato para el «Servicio de Farmacia del Hospital Universitario “Ramón y Cajal” de la especialidad farmacéutica Tysabri 150 mg 1 ml jeringa prec. C/2 (Natalizumab)»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 12 de diciembre de 2024, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de servicios de mantenimiento de las zonas ajardinadas del Hospital Universitario “Ramón y Cajal” y Centros Adscritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 20 de noviembre de 2024, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación de la modificación del contrato mixto de servicios denominado “Mantenimiento, control de calidad y apoyo a la gestión de la red de calidad del aire de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 10 de diciembre de 2024, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Cañada de Merinas, en el término municipal de La Serna del Monte, para la ejecución de acometida de agua, actuación promovida por Canal de Isabel II, S. A., M. P.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 10 de diciembre de 2024, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe Ambiental Estratégico de la Modificación Puntual no sustancial del PSDU Parcela 95-Polígono 8 Ladera de las Eras, del término municipal de Garganta de los Montes, promovido por el Ayuntamiento de Garganta de los Montes. (Expediente: 26-UB2-00134.1/2023, SIA 23/132)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 11 de diciembre de 2024, de la Secretaria General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato denominado “Servicio de operación y mantenimiento integral de las instalaciones solares fotovoltaicas propiedad de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 12 de diciembre de 2024, de Canal de Isabel II, S. A., M. P., por la que se hace pública la formalización del contrato adjudicado por procedimiento abierto para “Servicios de mantenimiento de parques y áreas recreativas de Canal de Isabel II, S. A., M. P.”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Anuncio de 12 de diciembre de 2024, de Canal de Isabel II, S. A., M. P., por el que se hace pública la convocatoria del contrato por procedimiento abierto para el suministro e instalación de señalización identificativa de Canal de Isabel II, S. A., M. P.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 3 de diciembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y la Mancomunidad de Servicios del Suroeste de Madrid para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 3 de diciembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y la Mancomunidad de Servicios Sociales Sierra Oeste, para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 3 de diciembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y la Mancomunidad de Servicios Sociales Sierra Norte para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 3 de diciembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y la Mancomunidad de Servicios Sociales del Este de Madrid (MISSEM) para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 3 de diciembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y la Mancomunidad del Sudeste de la Comunidad de Madrid (MISECAM), para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 3 de diciembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Alcorcón para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 3 de diciembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Alcobendas para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 3 de diciembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Collado Villalba, para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 3 de diciembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Coslada, para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 3 de diciembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Fuenlabrada para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 3 de diciembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Boadilla del Monte para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 11 de diciembre de 2024, de cese de actividad de las agencias de viajes CIST Turismo, S. L. y Stella Kathrin Viajes, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Moviidad. Disolución Junta Compensación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Proyecto reparcelación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Proyecto reparcelación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Otros anuncios: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Período cámaras lector OCR",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Urbanismo: Plan general ordenación urbana",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcobendas",
+      "description": "Ofertas de empleo: Servicio y Obras Municipales de Alcobendas (SEROMAL, S. A.). Bases procesos selectivos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcobendas",
+      "description": "Ofertas de empleo: Servicio y Obras Municipales de Alcobendas (SEROMAL, S. A.). Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aldea del Fresno",
+      "description": "Organización y funcionamiento: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Becerril de la Sierra",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Bustarviejo",
+      "description": "Personal: Plantilla personal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Campo Real",
+      "description": "Urbanismo: Iniciativa urbanística",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Villalba",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Villalba",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Villalba",
+      "description": "Personal: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenar de Oreja",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenar de Oreja",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Álamo",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Escorial",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Molar",
+      "description": "Urbanismo: Proyecto urbanización",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fresnedillas de la Oliva",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Galapagar",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Urbanismo: Estudio detalle",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Hoyo de Manzanares",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "La Cabrera",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "La Cabrera",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-80.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "La Cabrera",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-81.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "La Cabrera",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-82.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Las Rozas de Madrid",
+      "description": "Urbanismo: Permuta bienes",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-83.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Régimen económico: Bases concurso desfile carnaval",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-84.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Majadahonda",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-85.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Majadahonda",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-86.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mejorada del Campo",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-87.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mejorada del Campo",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-88.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Miraflores de la Sierra",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-89.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Moraleja de Enmedio",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-90.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Morata de Tajuña",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-91.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navalagamella",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-92.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navalcarnero",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-93.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Nuevo Baztán",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-94.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Nuevo Baztán",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-95.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Nuevo Baztán",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-96.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Nuevo Baztán",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-97.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Nuevo Baztán",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-98.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Paracuellos de Jarama",
+      "description": "Personal: Relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-99.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pedrezuela",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-100.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-101.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Agustín del Guadalix",
+      "description": "Personal: Nombramiento funcionarios carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-102.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Agustín del Guadalix",
+      "description": "Urbanismo: Estudio detalle",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-103.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Fernando de Henares",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-104.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Fernando de Henares",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-105.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Lorenzo del El Escorial",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-106.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de Valdeiglesias",
+      "description": "Régimen económico: Matrícula impuestos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-107.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de Valdeiglesias",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-108.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-109.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Santa María de la Alameda",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-110.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Toremocha de Jarama",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-111.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdilecha",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-112.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villamantilla",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-113.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villamantilla",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-114.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villamantilla",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-115.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villamantilla",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-116.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villamantilla",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-117.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaviciosa de Odón",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-118.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad Intermunicipal de Servicios Sociales Las Vegas",
+      "description": "Organización y funcionamiento: Estatutos Mancomunidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-119.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomuinidad de Servicios Sociales THAM",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-120.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios Valle Medio del Lozoya",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-121.PDF"
+    }
+  }
+]
