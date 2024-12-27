@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución 834/2024, de 20 de diciembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se aprueban y declaran las listas provisionales de la Fase de Oposición o valoración de conocimientos y capacidades del proceso selectivo convocado mediante Resolución 598/2023, de 23 de octubre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 259, del 31 de octubre de 2023)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 16 de diciembre de 2024, de la Dirección General de Recursos Humanos, por la que se aprueba el expediente del procedimiento selectivo de estabilización, por el sistema de concurso-oposición, para ingreso en el Cuerpo de Maestros, convocado por Resolución de 19 de diciembre de 2022 y se declaran aptos en la fase de prácticas a los aspirantes seleccionados",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-6.PDF"
