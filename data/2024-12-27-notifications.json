@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Ofertas de empleo: Servicio y Obras Municipales de Alcobendas (SEROMAL, S. A.). Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Aldea del Fresno",
       "description": "Organización y funcionamiento: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-56.PDF"
