@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Resolución de 10 de diciembre de 2024, del Director General de Reequilibrio Territorial de la Consejería de Presidencia, Justicia y Administración Local, por la que se hace pública la convocatoria del Programa de Formación para el personal y cargos electos de las Entidades Locales de la Comunidad de Madrid correspondiente al primer semestre de 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 12 de diciembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se declara el importe del crédito presupuestario destinado a la ampliación del crédito disponible para la concesión directa en el año 2024 de ayudas para el fomento de la responsabilidad social y la conciliación laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-9.PDF"
