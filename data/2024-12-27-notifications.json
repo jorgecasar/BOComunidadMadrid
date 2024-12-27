@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 16 de diciembre de 2024, de la Dirección General de Recursos Humanos, por la que se aprueba el expediente del procedimiento selectivo de estabilización, por el sistema de concurso-oposición, para ingreso en el Cuerpo de Maestros, convocado por Resolución de 19 de diciembre de 2022 y se declaran aptos en la fase de prácticas a los aspirantes seleccionados",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 2182/2024, de 13 de diciembre, de la Consejería de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 1325/2024, de 13 de agosto (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 3 de septiembre de 2024), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-7.PDF"
