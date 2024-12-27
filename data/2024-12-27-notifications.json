@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución de 13 de diciembre de 2024, de la Dirección General de Transportes y Movilidad de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se nombra el tribunal para las pruebas para la obtención del certificado de competencia profesional para el ejercicio de las actividades de transporte público por carretera, a celebrar en el año 2025 en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Resolución de la Fundación de la Energía de la Comunidad de Madrid, por la que se convocan ayudas para incentivar la sustitución de ventanas, en viviendas del sector residencial, en desarrollo del Plan Renove de ventanas de la Comunidad de Madrid para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-15.PDF"
