@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2364/2024, de 4 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se concede una ayuda al club madrileño cuyo recurso administrativo ha sido estimado, derivado de la Orden 308/2024, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria para el año 2024 de subvenciones destinadas a asociaciones deportivas madrileñas, excepto federaciones deportivas, para la participación en competiciones deportivas oficiales para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 5 de diciembre de 2024, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” del Portal de Contratación Pública de la Comunidad de Madrid de la licitación del contrato titulado “Dirección facultativa y coordinación de seguridad y salud en la ejecución de las obras de construcción de la Ciudad de la Justicia de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-17.PDF"
