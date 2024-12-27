@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcobendas",
-      "description": "Ofertas de empleo: Servicio y Obras Municipales de Alcobendas (SEROMAL, S. A.). Bases procesos selectivos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcobendas",
       "description": "Ofertas de empleo: Servicio y Obras Municipales de Alcobendas (SEROMAL, S. A.). Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-55.PDF"
     }
