@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5694/2024, de 10 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria correspondiente al año 2024 de las ayudas a proyectos de I+D realizados en colaboración entre grupos de investigación pertenecientes a las universidades y organismos de investigación de la Comunidad de Madrid en la modalidad de programas de actividades de I+D en Procesos Humanos y Sociales, convocadas por la Orden 3176/2024, de 10 de julio, del Consejero de Educación, Ciencia y Universidades",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5696/2024, de 10 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria correspondiente al año 2024 de las ayudas a proyectos de I+D realizados en colaboración entre grupos de investigación pertenecientes a las universidades y organismos de investigación de la Comunidad de Madrid en la modalidad de programas de actividades de I+D en tecnologías convocadas por Orden 3177/2024, de 10 de julio, del Consejero de Educación, Ciencia y Universidades",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-11.PDF"
     }
