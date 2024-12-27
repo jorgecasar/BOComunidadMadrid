@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Aldea del Fresno",
-      "description": "Organización y funcionamiento: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Becerril de la Sierra",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-57.PDF"
