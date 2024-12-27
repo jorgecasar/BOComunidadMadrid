@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Resolución de la Fundación de la Energía de la Comunidad de Madrid, por la que se convocan ayudas para incentivar la sustitución de ventanas, en viviendas del sector residencial, en desarrollo del Plan Renove de ventanas de la Comunidad de Madrid para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 2364/2024, de 4 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se concede una ayuda al club madrileño cuyo recurso administrativo ha sido estimado, derivado de la Orden 308/2024, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria para el año 2024 de subvenciones destinadas a asociaciones deportivas madrileñas, excepto federaciones deportivas, para la participación en competiciones deportivas oficiales para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-16.PDF"
