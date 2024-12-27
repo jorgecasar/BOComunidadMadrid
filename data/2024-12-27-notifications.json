@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Anuncio de 13 de diciembre de 2024, de Radio Televisión Madrid, S. A. U., para la provisión de una plaza mediante convocatoria pública",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden 3200/2024, de 11 de diciembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas de promoción interna para el ingreso en el Cuerpo de Bomberos de la Comunidad de Madrid, Escala Técnica o de Mando, Categoría de Inspector, Grupo A, Subgrupo A1",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-4.PDF"
