@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden 3200/2024, de 11 de diciembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas de promoción interna para el ingreso en el Cuerpo de Bomberos de la Comunidad de Madrid, Escala Técnica o de Mando, Categoría de Inspector, Grupo A, Subgrupo A1",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Resolución 834/2024, de 20 de diciembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se aprueban y declaran las listas provisionales de la Fase de Oposición o valoración de conocimientos y capacidades del proceso selectivo convocado mediante Resolución 598/2023, de 23 de octubre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 259, del 31 de octubre de 2023)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-5.PDF"
