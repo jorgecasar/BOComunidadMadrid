@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 13 de diciembre de 2024, del Director General de Recursos Humanos, por la que se emplaza a los posibles interesados para que puedan personarse como demandados en el recurso contencioso-administrativo interpuesto por doña Encarnación González Sacristán en relación con el procedimiento selectivo convocado por Resolución de 20 de diciembre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 20 de diciembre de 2024, por el que se convoca la licitación para la contratación del suministro para la conversión del sistema SAP a S/4HANA, migración de GRC, migración de BW y suministro de infraestructura y licencias en Metro de Madrid, S. A. (Expediente: 6012400445)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/26/BOCM-20241226-22.PDF"
