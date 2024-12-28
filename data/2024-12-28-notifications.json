@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 2191/2024, de 16 de diciembre, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 1404/2024, de 29 de agosto, de la Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 10 de septiembre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 2195/2024, de 16 de diciembre, de la Consejería de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 1326/2024, de 13 de agosto (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 3 de septiembre de 2024), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-25.PDF"
     }
