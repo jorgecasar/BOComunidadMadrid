@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 2178/2024, de 13 de diciembre, de la Consejera de Sanidad, por la que se aprueba el Plan Estratégico de Subvenciones de la Consejería de Sanidad de la Comunidad de Madrid para los años 2025, 2026 y 2027",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 11 de diciembre de 2024, de la Dirección General de Investigación y Docencia, para la tramitación de solicitudes de obtención del Diploma de Acreditación en el Área Funcional de Paliativos por la vía excepcional, en aplicación de lo previsto en el Acuerdo del Consejo Interterritorial del Sistema Nacional de Salud, de 21 de diciembre de 2023, de creación del Diploma de Acreditación en el Área Funcional de Paliativos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-38.PDF"
     }
