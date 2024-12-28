@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 16 de diciembre de 2024, de la Dirección General de Trabajo, por la que se modifica parcialmente la Resolución de 3 de diciembre de 2024, de la Dirección General de Trabajo, por la que se declaran las fiestas laborales de ámbito local en la Comunidad de Madrid para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5014/2024, de 2 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los premios extraordinarios de la Comunidad de Madrid de Formación Profesional de Grado Superior correspondientes al curso académico 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-33.PDF"
