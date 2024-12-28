@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5917/2024, de 19 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de 2024 de ayudas para a la adquisición de equipamiento científico-técnico de los laboratorios de la red de laboratorios e infraestructuras científico-técnicas de la Comunidad de Madrid (REDLAB) cofinanciada por el Fondo Europeo de Desarrollo Regional convocadas por Orden 4635/2024, de 16 de octubre, del Consejero de Educación, Ciencia y Universidades",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 26 de noviembre de 2024, de la Viceconsejería de Política y Organización Educativa, por la que se da publicidad a los protocolos de actuación ante cualquier tipo de violencia en los centros educativos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-36.PDF"
     }
