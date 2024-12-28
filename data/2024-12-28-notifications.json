@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5014/2024, de 2 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los premios extraordinarios de la Comunidad de Madrid de Formación Profesional de Grado Superior correspondientes al curso académico 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5521/2024, de 27 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se actualiza el Plan Anual de Publicaciones 2024 de la Consejería de Educación, Ciencia y Universidades",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-34.PDF"
     }
