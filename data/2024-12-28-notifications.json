@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 18 de diciembre de 2024, de la Dirección General de Función Pública, por la que se resuelven las pruebas selectivas del proceso extraordinario de estabilización de empleo temporal del personal laboral para el acceso a plazas de la categoría profesional de Titulado Superior Especialista, Especialidad Investigación Agropecuaria, Alimentaria y Medioambiental (Grupo I, Nivel 10, Área B), de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de Medidas Urgentes para la Reducción de la Temporalidad en el Empleo Público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 18 de diciembre de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso extraordinario de estabilización de empleo temporal para el acceso a plazas de carácter laboral de la categoría profesional de Técnico Agropecuario (Grupo III, Nivel 5, Área B) de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-14.PDF"
     }
