@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Pleno del Ayuntamiento. Ordenanza fiscal tasa servicios urbanísticos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Pleno del Ayuntamiento. Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-60.PDF"
     }
