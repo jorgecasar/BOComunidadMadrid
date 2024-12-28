@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 2223/2024, de 19 de diciembre, de la Consejera de Sanidad, por la que se convoca el proceso de integración voluntaria para el personal que presta servicios en las instituciones sanitarias del Servicio Madrileño de Salud en las nuevas categorías estatutarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 13 de diciembre de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se procede a declarar la pérdida de derechos de varios aspirantes en las pruebas selectiva por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Pinche del Servicio Madrileño de Salud, por incumplimiento de requisitos, renuncia o no toma posesión de la plaza adjudicada",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-27.PDF"
     }
