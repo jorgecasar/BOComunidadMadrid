@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Asamblea de Madrid",
-      "description": "Resolución de 16 de diciembre de 2024, de la Secretaría General, por la que se aprueban las listas provisionales de admitidos y excluidos de la convocatoria para la cobertura de 4 plazas del Cuerpo de Letrados de la Asamblea de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 269, de 11 de noviembre de 2024)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden 3229/2024, de 14 de diciembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas para el ingreso, por el sistema general de acceso libre y de promoción interna, en el Cuerpo de Bomberos de la Comunidad de Madrid, Escala Técnica o de Mando, Categoría de Oficial de Área, Grupo A, Subgrupo A1",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-4.PDF"
