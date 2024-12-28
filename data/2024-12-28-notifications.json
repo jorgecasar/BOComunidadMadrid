@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 13 de diciembre de 2024, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Acuerdo de 26 de diciembre de 2024, del Consejo de Gobierno, por el que se fija el calendario para el año 2025 de días inhábiles a efectos del cómputo de plazos administrativos en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-31.PDF"
