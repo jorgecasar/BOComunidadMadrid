@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 23 de diciembre de 2024, por el que se convoca la licitación para la contratación de un servicio de asistencia técnica e ingeniería de repuestos y de especialidad eléctrica e instalaciones de Metro de Madrid (Expediente 6012400440)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 23 de diciembre de 2024, por el que se convoca la licitación para la contratación de un “Servicio de soporte al mantenimiento de pozos de bombas” (expediente 6012400443)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-45.PDF"
     }
