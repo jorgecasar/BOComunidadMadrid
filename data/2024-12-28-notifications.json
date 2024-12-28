@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 23 de diciembre de 2024, de la Directora de la Fundación para la Investigación Biomédica del Hospital Universitario “12 de Octubre”, por la que se anuncia proceso selectivo de personal laboral fijo den la Fundación para la Investigación Biomédica del Hospital Universitario “12 de Octubre” (FIBH12O) para cubrir una plaza de Investigador Biosanitario Doctor con certificación I3 bajo la modalidad de Investigador Distinguido para la línea de investigación en Hematología Traslacional",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 23 de diciembre de 2024, de la Fundación General Universidad de Alcalá, por la que se publica la Oferta de Empleo Público para el año 2024 del Personal con Carácter Indefinido, con cargo a la tasa de reposición específica de efectivos para 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/27/BOCM-20241227-29.PDF"
