@@ -1,0 +1,46 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 309,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/12/28/BOCM-20241228309.PDF",
+      "total": 8,
+      "items": {
+        "Comunidad de Madrid": 4,
+        "Administración de Justicia": 4
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 13 de diciembre de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del Convenio Colectivo de la Mancomunidad de Servicios Sierra Norte (Código número 28103952012024)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/28/BOCM-20241228-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Convenio de 11 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Fundación Antonio Gades para la realización de prácticas externas de los alumnos del Conservatorio Superior de Danza “María de Ávila”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/28/BOCM-20241228-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Convenio de 11 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Fundación Psico Ballet Maite León para la realización de prácticas externas de los alumnos del Conservatorio Superior de Danza “María de Ávila”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/28/BOCM-20241228-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Convenio de 10 de diciembre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Fundación AVA, para la adecuación de un espacio, mediante la reforma, acondicionamiento y dotación de mobiliario del mismo, en la planta segunda en la Unidad de Cuidados Intensivos de Neonatología del Edificio Materno-Infantil del Hospital General Universitario “Gregorio Marañón”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/28/BOCM-20241228-4.PDF"
+    }
+  }
+]
