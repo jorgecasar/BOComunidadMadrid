@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 11 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Fundación Antonio Gades para la realización de prácticas externas de los alumnos del Conservatorio Superior de Danza “María de Ávila”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/28/BOCM-20241228-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 11 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Fundación Psico Ballet Maite León para la realización de prácticas externas de los alumnos del Conservatorio Superior de Danza “María de Ávila”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/28/BOCM-20241228-3.PDF"
     }
