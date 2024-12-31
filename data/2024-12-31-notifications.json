@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Carabaña",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cervera de Buitrago",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-55.PDF"
