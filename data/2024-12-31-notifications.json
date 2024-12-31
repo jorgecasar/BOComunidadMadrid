@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 5083/2024, de 18 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se establece el régimen transitorio de financiación de las Mancomunidades de Gestión de Residuos para el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-26.PDF"
