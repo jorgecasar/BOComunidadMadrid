@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 16 de diciembre de 2024, de Canal de Isabel II, S. A., M. P., por la que se hace pública la formalización del contrato adjudicado por procedimiento abierto “Suministro de coagulantes de aluminio en solución para las ETAP”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Resolución de 17 de diciembre de 2024, de la Secretaría General Técnica de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se anuncia la licitación del contrato “Servicio de acogimiento especializado en familia ajena (2 lotes)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-44.PDF"
