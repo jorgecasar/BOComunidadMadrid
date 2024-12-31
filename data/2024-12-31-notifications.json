@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcorcón",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcorcón",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-48.PDF"
     }
