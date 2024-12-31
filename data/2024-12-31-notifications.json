@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Corrección de errores de la Resolución de 20 de noviembre de 2024, de la Universidad Rey Juan Carlos, por la que se nombran Catedráticos de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-17.PDF"
