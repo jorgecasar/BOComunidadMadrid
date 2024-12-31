@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 18 de diciembre de 2024, de la Universidad Rey Juan Carlos, por la que se anuncia la modificación de la Resolución de 27 de septiembre de 2021 de la Universidad Rey Juan Carlos (“Boletín Oficial del Estado” y BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de octubre de 2021) por la que se convocan pruebas selectivas para ingreso en la Escala de Oficial de Oficios previstas en las ofertas de empleo público de 2018 y 2020",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Acuerdo de 26 de diciembre de 2024, del Consejo de Gobierno, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de las subvenciones para el fomento del emprendimiento colectivo en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-20.PDF"
