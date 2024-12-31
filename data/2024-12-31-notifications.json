@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 27 de noviembre de 2024, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas para la Extensión Internacional de Patentes por el Procedimiento PCT-Convocatoria 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 13 de diciembre de 2024, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se anuncia la formalización de los tres lotes del expediente de contratación de servicios denominado “Acciones formativas, dirigidas a emprendedores y personal docente no universitario de la Comunidad de Madrid (3 lotes)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-30.PDF"
