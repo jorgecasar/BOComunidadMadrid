@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de la Consejería de Economía, Hacienda y Empleo, por la que se convocan subvenciones para el año 2025, para la financiación de programas de formación con compromiso de contratación, dirigidos a trabajadores jóvenes desempleados sin estudios o de baja cualificación menores de 30 años, para la obtención de la cualificación inicial ordinaria de conductores para el transporte de mercancías (CAP) junto con permiso de conducción de clase C",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Orden 231/2024, de 20 de diciembre, de la Consejería de Digitalización, por la que se conceden los premios Solución Digital Startup Comunidad de Madrid para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-23.PDF"
