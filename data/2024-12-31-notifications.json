@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Chinchón",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenar del Arroyo",
       "description": "Organización y funcionamiento: Protocolo colonias felinas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-57.PDF"
