@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 2267/2024, de 26 de diciembre, de la Consejera de Sanidad, por la que se convoca el proceso de integración voluntaria en el régimen del personal estatutario en la categoría de Enfermero/a especialista en enfermería familiar y comunitaria para el personal que presta servicios en la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-16.PDF"
