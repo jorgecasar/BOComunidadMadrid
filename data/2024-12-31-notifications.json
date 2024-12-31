@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 11 de diciembre de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso selectivo para el ingreso, por el sistema general de turno libre, en el Cuerpo de Ingenieros y Arquitectos Técnicos, Escala de Ingeniería Técnica, Especialidad de Ordenación Rural e Industrias Agroalimentarias, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 13 de diciembre de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso selectivo para el acceso por el sistema general de acceso libre, a plazas de carácter laboral de la categoría profesional de Técnico de Cocina (Grupo III, Nivel 5, Área B), de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-6.PDF"
     }
