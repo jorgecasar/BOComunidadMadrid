@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Orden 231/2024, de 20 de diciembre, de la Consejería de Digitalización, por la que se conceden los premios Solución Digital Startup Comunidad de Madrid para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Extracto de la Orden 5698/2024, de 11 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se establece la convocatoria 2024 de las ayudas para la realización de doctorados industriales en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/30/BOCM-20241230-24.PDF"
