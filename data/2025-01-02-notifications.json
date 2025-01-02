@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 27 de diciembre de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso selectivo extraordinario de estabilización de empleo temporal de personal funcionario para el ingreso en el Cuerpo de Ingenieros y Arquitectos Técnicos, Escala de Ingeniería Técnica, Especialidad de Ordenación Rural e Industrias Agroalimentarias, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de Medidas Urgentes para la Reducción de la Temporalidad en el Empleo Público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 27 de diciembre de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso selectivo extraordinario de estabilización para el ingreso, por el sistema de concurso, en el Cuerpo de Ingenieros y Arquitectos Superiores, Escala de Ingeniería Superior, Especialidad de Ordenación Rural e Industrias Agroalimentarias, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-11.PDF"
     }
