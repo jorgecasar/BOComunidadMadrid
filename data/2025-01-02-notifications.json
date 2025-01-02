@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 19 de diciembre de 2024, de la Universidad Complutense de Madrid, por la que se prorroga el presupuesto 2024 al ejercicio 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Convenio de 9 de diciembre de 2024, de colaboración entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo de la Comunidad de Madrid, y Avalmadrid, Sociedad de Garantía Recíproca, para contribuir a la sostenibilidad de los Centros Especiales de Empleo de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-17.PDF"
