@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Convenio de 9 de diciembre de 2024, de colaboración entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo de la Comunidad de Madrid, y Avalmadrid, Sociedad de Garantía Recíproca, para contribuir a la sostenibilidad de los Centros Especiales de Empleo de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Régimen económico: Pleno del Ayuntamiento. Ordenanza fiscal tasa residuos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-18.PDF"
