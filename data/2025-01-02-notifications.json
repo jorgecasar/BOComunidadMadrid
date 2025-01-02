@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Serna del Monte",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Los Santos de la Humosa",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-43.PDF"
