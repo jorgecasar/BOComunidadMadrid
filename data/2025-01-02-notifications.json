@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Coslada",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Berrueco",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-32.PDF"
