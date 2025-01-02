@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 26 de diciembre de 2024, de la Fundación de la Energía de la Comunidad de Madrid, por la que se modifica la Resolución de la Fundación de la Energía de la Comunidad de Madrid, de 15 de julio de 2021, por la que se convoca la concesión de ayudas a la movilidad eléctrica del Programa MOVES III. Años 2021-2022-2023-2024-2025. Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-NextGenerationEU, Ministerio para la Transición Ecológica y el Reto Demográfico",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 19 de diciembre de 2024, de la Universidad Complutense de Madrid, por la que se prorroga el presupuesto 2024 al ejercicio 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-16.PDF"
