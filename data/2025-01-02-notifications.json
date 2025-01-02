@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Los Santos de la Humosa",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Lozoyuela-Navas-Sieteiglesias",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/12/31/BOCM-20241231-44.PDF"
