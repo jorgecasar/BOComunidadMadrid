@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5959/2024, de 26 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria correspondiente al año 2024 de las ayudas para potenciar la innovación tecnológica e impulsar la transferencia de tecnología al sector productivo comprendido en las prioridades de la Estrategia Regional de Especialización Inteligente (S3) de la Comunidad de Madrid a través de entidades de enlace de la innovación tecnológica",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 12 de diciembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se aprueba la segunda modificación del Plan Estratégico de Subvenciones para el año 2024, incorporando la línea de subvención relativa al Bono de Alquiler Joven",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-21.PDF"
