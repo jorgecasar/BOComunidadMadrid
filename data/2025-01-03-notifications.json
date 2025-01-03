@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cadalso de los Vidrios",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Casarrubuelos",
       "description": "Organización y funcionamiento: Ordenanza recogida residuos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-43.PDF"
