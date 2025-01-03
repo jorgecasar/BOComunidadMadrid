@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 17 de diciembre de 2024, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 9 de septiembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 20 de septiembre), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5750/2024, de 17 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Educación, Ciencia y Universidades por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-11.PDF"
