@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 17 de diciembre de 2024, del Director de la Agencia de Seguridad y Emergencias Madrid 112, por la que se delega el ejercicio de determinadas competencias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 12 de diciembre de 2024, del Secretario General de la Universidad de Alcalá, por la que se publica el calendario de días inhábiles del registro de la Universidad de Alcalá para 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-23.PDF"
