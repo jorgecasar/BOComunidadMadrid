@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 12 de diciembre de 2024, del Secretario General de la Universidad de Alcalá, por la que se publica el calendario de días inhábiles del registro de la Universidad de Alcalá para 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 16 de diciembre de 2024, de formalización del contrato titulado “Servicio de evaluación independiente de seguridad para la renovación del sistema de señalización de la línea 7A de Metro de Madrid” (Expediente 6012400158)-(Contrato 7724000266)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-24.PDF"
