@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Buitrago del Lozoya",
       "description": "Otros anuncios: Candidatura juez de paz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-41.PDF"
