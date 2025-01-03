@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Orden de 12 de diciembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se aprueba la segunda modificación del Plan Estratégico de Subvenciones para el año 2024, incorporando la línea de subvención relativa al Bono de Alquiler Joven",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 17 de diciembre de 2024, del Director de la Agencia de Seguridad y Emergencias Madrid 112, por la que se delega el ejercicio de determinadas competencias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-22.PDF"
