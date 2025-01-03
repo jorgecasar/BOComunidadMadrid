@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 2192/2024, de 16 de diciembre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 2193/2024, de 16 de diciembre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-14.PDF"
     }
