@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Orden de 16 de diciembre de 2024, del Consejero de Presidencia, Justicia y Administración Local, por la que se nombran Registradores de la Propiedad, Mercantiles y de Bienes Muebles con destino en el territorio de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5959/2024, de 26 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria correspondiente al año 2024 de las ayudas para potenciar la innovación tecnológica e impulsar la transferencia de tecnología al sector productivo comprendido en las prioridades de la Estrategia Regional de Especialización Inteligente (S3) de la Comunidad de Madrid a través de entidades de enlace de la innovación tecnológica",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-20.PDF"
