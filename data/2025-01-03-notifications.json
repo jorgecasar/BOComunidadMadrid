@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 26 de diciembre de 2024, de adjudicación del contrato titulado “Servicio de mantenimiento de instalaciones audiovisuales”. (Expediente 6012400242)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 26 de diciembre de 2024, de adjudicación del contrato titulado “Servicio de soporte técnico para el mantenimiento de los sistemas de explotación en estaciones” (Expediente 6012400215)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-28.PDF"
     }
