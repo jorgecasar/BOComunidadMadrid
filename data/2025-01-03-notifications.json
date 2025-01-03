@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Puentes Viejas",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Villanueva de Perales",
       "description": "Personal: Nombramientos personal laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/02/BOCM-20250102-46.PDF"
