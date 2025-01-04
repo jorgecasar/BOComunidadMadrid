@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 19 de diciembre de 2024, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5971/2024, de 27 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria para el año 2024, de las ayudas para contribuir a la mejora de la cooperación público-privada en materia de I+D+i mediante proyectos de efecto tractor en consorcio, cofinanciadas por el Fondo Europeo de Desarrollo Regional dentro del Programa Operativo FEDER de la Comunidad de Madrid para el período 2021-2027",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-25.PDF"
