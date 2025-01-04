@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 18 de diciembre de 2024, del Rector magnífico de la Universidad Rey Juan Carlos, por la que se dispone la publicación de la modificación parcial de la Relación de Puestos de Trabajo de Personal Técnico, de Gestión y de Administración y Servicios de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 19 de diciembre de 2024, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-24.PDF"
     }
