@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2386/2024, de 13 de diciembre, del Consejero de Cultura, Turismo y Deporte, por la que se declara Bien de Interés Patrimonial de la Comunidad de Madrid la pintura “Gitana meditando”, obra de Isidro Nonell Monturiol",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 17 de diciembre de 2024, de la Universidad Autónoma de Madrid, por la que se publica la verificación y modificación de determinados planes de estudios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-29.PDF"
