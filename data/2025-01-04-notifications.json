@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Buitrago del Lozoya",
-      "description": "Régimen económico: Reglamento aparcamiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-63.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Buitrago del Lozoya",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-64.PDF"
     }
