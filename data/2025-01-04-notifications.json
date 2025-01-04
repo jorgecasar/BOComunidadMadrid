@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 17 de diciembre de 2024, de la Universidad Autónoma de Madrid, por la que se publica la verificación y modificación de determinados planes de estudios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución del 16 de diciembre de 2024, de prórroga para el ejercicio 2025 de los presupuestos de 2024 de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-30.PDF"
