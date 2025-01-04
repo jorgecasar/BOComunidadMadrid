@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 18 de diciembre de 2024, de la Dirección General de Función Pública, por la que se modifica la composición del Tribunal Calificador de las pruebas selectivas de los procesos selectivos para el acceso por el sistema general de acceso libre y de promoción interna a plazas de la categoría profesional de Educador, especialidad de Educación Infantil (Grupo III, Nivel 6, Área C), de la Comunidad de Madrid, convocadas mediante Orden 566/2021 de 15 de octubre de la Consejería de Economía, Hacienda y Empleo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 18 de diciembre de 2024, de la Dirección General de Función Pública, por la que se modifica la composición del Tribunal Calificador de las pruebas selectivas para el ingreso en el Cuerpo de Bomberos de la Comunidad de Madrid, Escala Ejecutiva u Operativa, Categoría de Bombero Especialista, puestos de Bombero Especialista Conductor, Grupo C, Subgrupo C1, de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-11.PDF"
     }
