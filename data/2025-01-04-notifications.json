@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 17 de diciembre de 2024, de la Universidad Politécnica de Madrid, por la que se resuelve parcialmente, la convocatoria para la cobertura de diversos puestos de trabajo, por el procedimiento de libre designación, anunciada por Resolución de 23 de octubre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de noviembre de 2024)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 18 de diciembre de 2024, del Rector magnífico de la Universidad Rey Juan Carlos, por la que se dispone la publicación de la modificación parcial de la Relación de Puestos de Trabajo de Personal Técnico, de Gestión y de Administración y Servicios de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-23.PDF"
