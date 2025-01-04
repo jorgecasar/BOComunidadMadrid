@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5971/2024, de 27 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria para el año 2024, de las ayudas para contribuir a la mejora de la cooperación público-privada en materia de I+D+i mediante proyectos de efecto tractor en consorcio, cofinanciadas por el Fondo Europeo de Desarrollo Regional dentro del Programa Operativo FEDER de la Comunidad de Madrid para el período 2021-2027",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Resolución 6368/2024, de 30 de diciembre, del Director General de Servicios Sociales e Integración, por la que se conceden ayudas del bono social térmico 2022 a 160 beneficiarios del bono social eléctrico a 31 de diciembre de 2021 en la Comunidad de Madrid y por la que se inicia el plazo de renuncia de los beneficiarios incluidos en esta resolución al derecho de las ayudas del bono social térmico 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-26.PDF"
