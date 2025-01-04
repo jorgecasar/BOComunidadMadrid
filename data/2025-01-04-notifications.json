@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Resolución 6368/2024, de 30 de diciembre, del Director General de Servicios Sociales e Integración, por la que se conceden ayudas del bono social térmico 2022 a 160 beneficiarios del bono social eléctrico a 31 de diciembre de 2021 en la Comunidad de Madrid y por la que se inicia el plazo de renuncia de los beneficiarios incluidos en esta resolución al derecho de las ayudas del bono social térmico 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Resolución 6369/2024, de 30 de diciembre, del Director General de Servicios Sociales e Integración, por la que se conceden ayudas del bono social térmico 2023 a 705 beneficiarios del bono social eléctrico a 31 de diciembre de 2022 en la Comunidad de Madrid y por la que se inicia el plazo de renuncia de los beneficiarios incluidos en esta resolución al derecho de las ayudas del bono social térmico 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/03/BOCM-20250103-27.PDF"
     }
