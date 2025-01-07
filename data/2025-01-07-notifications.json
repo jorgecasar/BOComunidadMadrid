@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 16 de diciembre de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Rotocobrhi, S. A. U. (Código número 28100292012012)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/06/BOCM-20250106-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Adenda de 16 de diciembre de 2024, de modificación del convenio de cooperación educativa entre la universidad de alcalá y el Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA) para el desarrollo de prácticas académicas externas y trabajos de fin de grado y máster",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/06/BOCM-20250106-2.PDF"
