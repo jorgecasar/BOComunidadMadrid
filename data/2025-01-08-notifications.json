@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Anchuelo",
-      "description": "Organización y funcionamiento: Junta Gobierno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Anchuelo",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-54.PDF"
     }
