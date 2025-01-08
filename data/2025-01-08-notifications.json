@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 2 de enero de 2025, de anulación del anuncio de formalización para la contratación de un servicio relativo a los seguros de responsabilidad civil profesional de Metro de Madrid, S. A. (Expediente 6012400326)-(Contrato 7224000764)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 16 de diciembre de 2024, de la Viceconsejería de Sanidad y Dirección General del Servicio Madrileño de Salud, por la que se anuncia la formalización del contrato “Acuerdo Marco para el suministro de productos sanitarios para ventiloterapia no invasiva y oxigenoterapia para su utilización en los distintos centros dependientes del SERMAS, a adjudicar por procedimiento abierto mediante pluralidad de criterios (75 lotes)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-30.PDF"
