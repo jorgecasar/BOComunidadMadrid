@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Berzosa del Lozoya",
-      "description": "Contratación: Licitación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cadalso de los Vidrios",
       "description": "Régimen económico: Padrones impuestos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-58.PDF"
