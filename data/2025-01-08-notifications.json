@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden de 20 de diciembre de 2024, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se resuelve la convocatoria aprobada mediante Orden de 27 de septiembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 9 de octubre), para la provisión de un puesto de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Familia, Juventud y Asuntos Sociales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 19 de diciembre de 2024, de la Universidad Politécnica de Madrid, por la que se nombran funcionarios de carrera en la Escala de Gestión de Sistemas e Informática, Grupo A, Subgrupo A2, de la Universidad Politécnica de Madrid, por el sistema general de acceso libre y por el sistema de promoción interna",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-9.PDF"
