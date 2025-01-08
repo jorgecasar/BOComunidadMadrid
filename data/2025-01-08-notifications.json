@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Licencias: O. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Anchuelo",
       "description": "Organización y funcionamiento: Junta Gobierno",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-53.PDF"
