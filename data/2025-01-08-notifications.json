@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Acuerdo de 18 de diciembre de 2024, del Consejo de Administración de la Agencia de Ciberseguridad de la Comunidad de Madrid, por la que se crea el Comité de Seguridad de la Información, y se regula su organización, funciones y régimen de funcionamiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5747/2024, de 5 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se excluye una solicitud presentada a la convocatoria correspondiente al año 2024 de las ayudas para potenciar la innovación tecnológica e impulsar la transferencia de tecnología al sector productivo comprendido en las prioridades de la Estrategia Regional de Especialización Inteligente (S3) de la Comunidad de Madrid a través de entidades de enlace de la innovación tecnológica",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-14.PDF"
