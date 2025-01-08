@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5805/2024, de 16 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se modifica la Orden 4099/2024, de 20 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba el Plan Estratégico de Subvenciones de la Viceconsejería de Universidades, Investigación y Ciencia, para los ejercicios 2024, 2025 y 2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 9 de diciembre de 2024, de la Dirección General de Educación Concertada, Becas y Ayudas al Estudio, por la que se dictan instrucciones para la tramitación de las solicitudes de autorización y excepción de la extensión de la enseñanza bilingüe en el segundo ciclo de Educación Infantil, así como para las solicitudes de autorización de implantación de la enseñanza bilingüe en la etapa de Educación Primaria en los centros privados concertados del ámbito de gestión de la Comunidad de Madrid en el curso 2025-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-16.PDF"
     }
