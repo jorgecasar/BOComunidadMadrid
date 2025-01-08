@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Orden de 13 de diciembre de 2024, de la Consejería de Presidencia, Justicia y Administración Local, por la que se da por cumplido el trámite previsto relativo a la emisión de informe favorable al acuerdo de disolución de la Mancomunidad de Servicios Meseta del Henares",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 16 de diciembre de 2024, de la Dirección General de Promoción Económica e Industrial, por la que se convocan los exámenes del año 2025, para la obtención de los carnés profesionales o certificados de cualificación profesional en materia de seguridad industrial, de instalador, mantenedor u operador en las ramas que se indican y de maquinista y palista minero",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-12.PDF"
