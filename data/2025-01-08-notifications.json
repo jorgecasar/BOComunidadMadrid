@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Licencias: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-52.PDF"
     }
