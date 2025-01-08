@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 9 de diciembre de 2024, de la Dirección General de Educación Concertada, Becas y Ayudas al Estudio, por la que se dictan instrucciones para la tramitación de las solicitudes de autorización para la continuidad de la enseñanza bilingüe en la etapa de Educación Secundaria Obligatoria en los centros privados concertados bilingües del ámbito de gestión de la Comunidad de Madrid en el curso 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 19 de diciembre de 2024, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se convocan, en el curso 2024-2025, las pruebas para la obtención de los títulos de Técnico y Técnico Superior de Formación Profesional",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-18.PDF"
     }
