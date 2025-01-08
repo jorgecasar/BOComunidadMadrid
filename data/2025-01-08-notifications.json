@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5747/2024, de 5 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se excluye una solicitud presentada a la convocatoria correspondiente al año 2024 de las ayudas para potenciar la innovación tecnológica e impulsar la transferencia de tecnología al sector productivo comprendido en las prioridades de la Estrategia Regional de Especialización Inteligente (S3) de la Comunidad de Madrid a través de entidades de enlace de la innovación tecnológica",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5805/2024, de 16 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se modifica la Orden 4099/2024, de 20 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba el Plan Estratégico de Subvenciones de la Viceconsejería de Universidades, Investigación y Ciencia, para los ejercicios 2024, 2025 y 2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-15.PDF"
     }
