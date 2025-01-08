@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 19 de diciembre de 2024, de la Universidad Politécnica de Madrid, por la que se nombran funcionarios de carrera en la Escala de Gestión de Sistemas e Informática, Grupo A, Subgrupo A2, de la Universidad Politécnica de Madrid, por el sistema general de acceso libre y por el sistema de promoción interna",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 19 de diciembre de 2024, de la Universidad de Alcalá, por la que se nombra Catedrática de Universidad del Área de Conocimiento de “Traducción e Interpretación”, a doña Elena Alcalde Peñalver",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-10.PDF"
