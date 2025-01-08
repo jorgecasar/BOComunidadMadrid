@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Anchuelo",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arganda del Rey",
       "description": "Régimen económico: Ordenanza centro día",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/07/BOCM-20250107-55.PDF"
