@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Algete",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Brea de Tajo",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-57.PDF"
