@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 18 de diciembre de 2024, de la Gerencia de la Universidad de Alcalá, por la que se anuncia convocatoria pública para la provisión, mediante el sistema de Libre Designación, de un puesto de trabajo vacante en la Universidad de Alcalá",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 18 de diciembre de 2024, de la Gerencia de la Universidad de Alcalá, por la que se publica una modificación de la relación de puestos de trabajo de Personal Técnico, de Gestión y de Administración y Servicios Funcionario de este Organismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-9.PDF"
     }
