@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2500/2024, de 17 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se revocan o minoran determinadas subvenciones concedidas mediante la Orden 1757/2024, de 27 de septiembre, a los ayuntamientos de municipios de la Comunidad de Madrid de menos de 2.500 habitantes, para la mejora de la seguridad, accesibilidad y mantenimiento de las instalaciones deportivas municipales para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 18 de diciembre de 2024, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se anuncia la licitación del contrato de servicios denominado “Apoyo a la elaboración, actualización y gestión de los contenidos y servicios del Portal del Consumidor de la Comunidad de Madrid. 2025-2026 (2 lotes)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-20.PDF"
