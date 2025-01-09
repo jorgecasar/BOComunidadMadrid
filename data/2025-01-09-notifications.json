@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 19 de diciembre de 2024, de la Dirección General de Recursos Humanos, por la que se emplaza a los posibles interesados para que se personen, si a su derecho conviniere, en el recurso contencioso-administrativo interpuesto por doña Clara Elena Aparicio García-Risco, contra la Resolución de 24 de junio de 2024, de la Dirección General de Recursos Humanos, por la que se anuncia la exposición de las listas definitivas con la puntuación alcanzada en la fase de concurso por los aspirantes admitidos en el procedimiento selectivo para el ingreso en el Cuerpo de Maestros y para la adquisición de nuevas especialidades en el citado Cuerpo, convocado por Resolución de 1 de febrero de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 17 de diciembre de 2024, de la Viceconsejería de Sanidad y Dirección General del Servicio Madrileño de Salud, por la que se hace pública la convocatoria de licitación denominada “Suministro de Sistemas para la monitorización del tratamiento anticoagulante oral (TAO) con antagonistas de la vitamina K, así como la puesta a disposición de los analizadores automáticos, con destino a los Centros de Atención Primaria del Servicio Madrileño de Salud”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-24.PDF"
