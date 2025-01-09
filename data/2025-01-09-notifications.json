@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 17 de diciembre de 2024, de la Rectora de la Universidad Autónoma de Madrid, por la que se convocan dos puestos de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 18 de diciembre de 2024, de la Gerencia de la Universidad de Alcalá, por la que se anuncia convocatoria pública para la provisión, mediante el sistema de Libre Designación, de un puesto de trabajo vacante en la Universidad de Alcalá",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-8.PDF"
