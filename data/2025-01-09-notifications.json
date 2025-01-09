@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Anuncio de 20 diciembre de 2024, de Canal de Isabel II, S. A., M. P., por el que se hace pública la convocatoria del contrato por procedimiento abierto para el suministro e instalación del sistema de baterías de Canal de Isabel II, S. A., M. P.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Convenio de colaboración de 4 de diciembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Velilla de San Antonio, para la realización de actuaciones contra la violencia de género y para la promoción de la igualdad de oportunidades entre mujeres y hombres",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-39.PDF"
