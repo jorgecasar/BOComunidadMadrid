@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cabanillas de la Sierra",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenar de Oreja",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-59.PDF"
