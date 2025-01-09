@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución conjunta de 19 de diciembre de 2024, de las Direcciones Generales de Bilingüismo y Calidad de la Enseñanza, de Educación Concertada, Becas y Ayudas al Estudio y de Recursos Humanos, por la que se convocan procedimientos para la obtención de la habilitación lingüística en lenguas extranjeras para el desempeño de puestos bilingües en centros docentes públicos y privados concertados de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 2255/2024, de 23 de diciembre, de la Consejería de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 968/2024, de 14 de junio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de junio de 2024), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-4.PDF"
