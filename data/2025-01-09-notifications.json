@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 18 de diciembre de 2024, de la Gerencia de la Universidad de Alcalá, por la que se publica una modificación de la relación de puestos de trabajo de Personal Técnico, de Gestión y de Administración y Servicios Funcionario de este Organismo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5886/2024, de 18 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria correspondiente al año 2024 de ayudas para la contratación de ayudantes de investigación y técnicos de laboratorio, cofinanciadas con el Fondo Social Europeo Plus (FSE+)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-10.PDF"
