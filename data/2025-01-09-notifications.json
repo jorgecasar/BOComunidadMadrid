@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2406/2024, de 10 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se conceden ayudas a los clubes madrileños cuyos recursos administrativos han sido estimados, derivados de la Orden 240/2024, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria para el año 2024 de subvenciones destinadas a los clubes deportivos madrileños por la participación de sus equipos en las máximas categorías y niveles de competiciones oficiales de ámbito nacional o internacional, de carácter no profesional en la temporada 2022-2023 o, en su caso, en el año 2023, según el funcionamiento federativo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 2500/2024, de 17 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se revocan o minoran determinadas subvenciones concedidas mediante la Orden 1757/2024, de 27 de septiembre, a los ayuntamientos de municipios de la Comunidad de Madrid de menos de 2.500 habitantes, para la mejora de la seguridad, accesibilidad y mantenimiento de las instalaciones deportivas municipales para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-19.PDF"
     }
