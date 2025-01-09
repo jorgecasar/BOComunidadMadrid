@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden de 23 de diciembre de 2024, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se resuelve la convocatoria aprobada mediante Orden de 1 de octubre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 10 de octubre), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Familia, Juventud y Asuntos Sociales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 17 de diciembre de 2024, de la Rectora de la Universidad Autónoma de Madrid, por la que se convocan dos puestos de trabajo para su provisión por el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/08/BOCM-20250108-7.PDF"
