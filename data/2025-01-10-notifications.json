@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Adenda de 10 de diciembre de 2024, de prórroga del convenio de colaboración de 29 de diciembre de 2023 entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo y la entidad de formación Formación y Desarrollo Integral, S. L., para la información, orientación y apoyo en la inscripción en el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías no formales e informales en el ámbito de la Comunidad de Madrid en el marco del componente 20 “Plan Estratégico de Impulso de la Formación Profesional”, del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Adenda de 10 de diciembre de 2024, de prórroga del convenio de colaboración de 29 de diciembre de 2023, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo y la entidad de formación Grupo Insem Desarrollo del Conocimiento, S. L., para la información, orientación y apoyo en la inscripción en el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías no formales e informales en el ámbito de la Comunidad de Madrid en el marco del componente 20 “Plan Estratégico de Impulso de la Formación Profesional”, del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-31.PDF"
     }
