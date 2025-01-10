@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 115/2024, de 26 de diciembre, del Consejo de Gobierno, por el que se nombra Rector de la Universidad Politécnica de Madrid a don Óscar García Suárez",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 23 de diciembre de 2024, por el que se hace pública la convocatoria de un proceso selectivo para cubrir el puesto de Oficial Administrativo de Segunda, mediante un contrato laboral de duración indefinida",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-10.PDF"
