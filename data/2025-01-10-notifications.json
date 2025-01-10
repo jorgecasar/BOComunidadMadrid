@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo 86/2024, de 31 de octubre, de la Comisión de Urbanismo de Madrid, relativo a la aprobación inicial del Plan Especial de Infraestructuras “Proyecto Refuerzo de la Aducción a Cadalso de los Vidrios y Cenicientos, y construcción de nuevo depósito de 3.500 m3 en Cadalso de los Vidrios”, que afecta a los términos municipales de Rozas de Puerto Real, Cadalso de los Vidrios y Cenicientos, promovido por Canal de Isabel II, S. A. M. P.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto del contenido de la Resolución de 18 de diciembre de 2024, del Gerente del Ente Público Canal de Isabel II, dictada en virtud de las facultades delegadas por el Consejo de Administración mediante acuerdo de 31 de enero de 2018 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 26 de febrero de 2018), por la que se autoriza el proyecto denominado “Renovación de la red de aducción a la urbanización costa de Madrid (T. M. San Martín de Valdeiglesias)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-50.PDF"
     }
