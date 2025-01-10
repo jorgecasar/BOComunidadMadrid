@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 19 de diciembre de 2024, de la Universidad de Alcalá, por la que se da publicidad a la Resolución de 3 de diciembre de 2024, de la Universidad de Alcalá y la Consejería de Sanidad de la Comunidad de Madrid, por la que se convocan concursos de acceso a plazas vinculadas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 20 de diciembre de 2024, del Rector de la Universidad Rey Juan Carlos por la que se resuelve la provisión de la plaza de personal laboral, puesto funcional, Titulado/a Superior, Auditor/a en el Consejo Social de esta Universidad, por el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-14.PDF"
