@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5837/2024, de 17 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas de excelencia académica-deportiva para cursar estudios en las universidades y centros superiores de enseñanzas artísticas de la Comunidad de Madrid, durante el curso 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 30 de diciembre de 2024, de la Dirección General de Vivienda y Rehabilitación, por la que se aprueba el listado de beneficiarios requeridos al cobro en el proceso de concurrencia competitiva para la obtención de las subvenciones al alquiler de vivienda en la Comunidad de Madrid convocadas para el año 2023, mediante Orden de 11 de octubre de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-19.PDF"
