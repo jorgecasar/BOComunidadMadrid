@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 7 de enero de 2025, por el que se convoca la licitación para la contratación del servicio de soporte de reparaciones en escaleras mecánicas KONE (Expediente 6012500002)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 23 de diciembre de 2024, de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud, por la que se hace pública la convocatoria de licitación denominado “Suministro de compresas y gasas con destino a los Centros de Atención Primaria dependientes del SERMAS”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-42.PDF"
