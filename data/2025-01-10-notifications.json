@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 17 de diciembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de dos puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 19 de diciembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-3.PDF"
     }
