@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Convenio de 27 de diciembre de 2024, entre la Comunidad de Madrid (Instituto Regional de Seguridad y Salud en el Trabajo) y la Asociación de Empresas de la Construcción de Madrid (AECOM), la Federación Comisiones Obreras del Hábitat y la Federación de Industria, Construcción y Agro de la Unión General de Trabajadores (UGT-FICA) para la realización durante 2025 de actuaciones conjuntas de prevención de riesgos laborales en el sector de la construcción",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Resolución de 20 de diciembre de 2024, de la Secretaría General Técnica de la Consejería de Digitalización, por la que se dispone la publicación en el “perfil del contratante”, del Portal de Contratación de la Comunidad de Madrid, de la formalización del contrato de “Servicios de mantenimiento integral de las instalaciones de climatización y alimentación eléctrica del Centro de Proceso de Datos SERMAS-CPDP-1 y SERMAS-CPDP-2, de la Comunidad de Madrid. Lote 1”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-37.PDF"
