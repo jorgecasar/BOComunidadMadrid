@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5585/2024, de 27 de diciembre, del Consejero de Educación, Ciencia y Universidades de selección de colegios públicos de Educación Infantil y Primaria de la Comunidad de Madrid en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en Educación Primaria en el curso 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5801/2024, de 13 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se determinan los requisitos para la presentación de solicitudes por las corporaciones locales para suscribir convenios con la Comunidad de Madrid para el desarrollo de programas de prevención y control del absentismo escolar de los alumnos entre los 6 y 16 años de edad escolarizados en centros docentes sostenidos con fondos públicos de la Comunidad de Madrid durante el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-17.PDF"
     }
