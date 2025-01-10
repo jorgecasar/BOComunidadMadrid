@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 2241/2024, de 23 de diciembre, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 1630/2024, de 7 de octubre, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 21 de octubre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 2551/2024, de 23 de diciembre, del Consejero de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria aprobada mediante Orden 1632/2024, de 5 de septiembre, de la Consejería de Cultura, Turismo y Deporte (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 16 de septiembre), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-12.PDF"
