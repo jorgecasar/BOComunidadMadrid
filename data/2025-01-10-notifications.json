@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 20 de diciembre de 2024, del Rector de la Universidad Rey Juan Carlos por la que se resuelve la provisión de la plaza de personal laboral, puesto funcional, Titulado/a Superior, Auditor/a en el Consejo Social de esta Universidad, por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5582/2024, de 27 de diciembre, del Consejero de Educación, Ciencia y Universidades, de selección de institutos públicos de Educación Secundaria en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en el curso 2025-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-15.PDF"
