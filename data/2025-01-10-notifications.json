@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5582/2024, de 27 de diciembre, del Consejero de Educación, Ciencia y Universidades, de selección de institutos públicos de Educación Secundaria en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en el curso 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5585/2024, de 27 de diciembre, del Consejero de Educación, Ciencia y Universidades de selección de colegios públicos de Educación Infantil y Primaria de la Comunidad de Madrid en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en Educación Primaria en el curso 2025-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/09/BOCM-20250109-16.PDF"
     }
