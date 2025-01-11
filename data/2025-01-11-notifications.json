@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 4595/2024, de 23 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se modifica la Orden 1252/2023, de 2 de noviembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se establecen las bases reguladoras de los pagos compensatorios en zonas de montaña, cofinanciados por el Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y la Administración General del Estado en el marco del Plan Estratégico de la Política Agraria Común para el período 2023-2027 y se aprueba la convocatoria para el año 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Adenda de 16 de diciembre de 2024, de tercera prórroga del convenio de asistencia jurídica a Planifica Madrid. Proyectos y Obras, M. P., S. A. de 17 de enero de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-22.PDF"
