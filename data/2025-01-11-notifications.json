@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 19 de diciembre de 2024, de la Universidad Complutense de Madrid, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 20 de diciembre de 2024, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria de concurso público para la contratación de dos Investigadores Distinguidos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-13.PDF"
