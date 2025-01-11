@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 23 de diciembre de 2024, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en los boletines oficiales de la modificación del pliego de prescripciones técnicas que rige el expediente PAPC 2025-1-8 (DIC) “Suministro del material para la realización de técnicas continuas de depuración extrarrenal en la Unidad de Cuidados Intensivos del Hospital Universitario de Getafe” y ampliación del plazo de licitación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 26 de diciembre de 2024, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en los boletines oficiales de la modificación de los Pliegos de Prescripciones Técnicas que rige el expediente PAPC 2025-1-2 (URO) “Suministro de material diverso de urología del Hospital Universitario de Getafe y ampliación del plazo de licitación”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-37.PDF"
     }
