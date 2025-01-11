@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 30 de diciembre de 2024, de la Directora General de Función Pública, por la que se aprueba y da publicidad al Plan de Formación para Empleados Públicos de la Comunidad de Madrid para 2025 y se abre el plazo de presentación de solicitudes de participación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 7 de enero de 2025, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en los procesos selectivos para el ingreso, por los sistemas de acceso libre y de promoción interna, en el Cuerpo de Bomberos de la Comunidad de Madrid, Escala Técnica o de Mando, Categoría de Oficial Técnico, Grupo A, Subgrupo A2, se publica la relación definitiva de personas aspirantes excluidas en los citados procesos, y se anuncia la celebración del primer ejercicio de la fase de oposición de los mismos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-7.PDF"
     }
