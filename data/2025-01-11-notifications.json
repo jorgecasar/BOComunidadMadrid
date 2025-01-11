@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Convenio de 17 de diciembre de 2024, entre el Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA) y el Ayuntamiento de Aranjuez, para la implantación de un Laboratorio de Agricultura Abierta en el término municipal de Aranjuez",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Convenio de colaboración de 5 de diciembre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Valdemorillo para la expedición del “Carné Joven Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-45.PDF"
