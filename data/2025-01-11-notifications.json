@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Carabaña",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cercedilla",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-60.PDF"
