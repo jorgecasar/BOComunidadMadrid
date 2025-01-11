@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Extracto del Acuerdo de 26 de diciembre de 2024, del Consejo de Gobierno, por el que se autoriza la concesión directa de las subvenciones del Bono Alquiler Joven reguladas en el Real Decreto 42/2022, de 18 de enero, y se autoriza el procedimiento aplicable para la tramitación y resolución de los procedimientos de su concesión y pago en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 4595/2024, de 23 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se modifica la Orden 1252/2023, de 2 de noviembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se establecen las bases reguladoras de los pagos compensatorios en zonas de montaña, cofinanciados por el Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y la Administración General del Estado en el marco del Plan Estratégico de la Política Agraria Común para el período 2023-2027 y se aprueba la convocatoria para el año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-21.PDF"
