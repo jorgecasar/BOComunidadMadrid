@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 12 de diciembre de 2024, entre el Ministerio de Ciencia, Innovación y Universidades, la Consejería de Educación, Ciencia y Universidades del Gobierno de la Comunidad de Madrid y las Universidades de Alcalá, Complutense, Autónoma de Madrid, Politécnica de Madrid, Carlos III y Rey Juan Carlos, para la implementación del Programa de Incorporación de Talento Docente e Investigador a las Universidades Públicas Españolas, en ejecución de lo dispuesto en el Capítulo IV de la Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Adenda de 10 de diciembre de 2024, de modificación del convenio entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Fundación Avintia, para la construcción de una casa de apoyo o acogida a familiares de pacientes ingresados en hospitales del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-31.PDF"
