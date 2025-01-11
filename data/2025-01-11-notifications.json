@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Becerril de la Sierra",
-      "description": "Ofertas de empleo: Nombramiento personal laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Bustarviejo",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-58.PDF"
