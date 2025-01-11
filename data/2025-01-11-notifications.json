@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Licencias: Licencia actividad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arroyomolinos",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-55.PDF"
