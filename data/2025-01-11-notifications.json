@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo 111/2024, de 19 de diciembre, de la Comisión de Urbanismo de Madrid, relativo a la aprobación definitiva del Plan Especial “Proyecto de Acceso al Centro de Trabajo El Calverón”, en el término municipal de Madrid, promovido por Canal de Isabel II, S. A., M. P.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 13 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y la Mancomunidad del Sur, en virtud del cual se instrumenta la concesión de una subvención nominativa por importe de 2.120.769,98 euros, para financiar la gestión de los residuos domésticos de sus municipios integrantes durante el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-42.PDF"
     }
