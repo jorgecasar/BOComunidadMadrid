@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo 98/2024, de 28 de noviembre, de la Comisión de Urbanismo de Madrid, relativo a la aprobación inicial del Plan Especial de Infraestructuras del Proyecto de construcción para el abastecimiento a Tablada, en el municipio de Guadarrama, promovido por Canal de Isabel II, S. A., M. P.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo 111/2024, de 19 de diciembre, de la Comisión de Urbanismo de Madrid, relativo a la aprobación definitiva del Plan Especial “Proyecto de Acceso al Centro de Trabajo El Calverón”, en el término municipal de Madrid, promovido por Canal de Isabel II, S. A., M. P.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-41.PDF"
     }
