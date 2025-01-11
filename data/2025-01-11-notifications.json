@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 20 de diciembre de 2024, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria de concurso público para la contratación de dos Investigadores Distinguidos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 19 de diciembre de 2024, de la Consejera de Economía, Hacienda y Empleo,  por la que se declara el importe del crédito presupuestario, tramitado de forma anticipada, disponible para financiar la concesión directa en el año 2025 de solicitudes de subvención recibidas del programa de ayudas para el fomento de la responsabilidad social y la conciliación laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-14.PDF"
