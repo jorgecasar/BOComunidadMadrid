@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 7 de enero de 2025, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en los procesos selectivos para el ingreso, por los sistemas de acceso libre y de promoción interna, en el Cuerpo de Bomberos de la Comunidad de Madrid, Escala Técnica o de Mando, Categoría de Oficial Técnico, Grupo A, Subgrupo A2, se publica la relación definitiva de personas aspirantes excluidas en los citados procesos, y se anuncia la celebración del primer ejercicio de la fase de oposición de los mismos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5818/2024, de 19 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se dispone el cese y el nombramiento de vocales del Consejo Universitario de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-8.PDF"
