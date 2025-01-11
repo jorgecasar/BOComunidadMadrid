@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5913/2024, de 19 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la implantación del programa oficial de doctorado interuniversitario en Derecho y Economía en la Universidad San Pablo-CEU",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 26 de diciembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se hace pública la declaración del crédito presupuestario disponible en el ejercicio 2024 para financiar las ayudas del Bono Alquiler Joven",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/10/BOCM-20250110-19.PDF"
