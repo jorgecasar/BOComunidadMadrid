@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Adenda de 18 de diciembre de 2024, de modificación del convenio de 5 de mayo de 2011 entre la Comunidad de Madrid y la Universidad Politécnica de Madrid, para la financiación de proyectos de campus de excelencia internacional, mediante la concesión de un préstamo, debido a la amortización anticipada realizada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/11/BOCM-20250111-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Adenda de 18 de diciembre de 2024, de modificación del convenio de 5 de mayo de 2011, entre la Comunidad de Madrid y la Universidad Complutense de Madrid y la Universidad Politécnica de Madrid, para la financiación de proyectos de Campus de Excelencia Internacional, mediante la concesión de un préstamo, debido a las amortizaciones anticipadas realizadas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/11/BOCM-20250111-6.PDF"
     }
