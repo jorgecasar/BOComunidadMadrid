@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Adenda de 18 de diciembre de 2024, de modificación del convenio de 5 de mayo de 2011, entre la Comunidad de Madrid y la Universidad Complutense de Madrid y la Universidad Politécnica de Madrid, para la financiación de proyectos de Campus de Excelencia Internacional, mediante la concesión de un préstamo, debido a las amortizaciones anticipadas realizadas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/11/BOCM-20250111-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Adenda de 27 de diciembre de 2024, al convenio suscrito entre la Consejería de Vivienda, Transportes e Infraestructuras de la Comunidad de Madrid e ING Bank N. V. sucursal en España, para el programa mi primera vivienda, de 20 de septiembre de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/11/BOCM-20250111-7.PDF"
