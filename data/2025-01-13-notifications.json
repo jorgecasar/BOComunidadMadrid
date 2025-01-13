@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Convenio de colaboración de 20 de diciembre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la entidad de formación Instituto Europeo para el Empleo, S. L., para la información, orientación y apoyo en la inscripción en el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías no formales e informales en el ámbito de la Comunidad de Madrid en el marco del componente 20 “Plan Estratégico de Impulso de la Formación Profesional”, del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/11/BOCM-20250111-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Convenio de 27 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Economía, Hacienda y Empleo) y la Fundación Infante de Orleans por el que se formaliza la concesión directa de una subvención para la construcción del Museo de Aviones Históricos en Getafe",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/11/BOCM-20250111-3.PDF"
     }
