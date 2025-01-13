@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Convenio de 27 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Economía, Hacienda y Empleo) y la Fundación Infante de Orleans por el que se formaliza la concesión directa de una subvención para la construcción del Museo de Aviones Históricos en Getafe",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/11/BOCM-20250111-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 17 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Caliper Technologies, S. L. para la realización de prácticas externas de los alumnos de la Escuela Superior de Diseño",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/11/BOCM-20250111-4.PDF"
