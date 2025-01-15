@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Soto del Real",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Torrejón de Ardoz",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-56.PDF"
