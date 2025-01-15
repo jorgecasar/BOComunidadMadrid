@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Corrección de errores de la Resolución de 30 de diciembre de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se fija la fecha y el procedimiento a seguir para la elección de plazas por los aspirantes que han superado las pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Grupo Auxiliar de la Función Administrativa, se publica la relación de plazas ofertadas y se determina la entrega de documentación acreditativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 16 de diciembre de 2024, del Rector de la Universidad Complutense de Madrid, por la que se ordena la publicación de la modificación parcial de la Relación de Puestos de Trabajo del Personal Técnico, de Gestión y de Administración y Servicios Laboral de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-5.PDF"
