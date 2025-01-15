@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 12,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/01/15/BOCM-20250115012.PDF",
-      "total": 72,
-      "items": {
-        "Comunidad de Madrid": 37,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 26,
-        "Administración de Justicia": 4,
-        "Otros Anuncios": 4
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
