@@ -1,0 +1,529 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 12,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/01/15/BOCM-20250115012.PDF",
+      "total": 72,
+      "items": {
+        "Comunidad de Madrid": 37,
+        "Disposiciones y Anuncios del Estado": 1,
+        "Administración Local Ayuntamientos": 26,
+        "Administración de Justicia": 4,
+        "Otros Anuncios": 4
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Resolución de 30 de diciembre de 2024, de la Dirección General de Reequilibrio Territorial, sobre la convocatoria por el sistema de Libre Designación, del puesto de trabajo de órgano de Recaudación, reservado a funcionarios de Administración Local con habilitación de carácter nacional, del Ayuntamiento de Fuenlabrada",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Resolución de 30 de diciembre de 2024, de la Dirección General de Reequilibrio Territorial sobre la convocatoria, por el sistema de Libre Designación, del puesto de trabajo de Viceintervención, clase 2.a, reservado a funcionarios de Administración Local con habilitación de carácter nacional, del Ayuntamiento de Fuenlabrada",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 30 de diciembre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se nombra personal funcionario de carrera del Cuerpo de Técnicos Superiores Especialistas, Especialidad de Ciencias Humanísticas y Sociales, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Corrección de errores de la Resolución de 30 de diciembre de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se fija la fecha y el procedimiento a seguir para la elección de plazas por los aspirantes que han superado las pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Grupo Auxiliar de la Función Administrativa, se publica la relación de plazas ofertadas y se determina la entrega de documentación acreditativa",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Complutense de Madrid",
+      "description": "Resolución de 16 de diciembre de 2024, del Rector de la Universidad Complutense de Madrid, por la que se ordena la publicación de la modificación parcial de la Relación de Puestos de Trabajo del Personal Técnico, de Gestión y de Administración y Servicios Laboral de esta Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Anuncio de 13 de enero de 2025, de delegación de competencias en la Comisión de contratación y ejecución presupuestaria y en el Consejero Delegado de la Agencia para la Administración Digital de la Comunidad de Madrid, para la autorización previa de los contratos, sus prórrogas y modificaciones en los términos previstos en el artículo 15 del Reglamento de funcionamiento del Consejo de Administración de la Agencia para la Administración Digital de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Acuerdo de 23 de diciembre de 2024, del Consejo de Administración de la Agencia de Contratación Sanitaria de la Comunidad de Madrid, por el que se delega el ejercicio de determinadas competencias",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Convenio de 23 de diciembre de 2024, de asistencia jurídica a Canal de Isabel II, S. A., M. P., y a sus sociedades participadas de nacionalidad española",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 9 de diciembre de 2024, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se hace público el anuncio de información previa del contrato titulado “Prevención y control de legionelosis en dependencias adscritas a la Consejería de Economía, Hacienda y Empleo de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Adenda de 18 de diciembre de 2024, al convenio suscrito entre la Consejería de Vivienda, Transportes e Infraestructuras de la Comunidad de Madrid y Abanca Corporación Bancaria, S. A., para el programa Mi Primera Vivienda, de 20 de septiembre de 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Adenda de 18 de diciembre de 2024, al convenio suscrito entre la Consejería de Vivienda, Transportes e Infraestructuras de la Comunidad de Madrid y Banco Santander, S. A., para el programa Mi Primera Vivienda, de 20 de septiembre de 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Adenda de 19 de diciembre de 2024, al convenio suscrito entre la Consejería de Vivienda, Transportes e Infraestructuras de la Comunidad de Madrid y Unicaja Banco, S. A., para el programa Mi Primera Vivienda, de 20 de septiembre de 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Adenda de 19 de diciembre de 2024, al convenio suscrito entre la Consejería de Vivienda, Transportes e Infraestructuras de la Comunidad de Madrid y Caixabank, S. A. para el programa mi primera vivienda, de 20 de septiembre de 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Adenda de 19 de diciembre de 2024, al convenio suscrito entre la Consejería de Vivienda, Transportes e Infraestructuras de la Comunidad de Madrid y Kutxabank, S. A., para el programa “Mi Primera Vivienda”, de 20 de septiembre de 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Adenda de 19 de diciembre de 2024, al convenio suscrito entre la Consejería de Vivienda, Transportes e Infraestructuras de la Comunidad de Madrid, e Ibercaja Banco, S. A., para el programa “Mi Primera Vivienda”, de 20 de septiembre de 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 30 de diciembre de 2024, de formalización del contrato titulado “Servicio relativo a la póliza del seguro de responsabilidad civil de Administradores y Directivos (D&O)”. (Expediente 6012400323)-(Contratos: lote 1-7224000759, lote 2-7224000760, lote 3-7224000761)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 31 de diciembre de 2024, de formalización del contrato titulado “Acuerdo marco para el suministro de repuestos exclusivos del fabricante Schunk Ibérica, S. A., para el mantenimiento de los trenes del material móvil de Metro de Madrid” (expediente 6012400322)-(contrato M00022-001)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 31 de diciembre de 2024, de formalización del contrato titulado “Servicio de certificación, inspección, seguimiento y asistencia ante el suministro de nuevo material móvil de gálibo estrecho” (expediente 6012400179)-(contrato 772400276)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 14 de enero de 2025, por el que se convoca la licitación para la contratación del “Servicio de reparaciones especializadas de cerrajería en escaleras mecánicas mantenidas por Metro de Madrid” (expediente 6012500018)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 2 de enero de 2025, de la Viceconsejería de Sanidad y Dirección General del Servicio Madrileño de Salud, por la que se hace pública la convocatoria de licitación del contrato de servicios “75 plazas para el apoyo residencial al tratamiento ambulatorio de pacientes con trastorno por consumo de sustancias (3 lotes)”, a adjudicar por procedimiento abierto mediante pluralidad de criterios por tramitación ordinaria. PA SER 17/2024 (A/SER-037108/2024)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 3 de enero de 2025, de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud, por la que se hace pública la convocatoria de licitación denominada “Servicio para la prevención y el control de la legionelosis en los centros de salud, consultorios locales y otros edificios dependientes de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 23 de diciembre de 2024, del Director-Gerente del Hospital Universitario “Puerta de Hierro Majadahonda”, Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de suministro e instalación de equipamiento para Neonatología (I)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 23 de diciembre de 2024, del Director-Gerente del Hospital Universitario “Puerta de Hierro Majadahonda”, Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de suministro e instalación de equipamiento para Neonatología (II), con destino al Hospital Universitario “Puerta de Hierro Majadahonda”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 30 de diciembre de 2024, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del adelanto de la primera prórroga del contrato PNSP 2023-1-071 para el «Suministro de Cannabidiol (Epidyolex®) 100 mg/ml 100 ml solución, de distribución exclusiva, con destino al Servicio de Farmacia del Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 30 de diciembre de 2024, de la Dirección-Gerencia, por ausencia, el Director Médico del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato del PA 2024-0-192 «Suministro de material necesario para la detección e identificación automática cualitativa de alteraciones en los genes de fusión (ALK, ROS, RET y MET), BRAF/NARAS, KRAS e IDH1 e IDH2 y del equipamiento en cesión necesario para la realización de la técnica, con destino al Servicio de Anatomía Patológica del Hospital Clínico “San Carlos”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 30 de diciembre de 2024, de la Dirección-Gerencia, por ausencia, el Director Médico del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato del PA 2024-0-346 «Suministro de los reactivos y del equipamiento necesarios para la determinación de la carga viral del virus Sars-cov-2 mediante amplificación de ácidos nucleicos y del virus de la hepatitis B (VHB), virus de la hepatitis C (VHC) y virus de la inmunodeficiencia humana tipo 1 (VIH-1) y otros virus mediante amplificación genética en tiempo real en plasma/suero para el Servicio de Microbiología del Hospital Clínico “San Carlos”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 26 de diciembre de 2024, de la Gerencia del Hospital Infantil Universitario “Niño Jesús”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de «Suministro de un equipo de cromatografía líquida de alta resolución (HPLC) para el Hospital Infantil Universitario “Niño Jesús”». Expediente: A/SUM-024344/2024-PAS",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 9 de diciembre de 2024, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Vereda de la Fuente de los Guindos, en el término municipal de Pezuela de las Torres, para llevar a cabo la instalación de la línea de evacuación tendido de media tensión PSF Galatea II, actuación promovida por Green Capital Development 57, S. L. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 12 de diciembre de 2024, de la Dirección General de Transición Energética y Economía Circular, por la que se somete a información pública la petición de autorización administrativa para la instalación de la planta fotovoltaica El Llano y su infraestructura de evacuación en el polígono 7, parcelas 19, 20, 22, 23, 24, 25, 26, 27, 29, en los términos municipales de Villaviciosa de Odón y Alcorcón, solicitada por Sociedad de Explotación Fotovoltaica Viena, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 19 de diciembre de 2024, de la Dirección General de Transición Energética y Economía Circular, por la que se somete a información pública la petición de autorización administrativa y aprobación del proyecto para la instalación de 1 subestación eléctrica denominada “Cisneros-Nabiax” en Avda. Punto Com, 23 en el término municipal de Alcalá de Henares, solicitada por Digital DHF Iberia, S. L. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 20 de diciembre de 2024, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de las vías pecuarias Cordel de las Carreteras de Miraflores y Madrid y Vereda Calleja de las Merinas, en el término municipal de Colmenar Viejo, para soterramiento de dos líneas aéreas de media tensión, actuación promovida por Junta de Compensación Cerca de la Tejera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 20 de diciembre de 2024, de la Dirección General de Transición Energética y Economía Circular, por la que se somete a información pública la petición de autorización administrativa y aprobación del proyecto para la instalación de una línea de 132 kV de doble circuito en Avenida Punto Com, 23, en el término municipal de Alcalá de Henares, solicitada por I-DE Redes Eléctricas Inteligentes, S. A. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 20 de diciembre de 2024, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Colada de la Cruz Verde a la Laguna de Castrejón, en el término municipal de Zarzalejo, para proyecto de fibra óptica denominado “Z321582-1 0COBR A105” (proyecto número 02074124), actuación promovida por Telefónica de España, S. A. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 26 de diciembre de 2024, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe de Impacto Ambiental del proyecto de «Planta solar fotovoltaica “Rabiza Solar Ampliación” e infraestructuras de evacuación», en el término municipal de Colmenar de Oreja, promovido por Rabiza Solar, S. L., (Expediente: 26-EIA-00141.6/2024)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Resolución de 3 de enero de 2025, de la Secretaría General Técnica de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se dispone la ampliación del plazo de licitación del contrato de “Gestión del centro de día de atención a personas mayores dependientes afectadas por la enfermedad de Alzheimer, Desengaño”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 20 de diciembre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales y el Ayuntamiento de Alcorcón para la gestión de un Centro de Acogida para mujeres víctimas de Violencia de Género, sus hijos y personas dependientes, para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 20 de diciembre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales y el Ayuntamiento de Leganés, para la gestión de un Centro de Emergencia para mujeres víctimas de Violencia de Género y sus hijos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Dirección General de Política Energética y Minas. Autorización administrativa",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arroyomolinos",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Galapagar",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Griñón",
+      "description": "Organización y funcionamiento: Encomienda gestión",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Griñón",
+      "description": "Personal: Plantilla personal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Horcajuelo de la Sierra",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Los Molinos",
+      "description": "Organización y funcionamiento: Ordenanza uso coworking",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Lozoya",
+      "description": "Organización y funcionamiento: Ordenanza servicio aparcamiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Majadahonda",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Morata de Tajuña",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Olmeda de las Fuentes",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Parla",
+      "description": "Organización y funcionamiento: Acuerdo condiciones trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Lorenzo de El Escorial",
+      "description": "Personal: Nombramiento personal laboral",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Lorenzo de El Escorial",
+      "description": "Personal: Nombramiento personal laboral",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Soto del Real",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Venturada",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villamantilla",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de Perales",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaviciosa de Odón",
+      "description": "Personal: Plantilla personal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad Intermunicipal de Servicios Sociales Las Vegas",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-64.PDF"
+    }
+  }
+]
