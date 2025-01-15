@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Galapagar",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Griñón",
       "description": "Organización y funcionamiento: Encomienda gestión",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-42.PDF"
