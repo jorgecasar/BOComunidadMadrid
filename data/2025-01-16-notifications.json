@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Acuerdo de 23 de diciembre de 2024, del Consejo de Administración de la Agencia de Contratación Sanitaria de la Comunidad de Madrid, por el que se delega el ejercicio de determinadas competencias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Convenio de 23 de diciembre de 2024, de asistencia jurídica a Canal de Isabel II, S. A., M. P., y a sus sociedades participadas de nacionalidad española",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-8.PDF"
