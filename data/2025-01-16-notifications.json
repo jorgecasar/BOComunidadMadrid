@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 16 de diciembre de 2024, del Rector de la Universidad Complutense de Madrid, por la que se ordena la publicación de la modificación parcial de la Relación de Puestos de Trabajo del Personal Técnico, de Gestión y de Administración y Servicios Laboral de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Anuncio de 13 de enero de 2025, de delegación de competencias en la Comisión de contratación y ejecución presupuestaria y en el Consejero Delegado de la Agencia para la Administración Digital de la Comunidad de Madrid, para la autorización previa de los contratos, sus prórrogas y modificaciones en los términos previstos en el artículo 15 del Reglamento de funcionamiento del Consejo de Administración de la Agencia para la Administración Digital de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-6.PDF"
