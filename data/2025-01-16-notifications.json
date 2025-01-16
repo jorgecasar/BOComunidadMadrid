@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Majadahonda",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Morata de Tajuña",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-48.PDF"
