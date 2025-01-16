@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Anuncio de 13 de enero de 2025, de delegación de competencias en la Comisión de contratación y ejecución presupuestaria y en el Consejero Delegado de la Agencia para la Administración Digital de la Comunidad de Madrid, para la autorización previa de los contratos, sus prórrogas y modificaciones en los términos previstos en el artículo 15 del Reglamento de funcionamiento del Consejo de Administración de la Agencia para la Administración Digital de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Acuerdo de 23 de diciembre de 2024, del Consejo de Administración de la Agencia de Contratación Sanitaria de la Comunidad de Madrid, por el que se delega el ejercicio de determinadas competencias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/15/BOCM-20250115-7.PDF"
