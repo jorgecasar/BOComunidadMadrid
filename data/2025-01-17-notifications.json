@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Majadahonda",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Majadahonda",
       "description": "Urbanismo: Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-43.PDF"
     }
