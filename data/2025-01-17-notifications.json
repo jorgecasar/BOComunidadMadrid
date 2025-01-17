@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Encomienda de gestión de 2 de enero de 2025, de la Agencia de Contratación Sanitaria de la Comunidad de Madrid al Servicio Madrileño de Salud, adscritos a la Consejería de Sanidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 30 de diciembre de 2024, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se dispone la publicación del anuncio previo relativo al contrato “Ejecución del proyecto “Transformación digital y modernización de los sistemas de gestión del padrón municipal de las EE. LL.”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-23.PDF"
