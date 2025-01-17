@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pelayos de la Presa",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Pezuela de las Torres",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-48.PDF"
