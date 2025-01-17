@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Resolución de 30 de diciembre de 2024, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se dispone la publicación del anuncio previo relativo al contrato “Ejecución del proyecto “Transformación digital y modernización de los sistemas de gestión del padrón municipal de las EE. LL.”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 26 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Universidad Politécnica de Madrid, para la concesión directa de una subvención para el apoyo al desarrollo de la misión UPMSat-3 por importe de 150.000 euros, correspondiente al ejercicio económico 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-24.PDF"
