@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Miraflores de la Sierra",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Olmeda de las Fuentes",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-46.PDF"
