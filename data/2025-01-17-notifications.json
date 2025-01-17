@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Loeches",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Lozoya",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-40.PDF"
