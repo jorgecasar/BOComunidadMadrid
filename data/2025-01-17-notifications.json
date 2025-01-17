@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Tres Cantos",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Valdemoro",
       "description": "Organización y funcionamiento: Reglamento Complemento Productividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-60.PDF"
