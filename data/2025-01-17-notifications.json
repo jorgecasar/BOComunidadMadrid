@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Resolución de 30 de diciembre de 2024, de la Dirección General de Reequilibrio Territorial, sobre la convocatoria, por el sistema por el sistema de Libre Designación, del puesto de trabajo de Vicesecretaria-Intervención, clase 3.a, reservado a funcionarios de Administración Local con habilitación de carácter nacional, del Ayuntamiento de Fuenlabrada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 30 de diciembre de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso selectivo para el ingreso en el Cuerpo de Inspectores de Hacienda, de Administración Especial, Grupo A, Subgrupo A1 de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-2.PDF"
