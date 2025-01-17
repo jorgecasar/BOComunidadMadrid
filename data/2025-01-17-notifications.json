@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Las Rozas de Madrid",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Las Rozas de Madrid",
       "description": "Urbanismo: Informe evaluación edificios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-38.PDF"
     }
