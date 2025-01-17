@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 23 de diciembre de 2024, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de 6 de mayo de 2024 de un puesto de Jefe/a de Sección de Nefrología, Diálisis",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 27 de diciembre de 2024, de la Dirección-Gerencia del Hospital Universitario Clínico “San Carlos” del Servicio Madrileño de la Salud, por la que se resuelve la convocatoria de 8 de marzo de 2024, de un puesto de Jefe/a de Sección de Otorrinolaringología",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-15.PDF"
     }
