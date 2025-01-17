@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Digitalización",
-      "description": "Orden 237/2024, de 16 de diciembre, de la Consejería de Digitalización, por la que se reajustan las anualidades de la Orden 104/2024, de 16 de agosto, por la que se establecen las bases reguladoras y se aprueba la convocatoria de subvenciones dirigidas al desarrollo de casos de uso de inteligencia artificial aplicada a la industria dentro del programa de redes territoriales de especialización tecnológica en el marco del Componente 16 Reforma 1 del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Nextgenerationeu, para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Digitalización",
       "description": "Orden 309/2024, de 23 de diciembre, de la Consejería de Digitalización, por la que se modifica la Orden 100/2024, de 8 de agosto, de la Consejería de Digitalización, por la que se establecen las bases reguladoras y se aprueba la convocatoria de subvenciones para el desarrollo de programas formativos en el ámbito de la inteligencia artificial, dentro del Programa de Redes Territoriales de Especialización Tecnológica en el marco del Componente 16 Reforma 1 del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea- Next Generation EU",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-21.PDF"
     }
