@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 26 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Universidad Politécnica de Madrid, para la concesión directa de una subvención para el apoyo al desarrollo de la misión UPMSat-3 por importe de 150.000 euros, correspondiente al ejercicio económico 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Convenio de colaboración de 19 de diciembre de 2024, entre el Servicio Madrileño de Salud, a través del SUMMA 112, y el excelentísimo Ayuntamiento de Tres Cantos en materia de asistencia a las urgencias, emergencias sanitarias y transporte sanitario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-25.PDF"
