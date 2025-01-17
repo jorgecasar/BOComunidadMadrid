@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 20 de diciembre de 2024, de la Dirección-Gerencia del Hospital Universitario de Getafe del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos/as y excluidos/as al proceso de provisión convocado para la cobertura de un puesto de Jefe/a de Servicio de Dermatología Médico-Quirúrgica y Venereología en ese centro asistencial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Orden 237/2024, de 16 de diciembre, de la Consejería de Digitalización, por la que se reajustan las anualidades de la Orden 104/2024, de 16 de agosto, por la que se establecen las bases reguladoras y se aprueba la convocatoria de subvenciones dirigidas al desarrollo de casos de uso de inteligencia artificial aplicada a la industria dentro del programa de redes territoriales de especialización tecnológica en el marco del Componente 16 Reforma 1 del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Nextgenerationeu, para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/16/BOCM-20250116-20.PDF"
