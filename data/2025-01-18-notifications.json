@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 7 de enero de 2025, de formalización del contrato titulado “Suministro para la sustitución de las plantas de energía de los centros administrativos de telecomunicaciones (CAT) de Metro de Madrid” (Expediente 6012400108)-(Contrato 7724000293)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 7 de enero de 2025, de formalización del contrato titulado “Suministro de repuestos de inmovilizado para los sistemas de detección de incendios por aspiración de humos para Metro de Madrid” (Expediente 6012400246)-(Contrato 4624000103)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-19.PDF"
     }
