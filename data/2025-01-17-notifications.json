@@ -1,0 +1,488 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 14,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/01/17/BOCM-20250117014.PDF",
+      "total": 61,
+      "items": {
+        "Comunidad de Madrid": 32,
+        "Disposiciones y Anuncios del Estado": 1,
+        "Administración Local Ayuntamientos": 26,
+        "Otros Anuncios": 2
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 2 de enero de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 8 de enero de 2025, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo 20 de septiembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 15 de octubre), para la provisión de un puesto de trabajo vacante en la Consejería de Cultura, Turismo y Deporte, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 8 de enero de 2025, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 9 de octubre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 21 de octubre), para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Orden de 8 de enero de 2025, de la Consejería de Digitalización, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Orden de 7 de enero de 2025, del Consejero de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Vivienda, Transportes e Infraestructuras, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 3 de enero de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se procede a la modificación de la composición del Tribunal Calificador de las pruebas selectivas para el acceso, por el turno libre, a la condición de personal estatutario fijo, en la categoría de Facultativo Especialista en Análisis Clínicos del Servicio Madrileño de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Orden 3809/2024, de 27 de diciembre, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 23/2025, de 7 de enero, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Autónoma de Madrid",
+      "description": "Resolución de 8 de enero de 2025, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de cuerpos docentes universitarios: Profesores y Profesoras Titulares de Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Politécnica de Madrid",
+      "description": "Resolución de 7 de enero de 2025, de la Universidad Politécnica de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de diciembre de 2024, de la Directora General de Formación, por la que se hace pública la relación de subvenciones concedidas, a través de un bono de formación, con cargo al programa de formación conducente a facilitar la obtención de los permisos de conducción profesionales de las clases C, D y C+E, a personas trabajadoras ocupadas y desempleadas para la mejora de su empleabilidad, en el marco del PRTR (C23.I3), financiado por la UE-Next Generation-EU, regulado por la Orden de 29 de junio de 2023, de la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 5731/2024, de 27 de diciembre, de la Consejería de Educación, Ciencia y Universidades, por la que se desarrolla el Decreto 15/2024, de 7 de febrero, del Consejo de Gobierno, por el que se regula la provisión del profesorado del Programa de Excelencia en Bachillerato de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Anuncio de 30 de diciembre de 2024, de prórroga de la encomienda de gestión de 13 de enero de 2021, de la Dirección General de Recursos Humanos de la Consejería de Educación, Ciencia y Universidades, a la Dirección General de Función Pública de la Consejería de Economía, Hacienda y Empleo, en materia de prevención de riesgos laborales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Orden 5165/2024, de 23 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, de los precios comunicados por la entidad privada colaboradora urbanística AB-Aucatel Inspección y Control, S. L. U., a percibir por el ejercicio de sus funciones en el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Orden 5166/2024, de 23 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, de los precios comunicados por la entidad privada colaboradora urbanística AB-EIC Control Reglamentario, S. L, a percibir por el ejercicio de sus funciones en el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Orden 5167/2024, de 23 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, de los precios comunicados por la entidad privada colaboradora urbanística Actecu Consultoría Técnica S.L., a percibir por el ejercicio de sus funciones en el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Orden 5168/2024, de 23 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, de los precios comunicados por la entidad privada colaboradora urbanística AECLU Edificación y Sostenibilidad, S. L., a percibir por el ejercicio de sus funciones en el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 7 de enero de 2025, de formalización del contrato titulado “Suministro para la sustitución de las plantas de energía de los centros administrativos de telecomunicaciones (CAT) de Metro de Madrid” (Expediente 6012400108)-(Contrato 7724000293)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 7 de enero de 2025, de formalización del contrato titulado “Suministro de repuestos de inmovilizado para los sistemas de detección de incendios por aspiración de humos para Metro de Madrid” (Expediente 6012400246)-(Contrato 4624000103)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 7 de enero de 2025, del Consejero Delegado de la Agencia de Contratación Sanitaria de la Comunidad de Madrid, por la que se anuncia la licitación del contrato “Acuerdo Marco para Servicios de Atención en Unidades Hospitalarias de Cuidados Psiquiátricos prolongados y de Rehabilitación y Retorno a la comunidad, para adultos con trastorno mental grave (7 Lotes)”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de diciembre de 2024, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de Acuerdo Marco para el tratamiento de hemodiálisis en centros concertados a pacientes del Hospital Universitario “Ramón y Cajal”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de enero de 2025, del Director-Gerente del Hospital Clínico “San Carlos”, por ausencia, el Director Médico, dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la formalización del contrato por procedimiento abierto PA 2024-7-370 Suministro, instalación y puesta en marcha de cunas térmicas, incubadoras y monitor de función cerebral para el Servicio de Neonatología del Hospital Clínico “San Carlos”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de enero de 2025, de la Dirección Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato del PA 2024-0-159 «Suministro de geles lubricantes y lubricante de silicona en spray para el Hospital Clínico “San Carlos” de Madrid”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Adenda de 26 de diciembre de 2024, de prórroga del convenio entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de San Agustín del Guadalix para la integración de la operativa del Cuerpo de Policía Local de San Agustín del Guadalix en el Centro de Coordinación Municipal de la Viceconsejería deI Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Adenda de 26 de diciembre de 2024, de prórroga del convenio entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Perales de Tajuña para la integración de la operativa del Cuerpo de Policía Local de Perales de Tajuña en el Centro de Coordinación Municipal de la Viceconsejería de Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Adenda de 26 de diciembre de 2024, prórroga del convenio entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Pelayos de la Presa para la integración de la operativa del Cuerpo de Policía Local de Pelayos de la Presa en el centro de coordinación municipal de la Viceconsejería de Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Adenda de 26 de diciembre de 2024, de prórroga del convenio entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Pedrezuela, para la integración de la operativa del Cuerpo de Policía Local de Pedrezuela, en el centro de coordinación municipal de la Viceconsejería de Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Adenda de 26 de diciembre de 2024, de prórroga del convenio entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Navas del Rey, para la integración de la operativa del Cuerpo de Policía Local de Navas del Rey en el centro de coordinación municipal de la Viceconsejería de Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Adenda de 26 de diciembre de 2024, de prórroga del convenio entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Manzanares el Real, para la integración de la operativa del Cuerpo de Policía Local de Manzanares el Real en el centro de coordinación municipal de la Viceconsejería de Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Adenda de 26 de diciembre de 2024, de prórroga del convenio entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de El Molar, para la integración de la operativa del Cuerpo de Policía Local de El Molar en el centro de coordinación municipal de la Viceconsejería de Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Adenda de 26 de diciembre de 2024, de prórroga del convenio entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Majadahonda, para la integración de la operativa del Cuerpo de Policía Local de Majadahonda en el centro de coordinación municipal de la Viceconsejería de Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Adenda de 27 de diciembre de 2024, de prórroga del convenio entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Moraleja de En medio, para la integración de la operativa del Cuerpo de Policía Local de Moraleja de Enmedio en el centro de coordinación municipal de la Viceconsejería de Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio de Defensa. Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa. Subasta pública",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Políticas Sociales, Familia e Igualdad. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Políticas Sociales, Familia e Igualdad. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Distrito de Latina. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Urbanismo: Proyecto reparcelación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cercedilla",
+      "description": "Personal: Nombramiento funcionario carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Personal: Nombramiento funcionarios carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Urbanismo: Catálogo bienes",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Villalba",
+      "description": "Urbanismo: Proyecto reparcelación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenar Viejo",
+      "description": "Personal: Relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Berrueco",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Organización y funcionamiento: Acuerdo Colectivo Empleados Públicos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Galapagar",
+      "description": "Personal: Relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Guadalix de la Sierra",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Hoyo de Manzanares",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "La Cabrera",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Las Rozas de Madrid",
+      "description": "Personal: Relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mejorada del Campo",
+      "description": "Organización y funcionamiento: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Moralzarzal",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Perales de Tajuña",
+      "description": "Otros anuncios: Plan actuación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Puentes Viejas",
+      "description": "Organización y funcionamiento: Régimen dedicación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Fernando de Henares",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de Valdeiglesias",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Sevilla la Nueva",
+      "description": "Régimen económico: Padrón fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Sevilla la Nueva",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/17/BOCM-20250117-59.PDF"
+    }
+  }
+]
