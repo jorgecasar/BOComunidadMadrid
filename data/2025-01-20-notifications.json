@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Convenio de 27 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Vivienda, Transportes e Infraestructuras) y la Agencia de Vivienda Social de la Comunidad de Madrid, por el que se formaliza la concesión directa de una subvención para la financiación de 40 viviendas en alquiler en la parcela 3.6A del Plan Parcial UZP1.03 “Ensanche de Vallecas”, en Madrid, en el marco del Plan Estatal de Vivienda 2018-2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/18/BOCM-20250118-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Convenio de colaboración de 18 de diciembre de 2024, entre Universidad Francisco de Vitoria, Avanza Spain, S. L., y el Organismo Autónomo Consorcio Regional de Transportes Públicos Regulares de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/18/BOCM-20250118-19.PDF"
     }
