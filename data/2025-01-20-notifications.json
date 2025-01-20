@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Convenio de 30 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia y Administración Local) y el Grupo de Acción Local “Asociación de Desarrollo Rural Comarca de Las Vegas y Alcarria de Alcalá”, seleccionado para la aplicación de su estrategia de desarrollo local participativo en el marco del Plan Estratégico de la Política Agrícola Común (PEPAC) 2023-2027",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/18/BOCM-20250118-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Convenio de 30 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia y Administración Local) y el Grupo de Acción Local Sierra Norte de Madrid seleccionado para la aplicación de su estrategia de desarrollo local participativo en el marco del Plan Estratégico de la Política Agrícola Común (PEPAC) 2023-2027",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/18/BOCM-20250118-15.PDF"
     }
