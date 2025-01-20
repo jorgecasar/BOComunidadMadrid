@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Convenio de 30 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia y Administración Local) y el Grupo de Acción Local “Asociación para el Desarrollo Integral de la Sierra Oeste de Madrid” seleccionado para la aplicación de su estrategia de desarrollo local participativo en el marco del Plan Estratégico de la Política Agrícola común (PEPAC) 2023-2027",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/18/BOCM-20250118-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Convenio de 27 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Vivienda, Transportes e Infraestructuras) y la Agencia de Vivienda Social de la Comunidad de Madrid, por el que se formaliza la concesión directa de una subvención a la Agencia de Vivienda Social para la financiación de 39 viviendas en alquiler en la parcela 1.30d del Plan Parcial UZP 1.03 “Ensanche de Vallecas” (Madrid), en el marco del Plan Estatal de Vivienda 2018-2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/18/BOCM-20250118-17.PDF"
