@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Adenda de 20 de diciembre de 2024, de tercera prórroga del Convenio de asistencia jurídica al Ente Público Canal de Isabel II",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/18/BOCM-20250118-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Convenio de 23 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia y Administración Local) y la Universidad Pontificia Comillas, para la realización de prácticas externas en la Dirección General de Cooperación con el Estado y la Unión Europea",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/18/BOCM-20250118-10.PDF"
     }
