@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Ambite",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Ambite",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-42.PDF"
     }
