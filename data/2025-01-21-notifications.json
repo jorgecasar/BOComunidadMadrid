@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo 76/2024, de 26 de septiembre, de la Comisión de Urbanismo de Madrid, relativo a la aprobación inicial del Plan Especial de Infraestructuras del Proyecto “Construcción de un punto de agua para extinción de incendios forestales en el municipio La Hiruela” (Documento noviembre 2023), que afecta al término municipal de La Hiruela, promovido por la Dirección General de Emergencias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo 77/2024, de 26 de septiembre, de la Comisión de Urbanismo de Madrid, relativo a la aprobación inicial del Plan Especial de Infraestructuras “Construcción de un punto de agua para extinción de incendios forestales en Puebla de la Sierra” (Documento agosto de 2023) que afecta al término municipal de Puebla de la Sierra (Madrid), promovido por la Dirección General de Emergencias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-31.PDF"
     }
