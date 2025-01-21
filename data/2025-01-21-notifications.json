@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 5169/2024, de 23 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación en el Boletín oficial de la comunidad de Madrid, de los precios comunicados por la entidad privada colaboradora urbanística Deklara, Obras y Actividades, S. L., a percibir por el ejercicio de sus funciones en el año 2024 y 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 5170/2024, de 23 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, de los precios comunicados por la entidad privada colaboradora urbanística EQA Licencias Urbanísticas, S. L., a percibir por el ejercicio de sus funciones en el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-15.PDF"
     }
