@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 5600/2024, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la convocatoria del año 2024 de ayudas a proyectos de I+D realizados en colaboración entre grupos de investigación pertenecientes a las universidades y organismos de investigación de la Comunidad de Madrid en la modalidad de proyectos sinérgicos de I+D",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 5169/2024, de 23 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación en el Boletín oficial de la comunidad de Madrid, de los precios comunicados por la entidad privada colaboradora urbanística Deklara, Obras y Actividades, S. L., a percibir por el ejercicio de sus funciones en el año 2024 y 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-14.PDF"
