@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Transportes y Movilidad Sostenible. ADIF Administrador de Infraestructuras Ferroviarias. Expropiación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Régimen económico: Distrito de Latina. Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-37.PDF"
