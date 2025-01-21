@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 8 de enero de 2025, de la Universidad Rey Juan Carlos, por la que se nombran a Catedráticos de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5132/2024, de 27 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se acuerda la creación de la Facultad de Ciencias de la Salud de la Universidad Carlos III de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-12.PDF"
