@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 7 de enero de 2025, de Canal de Isabel II, S. A., por la que se hace pública la formalización del contrato adjudicado por procedimiento negociado para “131/2024 Suscripción de las licencias de productos de software AG”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución de 30 de diciembre de 2024, de cese de actividad de las agencias de viajes Viajes Abion, S. L. y Corporate Granted Tours, S. L.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-33.PDF"
