@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Adenda de 26 de diciembre de 2024, de prórroga del convenio entre el Consorcio Regional de Transportes Públicos Regulares de Madrid y Metro de Madrid, S. A., para la comercialización de títulos de transporte",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 27 de diciembre de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid y la Junta de Comunidades de Castilla-La Mancha, para la renovación de la utilización de los títulos de Abono Transportes del Consorcio Regional de Transportes de Madrid en los desplazamientos entre ambas Comunidades Autónomas para el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-21.PDF"
     }
