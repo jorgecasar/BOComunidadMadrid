@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 8 de enero de 2025, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la Resolución de adjudicación del puesto convocado para su provisión por el sistema de Libre Designación, convocado por Resolución de 4 de noviembre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 8 de enero de 2025, de la Universidad Carlos III de Madrid, por la que se nombra Catedrático de Universidad a don José María Sauca Cano",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-7.PDF"
     }
