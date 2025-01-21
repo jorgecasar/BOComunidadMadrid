@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 8 de enero de 2025, de la Universidad Rey Juan Carlos, por la que se nombra Catedrático de Universidad con plaza vinculada a don Manuel Durán Poveda",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 8 de enero de 2025, de la Universidad Rey Juan Carlos, por la que se nombran a Catedráticos de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-10.PDF"
     }
