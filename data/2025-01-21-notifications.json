@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 16 de enero de 2025, de adjudicación del contrato titulado “Acuerdo marco para el suministro de materiales de imprenta, papel y plásticos, utilizados en Metro de Madrid” (expediente 6012400286)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Convenio de colaboración de 2 de enero de 2025, entre el Servicio Madrileño de Salud, a través del Summa 112, y el excelentísimo Ayuntamiento de San Sebastián de los Reyes en materia de asistencia a las urgencias, emergencias sanitarias y transporte sanitario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-25.PDF"
