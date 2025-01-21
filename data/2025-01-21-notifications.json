@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 5171/2024, de 23 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, de los precios comunicados por la entidad privada colaboradora urbanística Licencias y Certificaciones de Madrid, S. L., a percibir por el ejercicio de sus funciones en el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 27 de diciembre de 2024, de ejecución de infraestructuras de alcantarillado Plan Sanea en el municipio de Colmenar del Arroyo con cargo a cuota suplementaria, entre el Ayuntamiento de Colmenar del Arroyo, Canal de Isabel II y Canal de Isabel II, S. A., M. P.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-17.PDF"
     }
