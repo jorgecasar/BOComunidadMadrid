@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 16 de enero de 2025, de ampliación de plazo de presentación de ofertas de la licitación de obras de instalación de Sistemas de Comunicaciones para Operación LAR (Línea de Alta Regularidad) en Línea 6 de Metro de Madrid. (Expediente 6012400392)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 16 de enero de 2025, de adjudicación del contrato titulado “Acuerdo marco para el suministro de materiales de imprenta, papel y plásticos, utilizados en Metro de Madrid” (expediente 6012400286)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-24.PDF"
     }
