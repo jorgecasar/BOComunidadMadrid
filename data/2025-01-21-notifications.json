@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Adenda de 20 de diciembre de 2024, de prórroga del convenio entre el Consorcio Regional de Transportes Públicos Regulares de Madrid y Renfe Viajeros Sociedad Mercantil Estatal, S. A., sobre la compensación de los viajes realizados con Abono Transportes en la red de Cercanías de Madrid y el establecimiento de la garantía de calidad del servicio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Adenda de 26 de diciembre de 2024, de prórroga del convenio entre el Consorcio Regional de Transportes Públicos Regulares de Madrid y Metro de Madrid, S. A., para la comercialización de títulos de transporte",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-20.PDF"
     }
