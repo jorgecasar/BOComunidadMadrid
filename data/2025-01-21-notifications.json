@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 8 de enero de 2025, de la Universidad Carlos III de Madrid, por la que se nombra Catedrático de Universidad a don José María Sauca Cano",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 8 de enero de 2025, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/20/BOCM-20250120-8.PDF"
