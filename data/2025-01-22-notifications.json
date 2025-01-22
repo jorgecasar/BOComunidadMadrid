@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 17 de enero de 2025, de adjudicación del contrato titulado “Servicio de mantenimiento integral de sistemas de seguridad de la Sede Social y el Centro de Procesamiento de Datos (CPD) Global de Metro de Madrid”. (Expediente 6012400147)",
-      "file": "https://www.bocm.es/system/files/CM_Orden_BOCM/2025/01/21/BOCM-20250121-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 17 de enero de 2025, por el que se convoca la licitación para la contratación de un suministro de sistemas de vía en placa con fijación directa de tecnología antivibratoria, para las obras de renovación integral de la superestructura de vía en la Línea 6 de Metro de Madrid. (Expediente 6012500022)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/21/BOCM-20250121-33.PDF"
     }
