@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 28 de diciembre de 2024, de la Dirección-Gerencia del Hospital Universitario de Fuenlabrada, por la que se procede al desistimiento del procedimiento de licitación para el “Suministro de diverso material para vía venosa, punción e incisión para el Hospital Universitario de Fuenlabrada”. PA SUM 24-048",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/21/BOCM-20250121-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 29 de noviembre de 2024, de la Dirección General de Transición Energética y Economía Circular sobre autorización administrativa y aprobación del proyecto para la instalación de una línea de alta tensión 220 kV ubicada en Avenida de Brasilia, entre la ST Manuel Becerra y ST Prosperidad, en el término municipal de Madrid, solicitado por UFD Distribución Electricidad, S. A.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/21/BOCM-20250121-41.PDF"
