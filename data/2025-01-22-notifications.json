@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 8 de enero de 2025, de la Universidad Carlos III de Madrid, por la que se publica la Relación de Puestos de Trabajo de personal técnico, de gestión y de administración y servicios funcionario de esta Universidad, aprobada en Consejo de Gobierno de 11 de diciembre de 2024",
-      "file": "https://www.bocm.es/system/files/CM_Orden_BOCM/2025/01/21/BOCM-20250121-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5821/2024 de 12 de diciembre, de la Consejería de Educación, Ciencia y Universidades, por la que se aceptan renuncias en relación con las becas concedidas mediante la Orden 3657/2023, de 21 de septiembre de 2023, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas para la escolarización en el primer ciclo de Educación Infantil en centros de titularidad privada para el curso 2023-2024",
       "file": "https://www.bocm.es/system/files/CM_Orden_BOCM/2025/01/21/BOCM-20250121-15.PDF"
