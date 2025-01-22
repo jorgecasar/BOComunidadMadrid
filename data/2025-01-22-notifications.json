@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ajalvir",
-      "description": "Urbanismo: Medidas urbanísticas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/21/BOCM-20250121-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcobendas",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/21/BOCM-20250121-50.PDF"
