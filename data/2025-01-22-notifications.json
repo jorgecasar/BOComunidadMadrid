@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 5821/2024 de 12 de diciembre, de la Consejería de Educación, Ciencia y Universidades, por la que se aceptan renuncias en relación con las becas concedidas mediante la Orden 3657/2023, de 21 de septiembre de 2023, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas para la escolarización en el primer ciclo de Educación Infantil en centros de titularidad privada para el curso 2023-2024",
-      "file": "https://www.bocm.es/system/files/CM_Orden_BOCM/2025/01/21/BOCM-20250121-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 5172/2024, de 23 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, de los precios comunicados por la entidad privada colaboradora urbanística Addient Empresa Certificadora, S. L. U., a percibir por el ejercicio de sus funciones en el año 2025",
       "file": "https://www.bocm.es/system/files/CM_Orden_BOCM/2025/01/21/BOCM-20250121-16.PDF"
