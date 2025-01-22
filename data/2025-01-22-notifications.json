@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de colaboración de 16 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Universidad Politécnica de Cartagena, para el desarrollo del prácticum de los alumnos de la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que estando en posesión de una titulación declarada equivalente a efectos de docencia no pueden realizar los estudios de máster durante el curso escolar 2024-2025 en centros educativos no universitarios de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/21/BOCM-20250121-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 17 de enero de 2025, de adjudicación del contrato titulado “Servicio de mantenimiento integral de sistemas de seguridad de la Sede Social y el Centro de Procesamiento de Datos (CPD) Global de Metro de Madrid”. (Expediente 6012400147)",
       "file": "https://www.bocm.es/system/files/CM_Orden_BOCM/2025/01/21/BOCM-20250121-32.PDF"
