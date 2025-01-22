@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 83/2025, de 9 de enero, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se resuelve la convocatoria aprobada mediante Orden 3579/2024 de 16 de octubre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 28 de octubre de 2024), de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprobó la convocatoria pública para la provisión de varios puestos de trabajo por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/system/files/CM_Orden_BOCM/2025/01/21/BOCM-20250121-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 29/2025, de 9 de enero, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/system/files/CM_Orden_BOCM/2025/01/21/BOCM-20250121-11.PDF"
