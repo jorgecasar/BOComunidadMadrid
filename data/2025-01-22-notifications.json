@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Aranjuez",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/21/BOCM-20250121-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Aranjuez",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/21/BOCM-20250121-52.PDF"
     }
