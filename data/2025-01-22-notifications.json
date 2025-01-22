@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Boadilla del Monte",
-      "description": "Organización y funcionamiento: Plan movilidad urbana sostenible",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/21/BOCM-20250121-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cenicientos",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/21/BOCM-20250121-55.PDF"
