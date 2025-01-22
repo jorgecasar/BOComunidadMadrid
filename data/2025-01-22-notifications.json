@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Digitalización",
-      "description": "Convenio de 26 de diciembre de 2024, entre el Senado y la Agencia para la Administración Digital de la Comunidad de Madrid, para la cesión del derecho de uso al Senado de los Frameworks de desarrollo de aplicaciones de la Agencia para la Administración Digital de la Comunidad de Madrid, así como la puesta en común por el Senado de los conocimientos técnicos y experiencias que resulten de su utilización",
-      "file": "https://www.bocm.es/system/files/CM_Orden_BOCM/2025/01/21/BOCM-20250121-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Digitalización",
       "description": "Resolución de 27 de diciembre de 2024, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato titulado: “Cesión de derecho de uso y evolución de la infraestructura técnica para Playmad”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/21/BOCM-20250121-21.PDF"
     }
