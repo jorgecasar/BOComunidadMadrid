@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 19 de diciembre de 2024, del Secretario General de la Universidad Carlos III de Madrid, por la que se delega en determinados órganos de la Universidad la competencia de emitir certificados de docencia del personal docente e investigador de la Universidad",
-      "file": "https://www.bocm.es/system/files/CM_Orden_BOCM/2025/01/21/BOCM-20250121-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 23 de diciembre de 2024, de la Dirección General de Patrimonio y Contratación, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” del contrato de arrendamiento de las oficinas, local y plazas de aparcamiento del edificio sito en la calle Manuel Cortina, número 2 y Manuel Silvela, número 15, de Madrid, para uso administrativo de las unidades de la Consejería de Economía, Hacienda y Empleo",
       "file": "https://www.bocm.es/system/files/CM_Orden_BOCM/2025/01/21/BOCM-20250121-18.PDF"
