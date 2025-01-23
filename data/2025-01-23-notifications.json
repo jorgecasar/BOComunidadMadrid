@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución ELI/1/2025, de 9 de enero, del Director General de Patrimonio Cultural y Oficina del Español, por la que se aprueba la eliminación de determinadas fracciones temporales de series documentales de titularidad pública de la Administración de la Comunidad de Madrid y de las Entidades Locales Madrileñas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Adenda de 27 de diciembre de 2024, de modificación y prórroga del Convenio de colaboración entre la Comunidad de Madrid (Consejería de Presidencia, Justicia y Administración Local) y el Colegio Oficial de Secretarios, Interventores y Tesoreros de Administración Local de la Comunidad de Madrid, para la ejecución del Programa formativo para cargos electos de las entidades locales de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-13.PDF"
