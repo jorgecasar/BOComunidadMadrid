@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Acuerdo de 11 de diciembre de 2024, del Consejo de Gobierno, por el que se autoriza la disolución de la empresa pública con forma de sociedad mercantil Madrid Activa, S. A. U.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 8 de enero de 2025, de ejecución de infraestructuras de alcantarillado Plan Sanea en el municipio de Fresnedillas de la Oliva, con cargo a cuota suplementaria, entre el Ayuntamiento de Fresnedillas de la Oliva, Canal de Isabel II y Canal de Isabel II, S. A. M. P.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-9.PDF"
