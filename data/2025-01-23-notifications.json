@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Titulcia",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Mancomunidad de Recogida y Tratamiento de Basuras de Colmenar del Arroyo, Fresnedillas de la Oliva, Navalagamella y Zarzalejo",
       "description": "Régimen económico: Obligaciones pendientes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-52.PDF"
