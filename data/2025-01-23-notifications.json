@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Parla",
-      "description": "Licencias: Licencia actividad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Patones",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-49.PDF"
