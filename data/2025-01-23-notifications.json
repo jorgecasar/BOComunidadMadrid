@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Resolución de 9 de enero de 2025, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia de la Consejería de Presidencia, Justicia y Administración Local, por la que se otorgan destinos a los funcionarios del Cuerpo de Médicos Forenses, que superaron las pruebas selectivas convocadas por Orden JUS/1325/2022, de 28 de diciembre, en el ámbito de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 9 de enero de 2025, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia de la Consejería de Presidencia, Justicia y Administración Local, por la que se otorgan destinos a los funcionarios del Cuerpo de Médicos Forenses, que superaron las pruebas selectivas convocadas por Orden JUS/1326/2022, de 28 de diciembre, en el ámbito de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-2.PDF"
     }
