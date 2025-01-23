@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Anchuelo",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Ciempozuelos",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-43.PDF"
