@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Álamo",
-      "description": "Personal: Nombramientos personal laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Escorial",
       "description": "Régimen económico: Ordenanzas fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-46.PDF"
