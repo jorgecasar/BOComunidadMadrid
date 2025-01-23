@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ajalvir",
-      "description": "Licencias: Licencia actividad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Otros anuncios: Notificación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/22/BOCM-20250122-41.PDF"
