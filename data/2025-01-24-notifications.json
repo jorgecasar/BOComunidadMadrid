@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Colmenar del Arroyo",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Galapagar",
       "description": "Organización y funcionamiento: Ordenanza",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-42.PDF"
