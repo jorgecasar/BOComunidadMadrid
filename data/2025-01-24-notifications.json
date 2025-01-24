@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 8 de enero de 2025, de la Dirección General de Presupuestos, por la que se hace público el “Estado de Ejecución del Presupuesto de Gastos” correspondiente al mes de octubre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 15 de enero de 2025, del Consejo de Gobierno, por el que se aprueba definitivamente la modificación puntual número 11 del Plan General de Ordenación Urbana de Fuenlabrada. Regeneración urbana",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-6.PDF"
