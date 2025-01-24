@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Meco",
-      "description": "Organización y funcionamiento: Delegación funciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Montejo de la Sierra",
       "description": "Organización y funcionamiento: Ordenanza",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-47.PDF"
