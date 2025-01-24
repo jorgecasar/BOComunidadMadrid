@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Algete",
-      "description": "Urbanismo: Proyecto reparcelación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arganda del Rey",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-36.PDF"
