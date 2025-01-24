@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo de 15 de enero de 2025, del Consejo de Gobierno, por el que se aprueba definitivamente la modificación puntual del Plan General de Ordenación Urbana de Torrejón de Ardoz, en el ámbito del PERI de la UE-DB 22 “Los Girasoles” (parcela TC4)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Corrección de errores de la Resolución de 17 de diciembre de 2024, de la Universidad Autónoma de Madrid, por la que se publica la modificación del plan de estudios del Máster Universitario en Fisioterapia del Sistema Musculoesquelético por la Universidad Autónoma de Madrid (4314308)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-8.PDF"
