@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Adenda de 27 de diciembre de 2024, al contrato-programa entre el CRTM y Metro de Madrid plurianual 2021-2024. Prórroga del contrato programa para los ejercicios 2025 a 2028. Acuerdo económico para el ejercicio 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 9 de enero de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento abreviado número 380/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-12.PDF"
