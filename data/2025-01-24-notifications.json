@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Torres de la Alameda",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Mancomunidad del Sur",
       "description": "Régimen económico: Reglamento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-57.PDF"
