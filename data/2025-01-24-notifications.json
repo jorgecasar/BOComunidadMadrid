@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Montejo de la Sierra",
-      "description": "Organización y funcionamiento: Ordenanza",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Morata de Tajuña",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-48.PDF"
