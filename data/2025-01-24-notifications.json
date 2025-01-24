@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Acebeda",
-      "description": "Otros anuncios: Candidatura juez de paz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Contratación: Autorización demanial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-45.PDF"
