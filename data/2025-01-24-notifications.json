@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Chapinería",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenar del Arroyo",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/23/BOCM-20250123-41.PDF"
