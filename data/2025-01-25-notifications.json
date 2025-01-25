@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuenlabrada",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuente el Saz de Jarama",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-58.PDF"
