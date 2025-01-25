@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuente el Saz de Jarama",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Galapagar",
       "description": "Organización y funcionamiento: Reglamento instalaciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-59.PDF"
