@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 13 de enero de 2025, de formalización del contrato titulado “Servicio de inspección manual de soldaduras aluminotérmicas mediante ultrasonidos”. (Expediente 6012400195) - [Contratos 7224000804 (lote 1), 7224000805 (lote 2) y 7224000806 (lote 3)]",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 22 de enero de 2025, de adjudicación del contrato titulado “Obras de implantación de ascensores en las estaciones de Tetuán, Puente de Vallecas, Carabanchel, Campamento, Ciudad Lineal y Canillejas de las líneas 1 y 5 de Metro de Madrid” (expediente 6012400331)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-25.PDF"
     }
