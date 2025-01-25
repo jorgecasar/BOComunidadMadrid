@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Orden 248/2024, de 19 de diciembre, de la Consejería de Digitalización, por la que se resuelven parcialmente las solicitudes de subvenciones de bonos digitales para colectivos económicamente vulnerables (C15.I3) en el marco del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión EuropeaNext Generation EU (Programa Único-Bono Social) en la Comunidad de Madrid dentro de la convocatoria de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Acuerdo de 26 de diciembre de 2024, del Consejo de Gobierno, por el que se aprueba la Estrategia de Seguridad Viaria para la Comunidad de Madrid para el período 2024-2030",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-13.PDF"
