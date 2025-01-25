@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 22 de enero de 2025, de adjudicación del contrato titulado “Obras de implantación de ascensores en las estaciones de Tetuán, Puente de Vallecas, Carabanchel, Campamento, Ciudad Lineal y Canillejas de las líneas 1 y 5 de Metro de Madrid” (expediente 6012400331)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 22 de enero de 2025, de adjudicación del contrato titulado “Servicio de inspección mediante ensayo no destructivo (END) [técnica ultrasonidos (UT) y corrientes inducidas (ET)] a bastidores 7000 y 9000” (Expediente 6012400119)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-26.PDF"
     }
