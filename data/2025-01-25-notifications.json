@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Corpa",
-      "description": "Régimen económico: Padrón fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Daganzo de Arriba",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-54.PDF"
