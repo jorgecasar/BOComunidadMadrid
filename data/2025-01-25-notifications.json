@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Buitrago del Lozoya",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Campo Real",
       "description": "Régimen económico: Ordenanza tasa estacionamiento vehículos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-51.PDF"
