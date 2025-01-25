@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 2 de enero de 2025, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público la Declaración Ambiental Estratégica del Plan Especial de Infraestructuras (PEIPFOT-192 y PEI-PFOT-405) referente a la PSFV de Armada Solar y la subestación eléctrica y líneas asociadas, que afecta a los municipios de Ambite, Olmeda de las Fuentes, Pezuela de las Torres, Corpa, Nuevo Baztán y Valverde de Alcalá, promovido por Sociedades Armada Solar, S. L. U. (Expediente: 26-UB2-00112.1/2024, SIA 24/100)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 14 de enero de 2025, de Canal de Isabel II, S. A., M. P., por la que se hace pública la formalización del contrato adjudicado por procedimiento abierto para “Suministro de un equipo de UHPLC/MSMS para la determinación de NDMA, PFAS, Nonilfenol y 17b-Estradiol”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/24/BOCM-20250124-37.PDF"
     }
