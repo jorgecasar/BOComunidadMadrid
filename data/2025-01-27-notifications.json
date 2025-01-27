@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Adenda segunda de 27 de diciembre de 2024, de modificación y prórroga al convenio por el que el Fondo Español de Garantía Agraria, O.A., en calidad de autoridad de certificación del Fondo Europeo Marítimo y de la Pesca (FEMP), encomienda a la Comunidad de Madrid para la gestión de determinadas funciones, en su condición de organismo intermedio de certificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/25/BOCM-20250125-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Adenda de 9 de enero de 2025, de prórroga del Convenio de colaboración entre la Comunidad de Madrid (Consejería de Justicia, Interior y Víctimas) y el Ayuntamiento de Colmenar Viejo, para establecer un protocolo de actuación de la agrupación municipal de voluntarios de protección civil en el ámbito de la extinción de incendios y salvamento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/25/BOCM-20250125-16.PDF"
     }
