@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de colaboración de 12 de noviembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Universidad Pontificia Comillas para el desarrollo del prácticum de los alumnos de los grados de Magisterio, Pedagogía y Psicología durante el curso escolar 2024-2025 en centros educativos no universitarios de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/25/BOCM-20250125-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de colaboración de 13 de noviembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Universidad de Navarra, para el desarrollo del prácticum de los alumnos de los Grados de Magisterio, Pedagogía y Psicología durante el curso escolar 2024-2025 en centros educativos no universitarios de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/25/BOCM-20250125-6.PDF"
     }
