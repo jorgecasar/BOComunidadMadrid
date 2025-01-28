@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Orden de 27 de diciembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se declara la pérdida del derecho al cobro de determinadas cuantías a los beneficiarios de las subvenciones al alquiler de vivienda en la Comunidad de Madrid convocadas para el año 2022 mediante Orden 3608/2022, de 19 de octubre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Listado de 2 de enero de 2025, de las cooperativas cuyas cuentas anuales han quedado depositadas en el registro de cooperativas de la Comunidad de Madrid en el trimestre 4.o del año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-16.PDF"
