@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Galapagar",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Gascones",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-52.PDF"
