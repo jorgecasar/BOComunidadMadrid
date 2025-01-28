@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Extracto de la Orden de la Consejería de Presidencia, Justicia y Administración Local por la que se convocan para el año 2025 las subvenciones destinadas a sufragar los gastos corrientes de las Mancomunidades de Municipios de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Acuerdo de 15 de enero de 2025, del Consejo de Gobierno, por el que se modifica el Acuerdo de 9 de octubre de 2018, del Consejo de Gobierno, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de las ayudas para el fomento de la responsabilidad social y la conciliación laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-12.PDF"
