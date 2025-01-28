@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Acuerdo de 15 de enero de 2025, del Consejo de Gobierno, por el que se modifica el Acuerdo de 9 de octubre de 2018, del Consejo de Gobierno, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de las ayudas para el fomento de la responsabilidad social y la conciliación laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 13 de enero de 2025, de la Dirección General de Presupuestos, por la que se hace público el “Estado de ejecución del presupuesto de gastos” correspondiente al mes de noviembre de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-13.PDF"
     }
