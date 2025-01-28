@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 20 de enero de 2025, de la Dirección General de Recursos Humanos, por la que se convocan listas extraordinarias permanentemente abiertas en determinadas especialidades del Cuerpo de Catedráticos de Música y Artes Escénicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 17 de enero de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se aprueban las relaciones definitivas de admitidos y excluidos y se publican las de excluidos a las pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría Celador, del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-4.PDF"
