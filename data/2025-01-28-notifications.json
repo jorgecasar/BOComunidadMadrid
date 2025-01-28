@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Orden de 27 de diciembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se declara la pérdida del derecho al cobro a los beneficiarios de las subvenciones al alquiler de vivienda en la Comunidad de Madrid convocadas para el año 2022 mediante Orden 3608/2022, de 19 de octubre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 27 de diciembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se declara la pérdida del derecho al cobro de determinadas cuantías a los beneficiarios de las subvenciones al alquiler de vivienda en la Comunidad de Madrid convocadas para el año 2022 mediante Orden 3608/2022, de 19 de octubre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-15.PDF"
     }
