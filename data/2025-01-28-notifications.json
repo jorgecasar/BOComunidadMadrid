@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 14 de enero de 2025, de formalización del contrato titulado “Soporte y mantenimiento del software de virtualización VMware” (Expediente 6012400298) (Contrato 7224000824)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 14 de enero de 2025, del Secretario General Técnico de la Consejería de Sanidad, por la que se dispone la publicación en el “perfil del contratante” de Internet y en los diarios oficiales, del anuncio de formalización del contrato denominado “Suministro de reactivos para técnicas de PCR, diferenciación y secuenciación de virus respiratorios del Laboratorio Regional de Salud Pública de la Comunidad de Madrid (6 lotes)”, expediente 32LT/2024 (A/SUM-027242/2024)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-24.PDF"
