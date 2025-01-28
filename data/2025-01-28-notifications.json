@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Listado de 2 de enero de 2025, de las cooperativas cuyas cuentas anuales han quedado depositadas en el registro de cooperativas de la Comunidad de Madrid en el trimestre 4.o del año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 14 de enero de 2025, de la Dirección General de Recursos Humanos, por la que se emplaza a los posibles interesados para que se personen, si a su derecho conviniere, en el recurso contencioso-administrativo interpuesto por doña María Feltrer Olasagasti contra la desestimación presunta por silencio administrativo de los recursos de alzada interpuestos por la misma, contra la Resolución de 24 de abril de 2024, de la Dirección General de Recursos Humanos, por la que se anuncia la exposición de las listas definitivas con la puntuación alcanzada en la fase de concurso por los aspirantes admitidos en el procedimiento selectivo de estabilización por el sistema de concurso-oposición, para ingreso en el Cuerpo de Maestros, convocado por Resolución de 19 de diciembre de 2022, y frente a la Resolución de 23 de julio de 2024, de la Dirección General de Recursos Humanos, por la que se anuncian las fechas de exposición de la lista de seleccionados en el procedimiento selectivo de estabilización por el sistema de concurso-oposición, para el ingreso en el Cuerpo de Maestros, convocado por Resolución de 19 de diciembre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-17.PDF"
