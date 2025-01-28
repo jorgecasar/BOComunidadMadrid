@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Algete",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Becerril de la Sierra",
       "description": "Personal: Nombramiento personal laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/27/BOCM-20250127-49.PDF"
