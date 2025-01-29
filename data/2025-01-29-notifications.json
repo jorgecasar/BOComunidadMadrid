@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 13 de enero de 2025, del Secretario General Técnico de la Consejería de Sanidad de la Comunidad de Madrid, por la que se hace pública y se ordena su publicación en el “perfil del contratante” de la Comunidad de Madrid y diarios oficiales de la modificación número 2 del contrato de Servicios denominado: “Servicio de mantenimiento, conservación y reparación integral de los edificios y locales (incluidos sus equipos e instalaciones), así como la adecuación de estos y de las unidades administrativas adscritas a los servicios centrales de la Consejería de Sanidad de la Comunidad de Madrid”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 14 de enero de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento abreviado número 561/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-28.PDF"
     }
