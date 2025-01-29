@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden 27/2025, de 14 de enero, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se aprueba convocatoria pública para la provisión de tres puestos de carrera de naturaleza laboral en la citada Consejería, por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 15 de enero de 2025, de la Universidad Autónoma de Madrid, por la que se convoca proceso selectivo para elaborar una ampliación de la lista de espera de funcionarios/as interinos/as de la Escala Especial Básica de Servicios de la Universidad Autónoma de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-12.PDF"
