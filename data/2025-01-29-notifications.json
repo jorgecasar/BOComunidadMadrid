@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 95/2025, de 13 de enero, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se delega en la Dirección General de Carreteras y en la Dirección General de Infraestructuras de Transporte Colectivo, de la Consejería de Vivienda, Transportes e Infraestructuras, determinadas funciones en materia de ruido y contaminación acústica, atribuidas a la Dirección General de Transición Energética y Economía Circular",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 10 de enero de 2025, de la Secretaria General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se hace pública la formalización del acuerdo marco de servicios dirigidos a la compra de espacios en medios de comunicación y demás soportes publicitarios, para la difusión de campañas de publicidad institucional y otros anuncios oficiales de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-19.PDF"
