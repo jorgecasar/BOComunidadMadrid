@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Aranjuez",
-      "description": "Personal: Nombramiento funcionaria carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Camarma de Esteruelas",
       "description": "Personal: Plantilla personal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-54.PDF"
