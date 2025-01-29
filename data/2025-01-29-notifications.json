@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Adenda de 20 de diciembre de 2024, por la que se prorroga la vigencia del convenio suscrito el 27 de abril de 2021 entre la Comunidad de Madrid y el Patronato Municipal de Cultura del Ayuntamiento de Pozuelo de Alarcón, para la potenciación de actividades coreográficas en dicho municipio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Dirección General de Política Energética y Minas. Autorización administrativa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-44.PDF"
