@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Casarrubuelos",
-      "description": "Organización y funcionamiento: Delegación funciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenar Viejo",
       "description": "Personal: Nombramiento funcionarios carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-56.PDF"
