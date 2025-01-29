@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Resolución de 13 de enero de 2025, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se publican las subvenciones concedidas durante el cuarto trimestre de 2024 por la Dirección General de Reequilibrio Territorial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Extracto de la Orden de 3 de diciembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan subvenciones en el año 2025 para la realización del Programa de Fomento del Empleo Juvenil con Corporaciones Locales en el marco del Programa FSE+2021/2027",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-15.PDF"
