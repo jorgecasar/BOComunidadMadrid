@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Garganta de los Montes",
-      "description": "Organización y funcionamiento: Ordenanza limpieza solares",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Loeches",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-59.PDF"
