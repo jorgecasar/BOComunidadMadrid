@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 16 de enero de 2025, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de la formalización del contrato de “Suministro de implantes de hombro”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo 100/2024, de 28 de noviembre, de la Comisión de Urbanismo de Madrid, relativo a la aprobación inicial del Plan Especial de las Infraestructuras de Evacuación de 220 kV ubicadas en la Comunidad de Madrid del proyecto de Plantas Fotovoltaicas PFOT-455 AC Nudo La Fortuna, en los términos municipales de Serranillos del Valle, Batres, Griñón, Moraleja de Enmedio, Móstoles, Fuenlabrada y Leganés, promovido por Lirio Desarrollos España, S. L.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-36.PDF"
