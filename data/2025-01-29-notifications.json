@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 3 de diciembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan subvenciones en el año 2025 para la realización del Programa de Fomento del Empleo Juvenil con Corporaciones Locales en el marco del Programa FSE+ 2021/2027",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Extracto de la Orden de 5 de diciembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se declara el importe del crédito presupuestario disponible para financiar la concesión directa, en el año 2025, de subvenciones correspondientes al programa de incentivos a la contratación de personas empleadas de hogar para la conciliación de la vida familiar y laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-17.PDF"
     }
