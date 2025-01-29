@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Contratación: Distrito de Moratalaz. Concesión demanial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Algete",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/28/BOCM-20250128-49.PDF"
