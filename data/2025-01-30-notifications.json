@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Galapagar",
-      "description": "Organización y funcionamiento: Delegación funciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Galapagar",
       "description": "Organización y funcionamiento: Nombramiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-48.PDF"
     }
