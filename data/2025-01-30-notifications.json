@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Molar",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Galapagar",
       "description": "Organización y funcionamiento: Nombramiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-46.PDF"
