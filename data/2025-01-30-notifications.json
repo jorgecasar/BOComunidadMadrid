@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ciempozuelos",
-      "description": "Urbanismo: Numeración postal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenarejo",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-43.PDF"
