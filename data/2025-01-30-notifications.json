@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Fernando de Henares",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Lorenzo de El Escorial",
       "description": "Urbanismo: Normas subsidiarias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-58.PDF"
