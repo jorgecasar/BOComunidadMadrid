@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 17 de enero de 2025, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 14 de octubre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 28 de octubre), para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 17 de enero de 2025, de la Dirección General de Función Pública, por la que se aprueba la relación provisional de personas admitidas y excluidas de la convocatoria de la bolsa de espera para el acceso a la encomienda de funciones de superior categoría al personal auxiliar de servicios en orden a la cobertura temporal de puestos de la categoría de Auxiliar de Control e Información, correspondiente a las solicitudes de participación presentadas en el periodo comprendido entre el 1 de julio de 2024 y el 31 de diciembre de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-6.PDF"
     }
