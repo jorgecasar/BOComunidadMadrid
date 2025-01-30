@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 17 de enero de 2025, complementaria de la Resolución de 11 de marzo de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Méritos por el turno libre para el acceso a la condición de personal estatutario fijo en las categorías de personal sanitario del Grupo A, Subgrupo A1, del Servicio Madrileño de Salud que se relacionan en el Anexo I",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 180/2025, de 16 de enero, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Agricultura e Interior, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-10.PDF"
