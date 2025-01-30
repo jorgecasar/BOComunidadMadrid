@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 17 de enero de 2025, de la Dirección General de Función Pública, por la que se aprueba la relación provisional de personas admitidas y excluidas de la convocatoria de la bolsa de espera para el acceso a la encomienda de funciones de superior categoría al personal auxiliar de servicios en orden a la cobertura temporal de puestos de la categoría de Auxiliar de Control e Información, correspondiente a las solicitudes de participación presentadas en el periodo comprendido entre el 1 de julio de 2024 y el 31 de diciembre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 97/2025, de 17 de enero, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada por Orden 5083/2024, de 5 de noviembre, del Consejero de Educación, Ciencia y Universidades (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 15 de noviembre de 2024), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-7.PDF"
