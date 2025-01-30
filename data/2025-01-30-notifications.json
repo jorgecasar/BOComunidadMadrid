@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 229/2025, de 20 de enero, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Medio Ambiente, Agricultura e Interior, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "CÁMARA de Cuentas de La Comunidad de Madrid",
       "description": "Resolución de 30 de diciembre de 2024, del Presidente de la Cámara de Cuentas de la Comunidad de Madrid, por la que se hace público el Acuerdo del Consejo, de 30 de diciembre de 2024, por el que se aprueba convocatoria pública de un puesto de trabajo para su provisión por el sistema de Libre Designación, en la Cámara de Cuentas de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/29/BOCM-20250129-13.PDF"
