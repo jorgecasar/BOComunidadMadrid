@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 16 de enero de 2025, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil de contratante” en Internet de la formalización del contrato de suministro de medicamentos exclusivos Sirolimus (Rapamune), Axitinib (Inlyta), Sunitinib (Sutent), Crizotinib (Xalkori), Bosutinib (Bosulif), Palbociclib (Ibrance), Ceftazidima/avibaztam (Zavicefta), Ceftarolina (Zinforo), Isavuconazol (Cresemba) y Voriconazol susp. (Vfend). Cuarta prórroga P. N. S. P. 32/2020",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 16 de enero de 2025, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la formalización del contrato de «Mantenimiento de las puertas automáticas de acceso del Hospital Universitario “La Paz”, Hospital “Carlos III”, Hospital de Cantoblanco y centros adscritos». Segunda prórroga. P. A. 37/2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-44.PDF"
     }
