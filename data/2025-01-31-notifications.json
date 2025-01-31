@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución de 17 de enero de 2025, del Director General de Patrimonio Cultural y Oficina del Español, de la Consejería de Cultura, Turismo y Deporte, por la que se hace pública la relación de subvenciones concedidas con cargo a los programas “Archivos, Gestión de Documentos y Patrimonio Documental”, “Bibliotecas y patrimonio bibliográfico” y “Patrimonio Histórico-Artístico” durante el tercer y cuarto trimestre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Resolución de 16 de enero de 2025, de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de suministros: “Cesión del derecho de uso de las licencias del software LMS Cornerstone Ondemand Learning Suite y Módulo Performance”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-23.PDF"
