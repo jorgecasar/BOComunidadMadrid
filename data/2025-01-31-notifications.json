@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 17 de enero de 2025, de la Gerencia del Hospital Universitario “Príncipe de Asturias”, de formalización del contrato P. A. HUPA 93/24: “Suministro de marcapasos y electrodos”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 20 de enero de 2025, de la Dirección-Gerencia del Hospital Universitario de Móstoles, por la que se dispone la publicación de la formalización del contrato de “Servicio de depósito, custodia, digitalización y gestión integral de la documentación clínica y administrativa del Hospital Universitario de Móstoles y centros adscritos”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-47.PDF"
     }
