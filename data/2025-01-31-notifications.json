@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 28 de enero de 2025, de adjudicación del contrato titulado “Servicio de medición de la calidad del servicio de Metro de Madrid mediante la técnica de Cliente Misterioso”. (Expediente 6012400261)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 28 de enero de 2025, de declaración de desierto de la licitación para la contratación del servicio de reparación de equipos de tecnología SEPSA (expediente 6012400067)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-33.PDF"
     }
