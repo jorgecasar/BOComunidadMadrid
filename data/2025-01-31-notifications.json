@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Orden de 20 de enero de 2025, de la Consejería de Digitalización, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución 2/2025, de 27 de enero, del Director del Centro de Enseñanza Superior Cardenal Cisneros, por la que se hace pública la oferta de empleo de una plaza de duración indefinida en la Fundación Universitaria Fray Francisco Jiménez de Cisneros",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-6.PDF"
