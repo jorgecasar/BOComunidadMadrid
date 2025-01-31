@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 27 de enero de 2025, por el que se convoca la licitación para la contratación de un acuerdo marco para el “Suministro e instalación de sistemas de elevación de trenes junto con equipamiento asociado en talleres de mantenimiento de material móvil de Metro de Madrid” (expediente 6012500035)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 27 de enero de 2025, de adjudicación del contrato titulado “Acuerdo marco para servicios de asistencia técnica en el desarrollo de acciones de ciberseguridad”. (Expediente 6012400170)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-31.PDF"
     }
