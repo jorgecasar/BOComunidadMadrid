@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cabanillas de la Sierra",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Casarrubuelos",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-57.PDF"
