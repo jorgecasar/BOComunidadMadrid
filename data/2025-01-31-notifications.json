@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 20 de enero de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento ordinario número 1693/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 17 de enero de 2025, del Consejero Delegado de la Agencia de Contratación Sanitaria, por la que se hace pública la convocatoria de licitación del contrato de “Obras de construcción del centro hospitalario de cuidados y recuperación funcional Sierra Norte,” por procedimiento abierto con pluralidad de criterios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-39.PDF"
     }
