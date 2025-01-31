@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 17 de enero de 2025, de formalización del contrato titulado “Suministro, instalación, puesta en servicio y mantenimiento de puertas de andén en la línea 6 de Metro de Madrid” (Expediente 6012400294)-(Contrato 7725000005)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 27 de enero de 2025, por el que se convoca la licitación para la contratación de un acuerdo marco para el “Suministro e instalación de sistemas de elevación de trenes junto con equipamiento asociado en talleres de mantenimiento de material móvil de Metro de Madrid” (expediente 6012500035)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-30.PDF"
     }
