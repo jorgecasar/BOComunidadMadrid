@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución 3/2025, de 20 de enero, del Director General de Deportes, por la que se dispone la publicación de los deportistas de alto rendimiento de la Comunidad de Madrid que han obtenido su calificación durante el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución de 17 de enero de 2025, de imposibilidad de ejercicio de actividad de agencia de viajes y anulación en el Registro de Empresas Turísticas a Purple Leaf, S. L.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-52.PDF"
     }
