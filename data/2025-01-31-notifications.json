@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 20 de enero de 2025, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de un puesto de trabajo vacante mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Acuerdo de 15 de enero de 2025, del Consejo de Gobierno, por el que se declara urgente la ocupación de los bienes afectados por el procedimiento de expropiación forzosa para el desarrollo de los sistemas generales adscritos al sector A2NP del Plan General de Ordenación Urbana de Algete (parte del vial V.6, rotonda R1.4 y espacio libre L1.6; y parte vial V7.2)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-16.PDF"
