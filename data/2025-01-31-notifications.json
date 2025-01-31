@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Políticas Sociales, Familia e Igualdad. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Estudio detalle",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-54.PDF"
     }
