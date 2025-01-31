@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 28 de enero de 2025, de ampliación de plazo de presentación de ofertas de la licitación de un servicio de atención al público en espacios históricos y expositivos de Metro de Madrid (Expediente 6012400441)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 28 de enero de 2025, de adjudicación del contrato titulado “Servicio de mantenimiento correctivo, preventivo y predictivo de transformadores de aceite de 45 KV” (Expediente 6012400373)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-36.PDF"
     }
