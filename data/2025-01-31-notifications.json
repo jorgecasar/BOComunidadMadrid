@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 27 de enero de 2025, de adjudicación del contrato titulado “Acuerdo marco para servicios de asistencia técnica en el desarrollo de acciones de ciberseguridad”. (Expediente 6012400170)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 28 de enero de 2025, de adjudicación del contrato titulado “Servicio de medición de la calidad del servicio de Metro de Madrid mediante la técnica de Cliente Misterioso”. (Expediente 6012400261)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-32.PDF"
     }
