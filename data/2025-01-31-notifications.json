@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 20 de diciembre de 2024, de la Dirección General de Transición Energética y Economía Circular, por la que se somete a información pública la petición de autorización administrativa y aprobación del proyecto para la modificación de la subestación 220/45/15 kV ST Leganés (ISE125) en ctra. Madrid-Fuenlabrada, km 14,4, en el término municipal de Leganés, solicitada por I-DE Redes Eléctricas Inteligentes, S. A. U.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Resolución de 14 de enero de 2025, de la Secretaría General Técnica de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se anuncia la formalización del contrato “Acogimiento residencial de menores con discapacidad moderada o severa y con trastorno de conducta asociado, atendidos con cargo a la Dirección General de Infancia, Familia y Fomento de la Natalidad (2 lotes)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-50.PDF"
