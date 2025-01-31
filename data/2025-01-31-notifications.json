@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución 2/2025, de 27 de enero, del Director del Centro de Enseñanza Superior Cardenal Cisneros, por la que se hace pública la oferta de empleo de una plaza de duración indefinida en la Fundación Universitaria Fray Francisco Jiménez de Cisneros",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 54/2025, de 20 de enero, de la Consejera de Sanidad por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-7.PDF"
