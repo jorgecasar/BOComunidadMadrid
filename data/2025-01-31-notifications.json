@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 215/2025, de 27 de enero, del Consejero de Cultura, Turismo y Deporte, por la que se convocan pruebas selectivas para la obtención de la credencial de Guía Oficial de Turismo de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución de 17 de enero de 2025, del Director General de Patrimonio Cultural y Oficina del Español, de la Consejería de Cultura, Turismo y Deporte, por la que se hace pública la relación de subvenciones concedidas con cargo a los programas “Archivos, Gestión de Documentos y Patrimonio Documental”, “Bibliotecas y patrimonio bibliográfico” y “Patrimonio Histórico-Artístico” durante el tercer y cuarto trimestre de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-22.PDF"
     }
