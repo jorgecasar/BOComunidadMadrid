@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Corrección de errores de la Resolución de 24 de enero de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se fija la fecha y el procedimiento a seguir para la elección de plazas por los aspirantes que han superado las pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Enfermero/a, se publica la relación de plazas ofertadas y se determina la entrega de documentación acreditativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 75/2025, de 20 de enero, de la Consejera de Familia, Juventud y Política Social, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Agencia Madrileña de Atención Social, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/30/BOCM-20250130-12.PDF"
