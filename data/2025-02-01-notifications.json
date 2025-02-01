@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Convenio de colaboración de 9 de enero de 2025, entre la Comunidad de Madrid, el Colegio Oficial de la Psicología de Madrid y la Fundación del Colegio Oficial de la Psicología de Madrid, para la realización de actuaciones de promoción del bienestar psicológico de la población de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 112/2025, de 20 de enero, de la Consejería de Cultura, Turismo y Deporte, por la que se dispone la aprobación de la modificación de los estatutos de la Real Federación de Fútbol de Madrid, su inscripción en el Registro de Entidades Deportivas de la Comunidad de Madrid y su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-51.PDF"
