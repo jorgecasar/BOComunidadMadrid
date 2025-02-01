@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 2 de diciembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se declara el importe del crédito presupuestario disponible, tramitado de forma anticipada, destinado a financiar la concesión directa de subvenciones, en el año 2025, de la Línea 6 del Programa para el Fomento de la Contratación en el ámbito de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 114/2025, de 23 de enero, de la Consejería de Educación, Ciencia y Universidades, por la que se modifica la Orden 1736/2023, de 19 de mayo, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se establecen los catálogos de materias optativas que los centros podrán incorporar a su oferta educativa en la Educación Secundaria Obligatoria y en el Bachillerato en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-18.PDF"
