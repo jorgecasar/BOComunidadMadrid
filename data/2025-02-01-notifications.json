@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 236/2025, de 21 de enero, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Medio Ambiente, Agricultura e Interior, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 2 de diciembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se declara el importe del crédito presupuestario disponible, tramitado de forma anticipada, destinado a financiar la concesión directa de subvenciones, en el año 2025, de la Línea 6 del Programa para el Fomento de la Contratación en el ámbito de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-17.PDF"
