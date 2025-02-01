@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alpedrete",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-58.PDF"
