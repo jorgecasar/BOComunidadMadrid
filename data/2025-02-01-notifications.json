@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 114/2025, de 23 de enero, de la Consejería de Educación, Ciencia y Universidades, por la que se modifica la Orden 1736/2023, de 19 de mayo, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se establecen los catálogos de materias optativas que los centros podrán incorporar a su oferta educativa en la Educación Secundaria Obligatoria y en el Bachillerato en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 127/2025, de 20 de enero, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se articula para el año 2025, en el ámbito de la Comunidad de Madrid, la aplicación de los pagos directos a la agricultura y a la ganadería, financiados por el Fondo Europeo Agrícola de Garantía (FEAGA) y se convocan las solicitudes de pago de las intervenciones para el desarrollo rural asimiladas al sistema integrado de gestión y control cofinanciadas por el Fondo Europeo Agrícola de Desarrollo Rural (FEADER),“Solicitud Única”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-19.PDF"
