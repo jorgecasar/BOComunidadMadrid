@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de colaboración de 7 de noviembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Universidad de Alcalá para el desarrollo del prácticum de los alumnos de los grados de Magisterio, Pedagogía y Psicología durante el curso escolar 2024-2025 en centros educativos no universitarios de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de colaboración de 12 de noviembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Universidad Rey Juan Carlos para el desarrollo del prácticum del máster universitario en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas durante el curso escolar 2024-2025 en centros educativos no universitarios de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-32.PDF"
     }
