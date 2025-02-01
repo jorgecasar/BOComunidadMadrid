@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 17 de enero de 2025, de formalización del contrato titulado “Obras de actualización sistema señalización y CBTC asociados a la renovación de material móvil y plataforma de vía de la línea 6 de Metro de Madrid”. (Expediente 6012400295) - (Contrato 7725000004)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 20 de enero de 2025, de formalización del contrato titulado “Suministro de repuestos de inmovilizado del proveedor Faiveley para el mantenimiento del sistema de frenos instalado en los trenes del material móvil de Metro de Madrid” (Expediente 6012400178) (Contrato 4624000097)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-37.PDF"
     }
