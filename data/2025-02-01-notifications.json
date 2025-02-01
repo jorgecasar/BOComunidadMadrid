@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto Orden 127/2025, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se articula para el año 2025, en el ámbito de la Comunidad de Madrid, la aplicación de los pagos directos a la agricultura y a la ganadería, financiados por el FEAGA y se convocan las solicitudes de pago de las intervenciones para el desarrollo rural asimiladas al sistema integrado de gestión y control cofinanciadas por el FEADER, “Solicitud Única, ayuda básica a la renta para la sostenibilidad”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 127/2025, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se articula para el año 2025, en el ámbito de la Comunidad de Madrid, la aplicación de los pagos directos a la agricultura y a la ganadería, financiados por el FEAGA y se convocan las solicitudes de pago de las intervenciones para el desarrollo rural asimiladas al sistema integrado de gestión y control cofinanciadas por el FEADER, “Solicitud Única, ayuda complementaria a la renta para jóvenes agricultores y jóvenes agricultoras”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-21.PDF"
     }
