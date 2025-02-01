@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 23 de enero de 2025, de la Dirección General de Recursos Humanos, por la que se procede a la reactivación de la lista de espera del Cuerpo de Auxiliares de Administración General, constituida mediante Orden de 13 de julio de 2022, de la Consejería de Economía, Hacienda y Empleo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 21 de julio)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 65/2025, de 22 de enero, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 1829/2024, de 28 de octubre, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 11 de noviembre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-14.PDF"
