@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 22 de enero de 2025, de la Universidad Complutense de Madrid, por la que se convocan ayudas UCM de matrícula en estudios oficiales de grado y máster del curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 13 de enero de 2025, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” del Portal de Contratación Pública de la Comunidad de Madrid de la licitación del contrato titulado: “Suministro de maquinaria auxiliar de limpieza de viario público (2 lotes)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-27.PDF"
