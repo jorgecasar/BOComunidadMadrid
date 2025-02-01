@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Orden de 27 de enero de 2025, de la Consejería de Presidencia, Justicia y Administración Local, por la que se resuelve la Orden de 9 de septiembre de 2024, del Consejero de Presidencia, Justicia y Administración Local (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 18 de septiembre), por la que se aprobó convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 21 de enero de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de 27 de septiembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 9 de octubre), para la provisión de varios puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Economía, Hacienda y Empleo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-6.PDF"
