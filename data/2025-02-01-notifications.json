@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alpedrete",
-      "description": "Licencias: Licencia actividad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cadalso de los Vidrios",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-59.PDF"
