@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Decreto 1/2025, de 29 de enero, del Consejo de Gobierno, por el que se concede la dispensa solicitada por el Ayuntamiento de Fuenlabrada para la prestación del servicio de prevención y extinción de incendios, tras la suscripción del preceptivo convenio de transferencia y financiación entre la Agencia de Seguridad y Emergencias Madrid 112 y dicho Ayuntamiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 24 de enero de 2025, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/01/31/BOCM-20250131-2.PDF"
