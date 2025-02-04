@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Extracto de la Orden de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se convocan subvenciones en segunda fase para la ejecución de obras de mejora o rehabilitación de edificios de uso predominante residencial para vivienda previstas dentro en el programa 1 –de ayuda a las actuaciones de rehabilitación a nivel de barriodel Real Decreto 853/2021, de 5 de octubre, y en el marco de C02.I01 del Plan de Recuperación, Transformación y Resiliencia financiado por la Unión Europea, Next-Generation-EU, en el entorno residencial de rehabilitación programada de “Las Margaritas y Fátima-La Alhóndiga. Fase I”, en el municipio de Getafe",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución 9/2025, de 20 de enero, del Consejero Delegado de la Agencia de Contratación Sanitaria de la Comunidad de Madrid, por la que se designa, con carácter permanente, a los miembros de la Mesa de Contratación de la Agencia de Contratación Sanitaria de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-20.PDF"
