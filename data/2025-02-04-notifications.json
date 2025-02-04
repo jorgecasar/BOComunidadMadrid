@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución 9/2025, de 20 de enero, del Consejero Delegado de la Agencia de Contratación Sanitaria de la Comunidad de Madrid, por la que se designa, con carácter permanente, a los miembros de la Mesa de Contratación de la Agencia de Contratación Sanitaria de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 21 de enero de 2025, de la Fundación de la Energía de la Comunidad de Madrid, por la que se amplía la cuantía del crédito presupuestario consignado en la Resolución de la Fundación de la Energía de la Comunidad de Madrid, de 15 de julio de 2021, por la que se convoca la concesión de ayudas a la movilidad eléctrica del Programa Moves III, años 2021, 2022, 2023, 2024 y 2025. Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU, Ministerio para la Transición Ecológica y el Reto Demográfico",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-21.PDF"
