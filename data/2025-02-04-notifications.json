@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Chapinería",
-      "description": "Régimen económico: Padrón fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Collado Villalba",
       "description": "Régimen económico: Padrones impuestos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-50.PDF"
