@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 21 de enero de 2025, de la Dirección-Gerencia del Hospital “Dr. Rodríguez Lafora” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Sección de Psiquiatría de la Unidad de Adicción al Alcohol en este centro asistencial para su cobertura mediante nombramiento provisional",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 253/2025, de 21 de enero, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Medio Ambiente, Agricultura e Interior, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-8.PDF"
