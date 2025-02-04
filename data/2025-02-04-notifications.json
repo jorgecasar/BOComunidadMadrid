@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 21 de enero de 2025, de la Fundación de la Energía de la Comunidad de Madrid, por la que se amplía la cuantía del crédito presupuestario consignado en la Resolución de la Fundación de la Energía de la Comunidad de Madrid, de 15 de julio de 2021, por la que se convoca la concesión de ayudas a la movilidad eléctrica del Programa Moves III, años 2021, 2022, 2023, 2024 y 2025. Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU, Ministerio para la Transición Ecológica y el Reto Demográfico",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 39/2025, de 17 de enero, del Consejero de Cultura, Turismo y Deporte, por la que se declara Bien de Interés Patrimonial de la Comunidad de Madrid la pintura Jardines de Aranjuez, obra de Santiago Rusiñol i Prats",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-22.PDF"
