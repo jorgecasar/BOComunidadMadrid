@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 20 de enero de 2025, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” de la prórroga del contrato de mantenimiento de aparatos elevadores en el Hospital Universitario de Getafe",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 20 de diciembre de 2024, de la Dirección General de Transición Energética y Economía Circular, por la que se convoca para el levantamiento de actas previas a la ocupación de las fincas afectadas por el proyecto de construcción L. S. A. T. 66 kV para interconexión entre ST Galapagar I-Galapagar II, en el término municipal de Galapagar (Madrid). EXE 03/24",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-36.PDF"
