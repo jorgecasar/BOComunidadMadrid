@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Acuerdo 131/2025, de 17 de enero, del Consejo de Administración de la Agencia Madrileña de Atención Social, por la que se adjudica, con carácter definitivo, el puesto de carrera vacante en el organismo convocado por el Gerente de la Agencia de Atención Social de “Director Centro de Mayores”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 23 de enero de 2025, de la Gerencia de la Universidad de Alcalá, por la que se nombra personal funcionario de carrera de la Escala Auxiliar Administrativa, Grupo C, Subgrupo C2, de la Universidad de Alcalá, para puestos que requieren conocimientos de idiomas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-13.PDF"
