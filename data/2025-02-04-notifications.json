@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 20 de enero de 2025, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se publican las subvenciones concedidas durante el cuarto trimestre del año 2024 a través de la Dirección General de Comercio, Consumo y Servicios (Programa 431A)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 21 de enero de 2025, de la Dirección General de Trabajo, por la que se modifica parcialmente la Resolución de 3 de diciembre de 2024, de la Dirección General de Trabajo, por la que se declaran las fiestas laborales de ámbito local en la Comunidad de Madrid para el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-16.PDF"
     }
