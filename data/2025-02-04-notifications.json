@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 14 de enero de 2025, de la Dirección-Gerencia del Hospital Universitario de “La Princesa” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Servicio de Farmacia Hospitalaria en este centro asistencial para su cobertura mediante nombramiento provisional",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 13 de enero de 2025, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Sección de Cirugía Ortopédica y Traumatología con perfil en miembro superior en este centro asistencial para su cobertura mediante nombramiento provisional",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-6.PDF"
     }
