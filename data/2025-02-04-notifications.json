@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 28 de enero de 2025, de adjudicación del contrato titulado “Suministro de material eléctrico”. (Expediente 6012400302)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 28 de enero de 2025, de adjudicación del contrato titulado “Suministro de cilindros limpiadores de bandaje para el mantenimiento de los trenes de las series 7000 y 9000 del material móvil de Metro de Madrid” (Expediente 6012400368)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/03/BOCM-20250203-31.PDF"
     }
