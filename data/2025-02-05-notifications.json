@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 2536/2024, de 26 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a municipios de la Comunidad de Madrid para la realización de actividades relacionadas con el teatro, la danza, la música y la cinematografía para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 19 de diciembre de 2024, de colaboración entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Universidad de Murcia para el desarrollo del prácticum de los alumnos de la formación equivalente a la formación pedagógica y didáctica exigida para aquellas personas que estando en posesión de una titulación declarada equivalente a efectos de docencia no pueden realizar los estudios de máster durante el curso escolar 2024-2025 en centros educativos no universitarios de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-31.PDF"
