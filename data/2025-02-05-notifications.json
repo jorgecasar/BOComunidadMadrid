@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio de 20 de diciembre de 2024, entre el Ministerio de Inclusión, Seguridad Social y Migraciones (INSS) y la Comunidad de Madrid, para el control de la incapacidad temporal durante el período 2025 a 2028",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 23 de enero de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento abreviado número 361/2024, a fin de que puedan personarse en autos, si a su Derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-33.PDF"
     }
