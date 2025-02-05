@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución de 23 de enero de 2025, del Director-Gerente del Organismo Autónomo Consorcio Regional de Transportes Públicos Regulares de Madrid, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicho organismo, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 15 de enero de 2025, de la Dirección-Gerencia de la Empresa Pública Unidad Central de Radiodiagnóstico del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de 18 de junio de 2024, para la cobertura de un puesto de Jefe/a de Sección de Radiodiagnóstico (Patología mamaria) en ese centro asistencial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-8.PDF"
