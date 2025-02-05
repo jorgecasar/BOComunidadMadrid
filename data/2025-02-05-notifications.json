@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Resolución de 16 de enero de 2025, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia, por la que se realiza convocatoria pública para la provisión de un puesto por el sistema de Libre Designación, en el Archivo Judicial Territorial de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 23 de enero de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se nombra personal funcionario de carrera del Cuerpo de Técnicos Auxiliares de Administración Especial, Especialidad de Salud Pública, Grupo C, Subgrupo C1, de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-3.PDF"
