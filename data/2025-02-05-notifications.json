@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 9 de enero de 2025, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos/as y excluidos/as al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Pediatría y sus Áreas Específicas con perfil en Oncohematología Pediátrica en ese centro asistencial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 10 de enero de 2025, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Cardiología con perfil en Críticos Cardiológicos y Hospitalización, en ese centro asistencial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-12.PDF"
     }
