@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Orden de 23 de enero de 2025, del Consejero de Presidencia, Justicia y Administración Local, por la que se resuelve la convocatoria aprobada mediante Orden de 31 de octubre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 12 de noviembre de 2024), para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 16 de enero de 2025, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia, por la que se realiza convocatoria pública para la provisión de un puesto por el sistema de Libre Designación, en el Archivo Judicial Territorial de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-2.PDF"
     }
