@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 17 de enero de 2025, de la Directora General de Formación, por la que se hace pública la relación de subvenciones concedidas con cargo al Programa 241A “Formación para el empleo” de la Consejería de Economía, Hacienda y Empleo, durante el cuarto trimestre del ejercicio 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Acuerdo de 30 de diciembre de 2024, del Consejo de Administración del Servicio Madrileño de Salud, por el que se revocan los acuerdos adoptados anteriormente, relativos a la delegación de competencias, su avocación y ratificación, y se delegan determinadas competencias del Consejo de Administración",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-29.PDF"
