@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Acuerdo de 30 de diciembre de 2024, del Consejo de Administración del Servicio Madrileño de Salud, por el que se revocan los acuerdos adoptados anteriormente, relativos a la delegación de competencias, su avocación y ratificación, y se delegan determinadas competencias del Consejo de Administración",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 2536/2024, de 26 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a municipios de la Comunidad de Madrid para la realización de actividades relacionadas con el teatro, la danza, la música y la cinematografía para el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-30.PDF"
