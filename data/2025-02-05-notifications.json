@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 23 de enero de 2025, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de “Filología Inglesa”, a doña Irene Sanz Alonso",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 19 de diciembre de 2024, de la Dirección General de Promoción Económica e Industrial, por la que se autorizan medidas alternativas de seguridad equivalente para la corrección de determinados defectos detectados en inspecciones periódicas de ascensores y se establece el procedimiento de actuación de los organismos de control. (Ref: 14-3626-00059.0/2024)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-26.PDF"
