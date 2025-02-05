@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Anuncio de 24 de enero de 2025, de Universitas XXI, S. T. U., por el que se hace pública la convocatoria de un proceso selectivo para la cobertura de dos vacantes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 23 de enero de 2025, del Director-Gerente del Organismo Autónomo Consorcio Regional de Transportes Públicos Regulares de Madrid, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicho organismo, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/04/BOCM-20250204-7.PDF"
