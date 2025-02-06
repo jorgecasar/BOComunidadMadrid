@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 22 de enero de 2025, del Rector de la Universidad Complutense de Madrid, por la que se convoca proceso selectivo para proveer, mediante libre designación, puestos funcionales vacantes en la Relación de Puestos de Trabajo de Personal Técnico, de Gestión y de Administración y Servicios Laboral de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 29 de enero de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se hace pública la declaración del crédito presupuestario disponible en 2025 para financiar las ayudas destinadas a proyectos de digitalización de la pyme madrileña, cofinanciadas por el Fondo Europeo de Desarrollo Regional (FEDER) en el marco del Programa de la Comunidad de Madrid 2021-2027",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-30.PDF"
