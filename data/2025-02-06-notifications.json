@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 2/2025, de 29 de enero, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de Monumento, la iglesia parroquial de San Vicente Mártir en Braojos de la Sierra (Madrid)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución 5/2025, de 23 de enero, del Director General de Deportes, por la que se publica en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID la relación de los beneficiarios de las subvenciones concedidas por la Consejería de Cultura, Turismo y Deporte, a instancia de la Dirección General de Deportes, durante el periodo comprendido desde el 1 de octubre hasta el 31 de diciembre de 2024 con expresión de cantidad concedida y finalidad o finalidades de la subvención",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-38.PDF"
     }
