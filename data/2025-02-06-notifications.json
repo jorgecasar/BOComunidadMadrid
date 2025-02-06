@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 193/2025, de 24 de enero, de la Consejería de Cultura, Turismo y Deporte por la que se resuelve la convocatoria aprobada mediante Orden 965/2024, de 22 de mayo, del Consejero de Cultura, Turismo y Deporte (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 10 de junio), por la que se convoca, para su cobertura interina, un puesto de trabajo vacante en dicha Consejería y se prevé la constitución de lista de espera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 22 de enero de 2025, del Rector de la Universidad Complutense de Madrid, por la que se convoca proceso selectivo para proveer, mediante libre designación, puestos funcionales vacantes en la Relación de Puestos de Trabajo de Personal Técnico, de Gestión y de Administración y Servicios Laboral de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-29.PDF"
