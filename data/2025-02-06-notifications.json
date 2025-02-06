@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio de colaboración de 15 de enero de 2025, entre el Servicio Madrileño de Salud, a través del SUMMA 112, y el excelentísimo Ayuntamiento de Villanueva de la Cañada en materia de asistencia a las urgencias, emergencias sanitarias y transporte sanitario",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Convenio de colaboración de 15 de enero de 2025, entre el Servicio Madrileño de Salud, a través del SUMMA 112, y el excelentísimo Ayuntamiento de Navalcarnero en materia de asistencia a las urgencias, emergencias sanitarias y transporte sanitario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-45.PDF"
     }
