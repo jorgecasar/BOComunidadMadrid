@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 22 de enero de 2025, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del acta de 29 de noviembre de 2024, de la comisión negociadora por la que aprueba el calendario laboral para el año 2025 del convenio colectivo de la empresa Imprenta de Billetes, S. A., medio propio del Banco de España (código número 28102242012018)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 22 de enero de 2025, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación de la revisión salarial del año 2025 del convenio colectivo de la empresa Liceo Francés de Madrid, suscrito por la Comisión Negociadora (código número 28101012012015)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-32.PDF"
     }
