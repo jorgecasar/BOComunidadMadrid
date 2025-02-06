@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 25 de enero de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se nombra personal funcionario del Cuerpo de Ingenieros y Arquitectos Técnicos, Escala de Ingeniería Técnica, Especialidad de Ordenación Rural e Industrias Agroalimentarias, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 25 de enero de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se nombra personal funcionario de carrera del Cuerpo de Diplomados de Salud Pública, Escala Salud Pública, Especialidad Terapia Ocupacional, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-9.PDF"
     }
