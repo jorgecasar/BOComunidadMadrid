@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 22 de enero de 2025, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo sobre disolución de la organización sindical denominada Sindicato Asambleario de Sanidad de la Comunidad de Madrid, con número de depósito 28000404",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 23 de enero de 2025, de la Secretaria General Técnica de la Consejería de Educación, Ciencia y Universidades, por la que se dispone la publicación de la formalización del contrato mixto de servicios y suministros necesarios para la promoción del atractivo y la calidad de la formación profesional a través de la organización de competiciones autonómicas de formación profesional Madridskills 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/05/BOCM-20250205-43.PDF"
