@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Decreto 4/2025, de 5 de febrero, del Consejo de Gobierno, por el que se nombra Director-Gerente del Centro de Asuntos Taurinos de la Comunidad de Madrid a don Miguel Ángel Martín Lorenzo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 306/2025, de 27 de enero, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se resuelve la convocatoria aprobada mediante Orden 2335/2024, de 26 de junio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID  de 5 de julio del 2024), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la citada Consejería",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-22.PDF"
     }
