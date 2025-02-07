@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Adenda de 10 de diciembre de 2024, por la que se prorroga la vigencia del convenio suscrito el 18 de junio de 2021, entre la Comunidad de Madrid y el Ayuntamiento de Torrejón de Ardoz, para la potenciación de actividades coreográficas en dicho municipio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Adenda de 11 de diciembre de 2024, por la que se modifica el convenio suscrito el 17 de marzo de 2021, entre la Comunidad de Madrid y el Ayuntamiento de Galapagar, para la potenciación de actividades coreográficas en dicho municipio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-51.PDF"
     }
