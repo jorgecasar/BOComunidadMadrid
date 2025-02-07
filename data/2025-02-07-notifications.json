@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 306/2025, de 27 de enero, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se resuelve la convocatoria aprobada mediante Orden 2335/2024, de 26 de junio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID  de 5 de julio del 2024), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la citada Consejería",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden de 27 de enero de 2025, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se resuelve la convocatoria aprobada por Orden de 7 de noviembre de 2024, de la Consejera de Familia, Juventud y Asuntos Sociales (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 19 de noviembre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-23.PDF"
