@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 28 de enero de 2025, de la Dirección General de Función Pública, mediante la que se deja sin efecto la Resolución de 14 de diciembre de 2024, de dicho centro directivo, por la que se procede a la adjudicación de destinos correspondiente al proceso extraordinario de estabilización de empleo temporal del personal laboral para el acceso a plazas de la categoría profesional de Conductor, Especialidad de Apoyo a la Extinción de Incendios Forestales (Grupo III, Nivel 5, Área B) de la Comunidad de Madrid, y se habilita un nuevo plazo para la acreditación del cumplimiento de requisitos y la elección de destinos por las personas aspirantes que han superado el citado proceso",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 28 de enero de 2025, de la Dirección General de Función Pública, mediante la que se deja sin efecto la Resolución de 4 de diciembre de 2024, de dicho centro directivo, por la que se procede a la adjudicación de destinos correspondiente a las pruebas selectivas del proceso extraordinario de estabilización de empleo temporal del personal laboral para el acceso a plazas de la categoría profesional de Técnico de Mantenimiento, Especialidad Apoyo a la Extinción de Incendios Forestales (Grupo III, Nivel 5, Área B) de la Comunidad de Madrid, y se habilita un nuevo plazo para la acreditación del cumplimiento de requisitos y la elección de destinos por las personas aspirantes que han superado las citadas pruebas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-10.PDF"
     }
