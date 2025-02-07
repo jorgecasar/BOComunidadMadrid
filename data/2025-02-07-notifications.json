@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 5673/2024, de 11 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se convocan para el año 2024 las ayudas para el desarrollo de nuevas empresas innovadoras de base tecnológica (Start-up)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 24 de enero de 2025, de la Dirección General de Vivienda y Rehabilitación, por la que se publican los precios máximos actualizados de las viviendas con protección pública de la Comunidad Madrid para el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-28.PDF"
