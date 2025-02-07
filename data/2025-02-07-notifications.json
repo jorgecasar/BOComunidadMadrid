@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden 95/2025, de 24 de enero, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se declara el importe del crédito presupuestario disponible para el procedimiento de concesión directa de las ayudas para sufragar gastos extraordinarios destinados al apoyo al acogimiento familiar con cargo a la Dirección General de Infancia, Familia y Fomento de la Natalidad en el ejercicio 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución de 24 de enero de 2025, del Director General de Cultura e Industrias Creativas, por la que se modifica la Resolución de 25 de octubre de 2024, por la que se hace pública la relación de subvenciones concedidas sin promover concurrencia por este órgano",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-30.PDF"
