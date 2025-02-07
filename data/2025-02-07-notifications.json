@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Decreto 3/2025, de 5 de febrero, del Consejo de Gobierno, por el que cesa don Miguel Abellán Hernando como Director-Gerente del Centro de Asuntos Taurinos de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Decreto 4/2025, de 5 de febrero, del Consejo de Gobierno, por el que se nombra Director-Gerente del Centro de Asuntos Taurinos de la Comunidad de Madrid a don Miguel Ángel Martín Lorenzo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-21.PDF"
     }
