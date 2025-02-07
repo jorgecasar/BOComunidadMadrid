@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 14 de enero de 2025, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 21 de octubre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 5 de noviembre), para la provisión de dos puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local (Organismo Autónomo Boletín Oficial de la Comunidad de Madrid), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 28 de enero de 2025, de la Dirección General de Función Pública, mediante la que se deja sin efecto la Resolución de 14 de diciembre de 2024, de dicho centro directivo, por la que se procede a la adjudicación de destinos correspondiente al proceso extraordinario de estabilización de empleo temporal del personal laboral para el acceso a plazas de la categoría profesional de Conductor, Especialidad de Apoyo a la Extinción de Incendios Forestales (Grupo III, Nivel 5, Área B) de la Comunidad de Madrid, y se habilita un nuevo plazo para la acreditación del cumplimiento de requisitos y la elección de destinos por las personas aspirantes que han superado el citado proceso",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-9.PDF"
     }
