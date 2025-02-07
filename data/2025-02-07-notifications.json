@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 184/2025, de 27 de enero, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 24 de enero de 2025, de la Dirección General de Recursos Humanos, por la que se convoca lista extraordinaria permanentemente abierta en determinadas especialidades del Cuerpo de Profesores de Escuelas Oficiales de Idiomas y del Cuerpo de Profesores de Música y Artes Escénicas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-15.PDF"
     }
