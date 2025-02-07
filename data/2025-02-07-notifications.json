@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 24 de enero de 2025, de la Dirección General de Recursos Humanos, por la que se convoca lista extraordinaria permanentemente abierta en determinadas especialidades del Cuerpo de Profesores de Escuelas Oficiales de Idiomas y del Cuerpo de Profesores de Música y Artes Escénicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 103/2025, de 27 de enero, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 1699/2024, de 14 de octubre, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de octubre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-16.PDF"
