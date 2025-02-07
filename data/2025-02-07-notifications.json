@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Resolución de 23 de enero de 2025, de la Secretaría General Técnica de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se anuncia la formalización del contrato “Atención residencial para menores con problemas de comportamiento y emocionales graves (3 lotes)”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Adenda de 10 de diciembre de 2024, por la que se prorroga la vigencia del convenio suscrito el 18 de junio de 2021, entre la Comunidad de Madrid y el Ayuntamiento de Torrejón de Ardoz, para la potenciación de actividades coreográficas en dicho municipio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-50.PDF"
