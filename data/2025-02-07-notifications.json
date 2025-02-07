@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Adenda de 30 de diciembre de 2024, por la que se modifica el convenio suscrito el 16 de abril de 2021, entre la Comunidad de Madrid y el Ayuntamiento de Getafe, para la potenciación de actividades coreográficas en dicho municipio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Disposiciones y Anuncios del Estado",
       "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Autorización administrativa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-55.PDF"
