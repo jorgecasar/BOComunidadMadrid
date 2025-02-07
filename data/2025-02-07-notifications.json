@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "CÁMARA de Cuentas de La Comunidad de Madrid",
-      "description": "Corrección de errores de la Resolución de 30 de diciembre de 2024, del Presidente de la Cámara de Cuentas de la Comunidad de Madrid, por la que se hace público el Acuerdo del Consejo, de 30 de diciembre de 2024, por el que se aprueba convocatoria pública de un puesto de trabajo para su provisión por el sistema de Libre Designación, en la Cámara de Cuentas de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de enero de 2025)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 23 de enero de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba el Plan Estratégico de Subvenciones para la concesión directa de ayudas para la mejora de las áreas industriales de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/06/BOCM-20250206-25.PDF"
