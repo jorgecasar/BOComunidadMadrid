@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 298/2025, de 24 de enero, de la Consejería de Medio Ambiente, Agricultura e Interior, sobre establecimiento de vedas y regulación especial de la pesca continental en los ríos, arroyos y embalses de la Comunidad de Madrid, para la temporada 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 94/2025, de 24 de enero, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se modifica la Orden 195/2022, de 2 de febrero, de la Consejera de Familia, Juventud y Política Social, por la que se dictan las instrucciones relativas al Acuerdo del Consejo de Gobierno de 9 de diciembre 2021, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de ayudas económicas de pago mensual por gestación, nacimiento de hijo o adopción de menores en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-21.PDF"
