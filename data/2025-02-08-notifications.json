@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alpedrete",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arroyomolinos",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-48.PDF"
