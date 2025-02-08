@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Collado Villalba",
-      "description": "Organización y funcionamiento: Nombramiento personal eventual",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Coslada",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-50.PDF"
