@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden 94/2025, de 24 de enero, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se modifica la Orden 195/2022, de 2 de febrero, de la Consejera de Familia, Juventud y Política Social, por la que se dictan las instrucciones relativas al Acuerdo del Consejo de Gobierno de 9 de diciembre 2021, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de ayudas económicas de pago mensual por gestación, nacimiento de hijo o adopción de menores en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución de 27 de enero de 2025, del Director General de Cultura e Industrias Creativas, por la que se hace pública la relación de subvenciones concedidas sin promover concurrencia por este órgano",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-22.PDF"
