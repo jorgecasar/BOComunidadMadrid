@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 3 de febrero de 2025, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe/a de Servicio de Pediatría y sus Áreas Específicas, Gastroenterología Infantil, en ese centro asistencial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden de 28 de enero de 2025, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se resuelve la convocatoria aprobada por Orden de 11 de diciembre de 2024, de la Consejera de Familia, Juventud y Asuntos Sociales (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 23 de diciembre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-14.PDF"
