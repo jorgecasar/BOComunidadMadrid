@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 23 de enero de 2025, de la Dirección General de Recursos Humanos, por la que se emplaza a los posibles interesados para que se personen, si a su derecho conviniere, en el recurso contencioso-administrativo interpuesto por doña Pilar Herranz González contra la Resolución del Viceconsejero de Organización Educativa, de 22 de noviembre de 2024, por la que se resuelve el recurso de alzada interpuesto por la parte interesada contra la Resolución de 25 de septiembre de 2024, de la Dirección General de Recursos Humanos, por la que se modifica la lista de seleccionados y se anuncia la publicación de una nueva lista complementaria de seleccionados del procedimiento selectivo de estabilización, por el sistema de concurso-oposición, para ingreso en el Cuerpo de Maestros, convocado por Resolución de 19 de diciembre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 298/2025, de 24 de enero, de la Consejería de Medio Ambiente, Agricultura e Interior, sobre establecimiento de vedas y regulación especial de la pesca continental en los ríos, arroyos y embalses de la Comunidad de Madrid, para la temporada 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-20.PDF"
