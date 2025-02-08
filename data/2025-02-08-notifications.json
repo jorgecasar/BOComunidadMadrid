@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 28 de enero de 2025, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en los procesos selectivos, de acceso libre y de promoción interna, para el acceso a plazas de carácter laboral de la categoría profesional de Diplomado en Enfermería (Grupo II, Nivel 7, Área D) de la Comunidad de Madrid, se publica la relación definitiva de personas excluidas y se anuncia la celebración del primer ejercicio de la oposición",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 5 de febrero de 2025, de la Dirección General de Función Pública, por la que se requiere documentación acreditativa del cumplimiento de requisitos a efectos de la constitución de la lista de espera de personal funcionario interino del Cuerpo de Técnicos y Diplomados Especialistas, Escala Ayudantes de Archivos, Bibliotecas y Museos, Especialidad de Museos, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-8.PDF"
     }
