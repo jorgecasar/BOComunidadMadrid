@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Navalcarnero",
-      "description": "Organización y funcionamiento: Reglamento Interno Policía Local",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Lorenzo de El Escorial",
       "description": "Régimen económico: Precios públicos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-57.PDF"
