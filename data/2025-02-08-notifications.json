@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Miraflores de la Sierra",
-      "description": "Régimen económico: Ordenanza régimen licencia",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Navalcarnero",
       "description": "Organización y funcionamiento: Reglamento Interno Policía Local",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-56.PDF"
