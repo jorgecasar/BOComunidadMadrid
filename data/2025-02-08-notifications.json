@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Las Rozas de Madrid",
-      "description": "Personal: Relación puestos trabajo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Manzanares el Real",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-54.PDF"
