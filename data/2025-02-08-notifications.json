@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución de 27 de enero de 2025, del Director General de Cultura e Industrias Creativas, por la que se hace pública la relación de subvenciones concedidas sin promover concurrencia por este órgano",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 23 de enero de 2025, de la Dirección General de Patrimonio y Contratación, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” del contrato de arrendamiento para uso distinto del de vivienda del inmueble ubicado en la calle Pradillo, números 62-64, de Madrid, para albergar la sede del Registro Civil Unificado de Chamartín y ampliaciones de Juzgados",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-23.PDF"
