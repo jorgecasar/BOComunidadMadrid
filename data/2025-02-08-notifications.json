@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Cultura, Turismo y Deporte. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Aldea del Fresno",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-46.PDF"
