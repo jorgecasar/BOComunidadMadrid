@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 28 de enero de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 24 de enero de 2025, de la Dirección General de Función Pública, por la que se resuelven las pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal funcionario para el ingreso en el Cuerpo de Técnicos Superiores, de Administración General, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-5.PDF"
     }
