@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "San Martín de la Vega",
-      "description": "Urbanismo: Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "San Martín de la Vega",
       "description": "Urbanismo: Estudio detalle",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-59.PDF"
     }
