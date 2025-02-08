@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 21 de enero de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se aprueba el Plan de Disposición de Fondos de la Tesorería General de la Comunidad de Madrid para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 107/2025, de 27 de enero, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la adscripción de “EAE Madrid Centro Universitario” a la Universidad Internacional de la Empresa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/07/BOCM-20250207-18.PDF"
