@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Convenio de 22 de enero de 2025, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Valdepiélagos para la adhesión de información relativa a su patrimonio de suelo disponible al Portal de Suelo de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Adenda de 30 de diciembre de 2024, de prórroga del convenio entre la Agencia de Seguridad y Emergencias Madrid 112 y el Ayuntamiento de Navalagamella para la integración de la operativa del Cuerpo de Policía Local de Navalagamella y la incorporación de agentes del mismo en el centro de coordinación municipal de la Agencia de Seguridad y Emergencias Madrid 112",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-14.PDF"
     }
