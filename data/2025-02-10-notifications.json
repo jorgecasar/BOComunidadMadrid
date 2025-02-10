@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de colaboración de 18 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Universidad de Extremadura para el desarrollo del prácticum de los alumnos de la formación equivalente a la Formación Pedagógica y Didáctica exigida para aquellas personas que estando en posesión de una titulación declarada equivalente a efectos de docencia no pueden realizar los estudios de máster durante el curso escolar 2024-2025 en centros educativos no universitarios de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de colaboración de 23 de diciembre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Sevilla la Nueva, para la expedición del “Carné Joven Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-5.PDF"
     }
