@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Convenio de colaboración de 22 de enero de 2025, entre el Servicio Madrileño de Salud, a través del SUMMA 112, y el Excelentísimo Ayuntamiento de Pinto en materia de asistencia a las urgencias, emergencias sanitarias y transporte sanitario",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 17 de enero de 2025, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Campo Real, para la adhesión de información relativa a su patrimonio de suelo disponible al Portal de Suelo de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-12.PDF"
