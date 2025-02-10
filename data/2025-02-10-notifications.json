@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Adenda de 20 de enero de 2025, al «Convenio de 8 de julio de 2024, de gestión integral del Servicio de Distribución de Agua de consumo humano entre la Comunidad de Madrid, Canal de Isabel II, Canal de Isabel II, S. A., M. P., y el Ayuntamiento de Batres, para la ampliación del ámbito de aplicación del mismo mediante la inclusión de la Urbanización “Montebatres”»",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 20 de enero de 2025, de gestión integral del servicio de distribución de agua de consumo humano entre la Comunidad de Madrid, Canal de Isabel II, Canal de Isabel II, S. A., M. P. y el Ayuntamiento de Pezuela de las Torres",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-2.PDF"
     }
