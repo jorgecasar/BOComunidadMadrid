@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Adenda de 20 de enero de 2025, de prórroga del convenio entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Confederación Española de Familias de Personas Sordas (FIAPAS) para el préstamo de bucles magnéticos de uso individual en los centros sanitarios adscritos al Servicio Madrileño de Salud",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Adenda de 20 de enero de 2025, de modificación del convenio entre la Comunidad de Madrid a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y Cáritas Diocesana de Madrid, para la implantación del proyecto de voluntariado mediante el acompañamiento de los pacientes en los centros sanitarios del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-9.PDF"
     }
