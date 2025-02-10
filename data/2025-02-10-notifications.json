@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Convenio de 20 de enero de 2025, de gestión integral del servicio de distribución de agua de consumo humano entre la Comunidad de Madrid, Canal de Isabel II, Canal de Isabel II, S. A., M. P. y el Ayuntamiento de Pezuela de las Torres",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 20 de enero de 2025, para la prestación del servicio de alcantarillado en el municipio de Pezuela de la Torres, entre la Comunidad de Madrid, Canal de Isabel II, Canal de Isabel II, Sociedad Anónima, M. P. y el Ayuntamiento de Pezuela de las Torres",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-3.PDF"
     }
