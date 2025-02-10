@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Adenda de 20 de enero de 2025, de modificación del convenio entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Fundación del Real Madrid, para la implantación del “Programa infantil baloncesto en hospitales” mediante el acompañamiento de niños y adolescentes ingresados o en tratamiento ambulatorio en los centros sanitarios del Servicio Madrileño de Salud",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Convenio de colaboración de 22 de enero de 2025, entre el Servicio Madrileño de Salud, a través del SUMMA 112, y el Excelentísimo Ayuntamiento de Pinto en materia de asistencia a las urgencias, emergencias sanitarias y transporte sanitario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/08/BOCM-20250208-11.PDF"
     }
