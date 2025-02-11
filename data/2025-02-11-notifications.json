@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "El Molar",
-      "description": "Organización y funcionamiento: Ordenanza convivencia ciudadana",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "El Molar",
       "description": "Organización y funcionamiento: Ordenanza protección contra ruido",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-39.PDF"
     }
