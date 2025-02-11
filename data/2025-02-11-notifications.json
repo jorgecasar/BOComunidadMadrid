@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madarcos",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madarcos",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-47.PDF"
     }
