@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 5 de febrero de 2025, de la Dirección-Gerencia del Hospital Universitario Clínico “San Carlos” del Servicio Madrileño de Salud, por la que se modifica la designación de los miembros de la Comisión de Selección del proceso de provisión convocado para la cobertura de un puesto de Jefe/a de Sección de Reumatología en ese centro asistencial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 29 de enero de 2025, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Ecología”, a Don Ignacio Morales Castilla",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-9.PDF"
