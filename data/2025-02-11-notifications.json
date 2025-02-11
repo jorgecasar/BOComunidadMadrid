@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Licencias: Licencia actividad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Becerril de la Sierra",
       "description": "Ofertas de empleo: Nombramiento personal laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-34.PDF"
