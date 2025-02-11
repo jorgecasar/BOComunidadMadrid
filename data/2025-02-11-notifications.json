@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 77/2025, de 17 de enero, de la Consejería de Cultura, Turismo y Deporte, por la que se convoca la X Edición del Programa de colaboración institucional en proyectos de actividad física y salud para el curso escolar 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 28 de enero de 2025, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se hace público el anuncio de información previa del contrato titulado “Alquiler de una oficina móvil con conductor para la realización de acciones de asesoramiento e información en materia de empleo”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-16.PDF"
