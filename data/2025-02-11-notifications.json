@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Torrelodones",
-      "description": "Urbanismo: Deslinde",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Valdeolmos-Alalpardo",
       "description": "Urbanismo: Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-56.PDF"
