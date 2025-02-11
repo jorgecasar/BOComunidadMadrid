@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Martín de Valdeiglesias",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Somosierra",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-54.PDF"
