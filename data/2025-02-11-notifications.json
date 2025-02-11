@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Morata de Tajuña",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Patones",
       "description": "Régimen económico: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-49.PDF"
