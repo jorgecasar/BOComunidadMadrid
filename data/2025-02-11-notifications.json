@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 24 de enero de 2025, de la Dirección-Gerencia del Centro de Transfusión de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato denominado “Suministro de materiales y reactivos en diferentes procesos asociados a citometría de flujo con esferas fluorocromadas (luminex)”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 29 de enero de 2025, de la Dirección de Gerencia del Centro de Transfusión de la Comunidad de Madrid, por la que se dispone la publicación de la formalización del contrato: “Suministro y servicio para la inactivación viral del plasma humano en el Centro de Transfusión de la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-23.PDF"
     }
