@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pozuelo de Alarcón",
-      "description": "Urbanismo: Informe evaluación edificios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Pozuelo del Rey",
       "description": "Personal: Nombramiento personal laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-52.PDF"
