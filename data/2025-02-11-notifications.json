@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 320/2025, de 6 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se establecen los servicios mínimos esenciales para los centros docentes y educativos públicos dependientes de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, con ocasión de la huelga convocada para el día 13 de febrero de 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 77/2025, de 17 de enero, de la Consejería de Cultura, Turismo y Deporte, por la que se convoca la X Edición del Programa de colaboración institucional en proyectos de actividad física y salud para el curso escolar 2025-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-15.PDF"
