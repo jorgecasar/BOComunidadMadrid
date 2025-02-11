@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 27 de enero de 2025, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, deposito y publicación del acta de 30 de noviembre de 2024, de la Comisión Negociadora, por la que aprueba el calendario laboral para el año 2025 del Convenio Colectivo del Sector Derivados del Cemento (código número 28001175011982)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 320/2025, de 6 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se establecen los servicios mínimos esenciales para los centros docentes y educativos públicos dependientes de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, con ocasión de la huelga convocada para el día 13 de febrero de 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-14.PDF"
