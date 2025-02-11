@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 29 de enero de 2025, de la Universidad Carlos III de Madrid, por la que se nombran Catedráticas y Catedráticos de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 27 de enero de 2025, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, deposito y publicación del Acta de 16 de enero de 2025, de la Comisión Negociadora, por la que aprueba el calendario laboral para el año 2025 del Convenio Colectivo de la empresa Auxiliar de Servicios de Pinto, S. A. U. (Aserpinto, S. A. U.)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-11.PDF"
