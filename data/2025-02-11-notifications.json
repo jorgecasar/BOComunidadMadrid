@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Vicealdaldía, Portavoz, Seguridad y Emergencias. Reglamento Orgánico Consejo Social",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcobendas",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-33.PDF"
