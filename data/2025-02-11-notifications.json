@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución de 28 de enero de 2025, de la Secretaría General Técnica de la Consejería de Digitalización, por la que se dispone la publicación en el “perfil del contratante”, del Portal de Contratación de la Comunidad de Madrid, de la formalización del contrato: “Sistema para el Registro de Vacunación unificado del Servicio Madrileño de Salud de la Comunidad de Madrid”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 5 de febrero de 2025, de ampliación de plazo de presentación de ofertas de la licitación del “Suministro para la conversión del sistema SAP a S/4HANA, migración de GRC, migración de BW y suministro de infraestructura y licencias en Metro de Madrid, S. A.” (expediente 6012400445)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/10/BOCM-20250210-19.PDF"
