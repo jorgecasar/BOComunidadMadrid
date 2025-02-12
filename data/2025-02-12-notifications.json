@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 27 de enero de 2025, de la Universidad Politécnica de Madrid, por la que se resuelve la convocatoria para la cobertura de diversos puestos de trabajo, por el procedimiento de libre designación, anunciada por Resolución de 23 de octubre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de noviembre de 2024)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 248/2025, de 6 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se abre un nuevo plazo de presentación de solicitudes en el marco de los procedimientos previstos en la Orden 5585/2024, de 27 de diciembre, del Consejero de Educación, Ciencia y Universidades, de selección de colegios públicos de Educación Infantil y Primaria de la Comunidad de Madrid en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en Educación Primaria en el curso 2025-2026, y en la Orden 5582/2024, de 27 de diciembre, del Consejero de Educación, Ciencia y Universidades, de selección de institutos públicos de Educación Secundaria en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en el curso 2025-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-15.PDF"
