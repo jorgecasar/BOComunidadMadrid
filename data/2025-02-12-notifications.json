@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 2570/2024, de 26 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se establece la convocatoria de ayudas a empresas privadas para realizar actividades de teatro y danza en 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 27 de enero de 2025, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo de la Comunidad de Madrid, por la que se hace pública la convocatoria del acuerdo marco para el suministro de ropa de trabajo a los centros de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-24.PDF"
