@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 29 de enero de 2025, de formalización del contrato titulado “Suministro de bandajes para el mantenimiento de ruedas elásticas de los vehículos de material móvil de Metro de Madrid” (Expediente 6012400321)-[Contratos 5324000226 (lote 1) y 5324000227 (lote 2)]",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 6 de febrero de 2025, de adjudicación del contrato titulado “Acuerdo marco para el suministro de material hardware/software informático de puesto cliente” (Expediente 6012400340)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-33.PDF"
     }
