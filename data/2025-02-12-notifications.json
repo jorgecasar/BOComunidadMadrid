@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 305/2025, de 10 de febrero, del Consejero de Cultura, Turismo y Deporte, por la que se corrigen errores materiales detectados en la Orden 215/2025, de 27 de enero, del Consejero de Cultura, Turismo y Deporte, por la que se convocan pruebas selectivas para la obtención de la credencial de Guía Oficial de Turismo de la Comunidad de Madrid y se amplía el plazo de presentación de solicitudes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 2570/2024, de 26 de diciembre, de la Consejería de Cultura, Turismo y Deporte por la que se establece la convocatoria de ayudas a empresas privadas para realizar actividades de teatro y danza en 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-22.PDF"
     }
