@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Resolución 706/2025, de 4 de febrero, del Director General de Servicios Sociales e Integración, por la que se tienen por desistidos a 1.053 beneficiarios de la ayuda del bono social térmico 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 305/2025, de 10 de febrero, del Consejero de Cultura, Turismo y Deporte, por la que se corrigen errores materiales detectados en la Orden 215/2025, de 27 de enero, del Consejero de Cultura, Turismo y Deporte, por la que se convocan pruebas selectivas para la obtención de la credencial de Guía Oficial de Turismo de la Comunidad de Madrid y se amplía el plazo de presentación de solicitudes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-21.PDF"
