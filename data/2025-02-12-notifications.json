@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 5 de febrero de 2025, de la Dirección General de Función Pública, por la que se aprueban las relaciones provisionales de personas aspirantes admitidas y excluidas en las pruebas selectivas del proceso extraordinario de estabilización de empleo temporal del personal laboral para el acceso a plazas de la categoría profesional de Titulado Medio (Grupo II, Nivel 7, Área C) de la Comunidad de Madrid, y se publica la relación provisional de personas aspirantes excluidas y la de aspirantes que han solicitado adaptación, con indicación de si deben aportar o no documentación acreditativa de la adaptación solicitada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Orden de 29 de enero de 2025, de la Consejería de Digitalización, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-8.PDF"
