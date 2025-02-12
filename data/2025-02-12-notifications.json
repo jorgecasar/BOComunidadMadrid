@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 29 de enero de 2025, del Director-Gerente del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la tercera prórroga del contrato PNSP 2022-1-011 de «Suministro de dispositivos para la administración de fármacos en aerosol “Aerogen” con mascarilla de distribución exclusiva para el Servicio de Urgencias para el Hospital Clínico “San Carlos” de Madrid»",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 29 de enero de 2025, de la Dirección-Gerencia del Hospital Universitario de Móstoles, por la que se dispone la publicación de la prórroga del contrato del expediente de “Fluidoterapia”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-52.PDF"
     }
