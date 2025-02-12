@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 248/2025, de 6 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se abre un nuevo plazo de presentación de solicitudes en el marco de los procedimientos previstos en la Orden 5585/2024, de 27 de diciembre, del Consejero de Educación, Ciencia y Universidades, de selección de colegios públicos de Educación Infantil y Primaria de la Comunidad de Madrid en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en Educación Primaria en el curso 2025-2026, y en la Orden 5582/2024, de 27 de diciembre, del Consejero de Educación, Ciencia y Universidades, de selección de institutos públicos de Educación Secundaria en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en el curso 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Extracto de la Orden 87/2025, de 28 de enero, de la Consejería de Sanidad, por la que se aprueba la convocatoria para el año 2025 de subvenciones a entidades sin ánimo de lucro de pacientes o familiares de pacientes para la realización de programas de ayuda mutua y autocuidados en salud para personas con enfermedad crónica, que se desarrollen en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-16.PDF"
