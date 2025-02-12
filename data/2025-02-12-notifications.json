@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 232/2025, de 29 de enero, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria aprobada por Orden 2121/2024, de 13 de noviembre, de la Consejería de Cultura, Turismo y Deporte (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 noviembre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "CÁMARA de Cuentas de La Comunidad de Madrid",
       "description": "Resolución de 30 de enero de 2025, del Presidente de la Cámara de Cuentas, por la que se hace público el Acuerdo del Consejo, de 29 de enero de 2025, por el que se resuelve parcialmente la convocatoria para la provisión de puestos de trabajo por el sistema de Libre Designación, aprobada por Acuerdo del Consejo de 18 de septiembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 30 de septiembre de 2024)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-13.PDF"
