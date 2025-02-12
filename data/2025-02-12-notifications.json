@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "CÁMARA de Cuentas de La Comunidad de Madrid",
-      "description": "Resolución de 30 de enero de 2025, del Presidente de la Cámara de Cuentas, por la que se hace público el Acuerdo del Consejo, de 29 de enero de 2025, por el que se resuelve parcialmente la convocatoria para la provisión de puestos de trabajo por el sistema de Libre Designación, aprobada por Acuerdo del Consejo de 18 de septiembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 30 de septiembre de 2024)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 27 de enero de 2025, de la Universidad Politécnica de Madrid, por la que se resuelve la convocatoria para la cobertura de diversos puestos de trabajo, por el procedimiento de libre designación, anunciada por Resolución de 23 de octubre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de noviembre de 2024)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/11/BOCM-20250211-14.PDF"
