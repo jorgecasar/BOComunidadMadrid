@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Colmenar de Oreja",
-      "description": "Organización y funcionamiento: Reglamento Funcionamiento Pleno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenarejo",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-47.PDF"
