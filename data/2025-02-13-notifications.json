@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Orden de 29 de enero de 2025, de la Consejería de Presidencia, Justicia y Administración Local, por la que se modifica la Orden de 7 de marzo de 2024, por la que se aprueba el Plan Estratégico de Subvenciones de la Consejería de Presidencia, Justicia y Administración Local para los años 2024 y 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 29 de noviembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba el Plan Estratégico de Subvenciones del Programa de Ayudas a Trabajadores que se constituyan por cuenta propia",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-10.PDF"
