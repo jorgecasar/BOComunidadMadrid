@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Personal: Área de Gobierno de Economía, Innovación y Hacienda. Número puestos personal eventual",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Contratación: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Enajenación parcela",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-34.PDF"
     }
