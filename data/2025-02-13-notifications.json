@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Convenio de 24 de enero de 2025, en materia de asistencia jurídica entre la Comunidad de Madrid (Consejería de Presidencia, Justicia y Administración Local) y la Agencia de Ciberseguridad de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 28 de enero de 2025, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se dispone la publicación del anuncio de información previa relativo al contrato de servicios denominado: Diagnóstico global del pequeño comercio minorista de Madrid 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-16.PDF"
