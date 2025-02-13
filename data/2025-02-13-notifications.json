@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 22 de enero de 2025, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Fundación Obra Social Boamistura para la realización de prácticas extracurriculares remuneradas de los alumnos de la Escuela Superior de Diseño",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 7 de febrero de 2025, por el que se convoca la licitación para la contratación del “Servicio de reparación de bastidores de bogie de trenes de las Series 7000 y 9000” (expediente 6012500046)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-21.PDF"
