@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cabanillas de la Sierra",
-      "description": "Personal: Régimen dedicación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Campo Real",
       "description": "Organización y funcionamiento: Ordenanza",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-44.PDF"
