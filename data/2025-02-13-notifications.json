@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 31 de enero de 2025, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 11 de septiembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de septiembre), para la provisión de un puesto de trabajo vacante en la Consejería de Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 10 de febrero de 2025, por el que se hace pública la convocatoria de un proceso selectivo para cubrir dos puestos de trabajo de técnico/a en el servicio de superestructura de vía de la división de infraestructuras, mediante un contrato laboral indefinido y a jornada completa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-7.PDF"
