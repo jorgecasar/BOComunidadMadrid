@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 10 de febrero de 2025, por el que se hace pública la convocatoria de un proceso selectivo para cubrir dos puestos de trabajo de técnico/a en el servicio de superestructura de vía de la división de infraestructuras, mediante un contrato laboral indefinido y a jornada completa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Acuerdo de 5 de febrero de 2025, del Consejo de Gobierno, por el que se cesa y nombran Vocales del Consejo de Cultura de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-8.PDF"
