@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Adenda de 22 de enero de 2025, de prórroga y modificación del convenio de colaboración en materia de formación del profesorado entre la Comunidad de Madrid (Consejería de Educación y Juventud) y la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 22 de enero de 2025, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Fundación Obra Social Boamistura para la realización de prácticas extracurriculares remuneradas de los alumnos de la Escuela Superior de Diseño",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-20.PDF"
     }
