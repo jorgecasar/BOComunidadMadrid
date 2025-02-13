@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 20 de enero de 2025, de la Convocatoria de IV premio a la mejor Tesis Doctoral en Feminismo y/o Género de la UCM",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 20 de enero de 2025, de la Directora General de Recursos Humanos y Relaciones con la Administración de Justicia, por la que se hace pública la notificación, de 4 de julio de 2024, de la Encargada del Registro de Fundaciones, por la que se pone en conocimiento que se ha practicado en este Registro la inscripción 1.a en Tomo CCCXVI (folio 301) relativa a la declaración de extinción de la Fundación Iniciativas 3",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-14.PDF"
