@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 6 de febrero de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se establecen las condiciones de una emisión de Deuda Pública sostenible de la Comunidad de Madrid por importe nominal máximo de 1.000.000.000,00 de euros",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 30 de enero de 2025, relativo a la incorporación del Ayuntamiento de Pezuela de las Torres al modelo de gestión de Canal de Isabel II, entre la Comunidad de Madrid, Canal de Isabel II y el Ayuntamiento de Pezuela de las Torres",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-12.PDF"
