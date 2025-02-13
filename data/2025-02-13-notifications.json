@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Convenio de 30 de enero de 2025, relativo a la incorporación del Ayuntamiento de Pezuela de las Torres al modelo de gestión de Canal de Isabel II, entre la Comunidad de Madrid, Canal de Isabel II y el Ayuntamiento de Pezuela de las Torres",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Extracto de la Resolución de 20 de enero de 2025, de la Convocatoria de IV premio a la mejor Tesis Doctoral en Feminismo y/o Género de la UCM",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/12/BOCM-20250212-13.PDF"
