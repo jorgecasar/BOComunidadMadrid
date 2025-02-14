@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución de 22 de enero de 2025, de cese de actividad de la agencia de viajes Viajes Avyt, S. L.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-38.PDF"
