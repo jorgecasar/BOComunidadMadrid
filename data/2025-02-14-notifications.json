@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 11 de febrero de 2025, de la Gerencia de la Universidad de Alcalá, en el proceso selectivo convocado mediante Resolución de 17 de noviembre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 11 de febrero de 2025, de la Gerencia de la Universidad de Alcalá, en el proceso selectivo convocado mediante Resolución de 7 de octubre de 2021, modificada por Resolución de 17 de noviembre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-18.PDF"
     }
