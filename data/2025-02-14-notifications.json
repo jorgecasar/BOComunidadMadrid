@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Aldea del Fresno",
-      "description": "Personal: Relación puestos trabajo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alpedrete",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-41.PDF"
