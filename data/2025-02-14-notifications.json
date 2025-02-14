@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 4 de febrero de 2025, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la relación de puestos de trabajo del Personal Técnico, de Gestión y de Administración y Servicios Funcionario de esta Universidad, aprobada en Consejo de Gobierno de 31 de enero de 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 11 de febrero de 2025, de la Gerencia de la Universidad de Alcalá, en el proceso selectivo convocado mediante Resolución de 17 de noviembre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-17.PDF"
