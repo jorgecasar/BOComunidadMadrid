@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 3 de febrero de 2025, complementaria de las Resoluciones de 1 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por las que se convocan pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en diversas categorías de Facultativo Especialista del Servicio Madrileño de Salud",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 4 de febrero de 2025, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la relación de puestos de trabajo del Personal Técnico, de Gestión y de Administración y Servicios Funcionario de esta Universidad, aprobada en Consejo de Gobierno de 31 de enero de 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-16.PDF"
