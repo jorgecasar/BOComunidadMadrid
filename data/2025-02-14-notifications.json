@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 23 de enero de 2025, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Spainmedia Consulting, S. L., para la realización de prácticas extracurriculares remuneradas de los alumnos de la Escuela Superior de Diseño",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 28 de enero de 2025, del Consejero Delegado de la Agencia de Contratación Sanitaria de la Comunidad de Madrid, por la que se anuncia la licitación del contrato “Sistemas de monitorización continua de glucosa intersticial para todos los centros dependientes del SERMAS” (lote único)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-26.PDF"
