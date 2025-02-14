@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuente el Saz de Jarama",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Garganta de los Montes",
       "description": "Organización y funcionamiento: Ordenanza limpieza solares",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-54.PDF"
