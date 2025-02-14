@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Otros anuncios: Mutación demanial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuente el Saz de Jarama",
       "description": "Régimen económico: Padrones fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-53.PDF"
