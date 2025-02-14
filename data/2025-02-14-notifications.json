@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 3 de febrero de 2025, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la Resolución de adjudicación de un puesto convocado para su provisión por el sistema de concurso especifico de méritos, convocado por Resolución de 25 de noviembre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 29 de enero de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se modifica el Plan Estratégico de Subvenciones en materia de concesión de ayudas a empresas artesanas de la Comunidad de Madrid para la promoción y formación para el período 2024-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-20.PDF"
