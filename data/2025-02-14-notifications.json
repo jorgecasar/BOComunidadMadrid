@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Campo Real",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cubas de la Sagra",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-49.PDF"
