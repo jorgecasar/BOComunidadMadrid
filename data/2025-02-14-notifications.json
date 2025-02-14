@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Adenda de 27 de enero de 2025, de prórroga al convenio entre la Tesorería General de la Seguridad Social, el Instituto Social de la Marina y la Comunidad de Madrid, en materia estadística",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 20 de enero de 2025, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Alberto Roa Batres, para la realización de prácticas externas de los alumnos de la Escuela Superior de Diseño",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-23.PDF"
