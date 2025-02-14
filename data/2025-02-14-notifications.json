@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cadalso de los Vidrios",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Campo Real",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-48.PDF"
