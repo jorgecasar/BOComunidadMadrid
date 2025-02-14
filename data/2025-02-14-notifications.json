@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Garganta de los Montes",
-      "description": "Organización y funcionamiento: Ordenanza limpieza solares",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Griñón",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-55.PDF"
