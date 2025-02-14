@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Loeches",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Navalcarnero",
       "description": "Urbanismo: Estudio detalle",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-58.PDF"
