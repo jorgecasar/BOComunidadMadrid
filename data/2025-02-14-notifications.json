@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 2 de febrero de 2025, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante”, la formalización de la modificación del contrato 2022000037 «Suministro de sistemas de terapia de presión negativa (TPN) con destino a varios Servicios del Hospital Universitario “Ramón y Cajal”»",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución de 22 de enero de 2025, de cese de actividad de la agencia de viajes Viajes Avyt, S. L.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-37.PDF"
