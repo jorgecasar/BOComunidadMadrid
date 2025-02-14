@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden 144/2025, de 31 de enero, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se declara el importe del crédito presupuestario disponible para la concesión directa, durante el año 2025, de las ayudas económicas de pago único destinadas a los hijos menores de edad de mujeres asesinadas por violencia de género, de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Adenda de 27 de enero de 2025, de prórroga al convenio entre la Tesorería General de la Seguridad Social, el Instituto Social de la Marina y la Comunidad de Madrid, en materia estadística",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/13/BOCM-20250213-22.PDF"
